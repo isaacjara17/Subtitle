@@ -1,0 +1,5496 @@
+﻿1
+00:02:51,800 --> 00:02:53,680
+Vamos, doutor.
+
+2
+00:02:58,120 --> 00:03:00,680
+Vocês precisam ficar aqui.
+
+3
+00:03:02,480 --> 00:03:04,400
+Vejam isso.
+
+4
+00:03:07,280 --> 00:03:08,960
+Impressões digitais aqui.
+
+5
+00:03:09,320 --> 00:03:11,680
+Estamos ao vivo na frente da casa...
+
+6
+00:03:11,840 --> 00:03:13,160
+do Dr. Richard Kimble...
+
+7
+00:03:13,320 --> 00:03:16,400
+um respeitado cirurgião
+do Hospital Chicago Memorial.
+
+8
+00:03:16,600 --> 00:03:17,920
+Os detalhes são escassos...
+
+9
+00:03:18,080 --> 00:03:22,600
+mas sabemos que a esposa do Dr. Kimble,
+Helen, foi encontrada morta esta noite.
+
+10
+00:03:22,840 --> 00:03:25,680
+Agora, detetives estão trazendo
+o Dr. Kimble para fora.
+
+11
+00:03:25,840 --> 00:03:30,280
+Presumimos que o levarão
+à delegacia de polícia...
+
+12
+00:03:30,440 --> 00:03:35,120
+onde talvez ele possa
+esclarecer o que aconteceu.
+
+13
+00:03:35,280 --> 00:03:38,120
+Como eu disse, ela foi encontrada
+morta pouco antes da meia-noite.
+
+14
+00:03:38,280 --> 00:03:41,280
+Sabemos que ela ligou para a polícia...
+
+15
+00:03:41,440 --> 00:03:45,280
+indicando que havia um intruso na
+casa e ela estava sendo agredida.
+
+16
+00:03:45,440 --> 00:03:46,880
+Os detalhes ainda são escassos...
+
+17
+00:03:47,040 --> 00:03:49,280
+mas sabemos que ele
+e sua esposa, Helen...
+
+18
+00:03:49,440 --> 00:03:52,520
+estavam no Hotel Four Seasons
+no Início da noite...
+
+19
+00:03:52,720 --> 00:03:55,440
+em um evento beneficente para
+o Fundo de Pesquisa Infantil.
+
+20
+00:03:59,120 --> 00:04:01,280
+Rich, lembra da Cara?
+
+21
+00:04:01,480 --> 00:04:02,800
+- Prazer em vê-la.
+- Prazer em vê-lo.
+
+22
+00:04:12,640 --> 00:04:14,960
+Endireite esse braço. Vai se cortar.
+
+23
+00:04:15,160 --> 00:04:16,640
+O golfe lhe ensinou isso?
+
+24
+00:04:16,960 --> 00:04:18,320
+Minha esposa.
+
+25
+00:04:21,480 --> 00:04:22,880
+Antes que eu me esqueça...
+
+26
+00:04:23,080 --> 00:04:25,800
+obrigado pelo carro.
+As chaves estão lá embaixo.
+
+27
+00:04:26,000 --> 00:04:28,480
+- Tem combustível?
+- Sim, o suficiente.
+
+28
+00:04:28,640 --> 00:04:30,400
+Alec, Richard Kimble.
+
+29
+00:04:30,560 --> 00:04:32,640
+- Como vai?
+- Dr. Kimble!
+
+30
+00:04:32,840 --> 00:04:34,720
+- Pode ser também.
+- Sem dúvida.
+
+31
+00:04:34,880 --> 00:04:36,680
+Quando quiser.
+
+32
+00:04:38,680 --> 00:04:42,280
+Acho uma ótima ideia vocês
+experimentarem esse projeto.
+
+33
+00:04:42,480 --> 00:04:45,080
+Deixem disso!
+Não tem nada para ver aqui.
+
+34
+00:04:45,280 --> 00:04:47,720
+- E você, venha comigo.
+- Com licença.
+
+35
+00:04:47,920 --> 00:04:50,680
+Obrigada. Eu só tinha mais uma piada.
+
+36
+00:05:02,040 --> 00:05:04,040
+Você está linda hoje.
+
+37
+00:05:05,520 --> 00:05:06,880
+Obrigada, querido.
+
+38
+00:05:07,440 --> 00:05:11,440
+Eu sei que odeia essas coisas,
+mas adoro vê-lo de smoking.
+
+39
+00:05:12,600 --> 00:05:14,880
+Eu pareço um garçom.
+
+40
+00:05:21,160 --> 00:05:22,800
+- Alô?
+- Dr. Kimble?
+
+41
+00:05:22,960 --> 00:05:25,040
+- Sim, é ele.
+- Desculpe incomodá-lo...
+
+42
+00:05:25,200 --> 00:05:28,720
+mas o Dr. Stevens está na Emergência
+e precisa da sua ajuda.
+
+43
+00:05:30,480 --> 00:05:33,040
+Ligue para ele e avise que estou indo.
+
+44
+00:05:33,200 --> 00:05:34,560
+Obrigado, doutor.
+
+45
+00:05:35,120 --> 00:05:36,480
+Obrigado. Boa noite.
+
+46
+00:05:38,400 --> 00:05:40,240
+Eu espero você chegar.
+
+47
+00:05:40,880 --> 00:05:42,880
+Eu espero você chegar.
+
+48
+00:06:10,760 --> 00:06:12,920
+Falem comigo. O que temos aqui?
+
+49
+00:06:13,080 --> 00:06:14,600
+Obrigado por vir.
+
+50
+00:06:15,280 --> 00:06:19,080
+Cinquenta e oito anos. Removemos
+a vesícula biliar. Sangramento.
+
+51
+00:06:19,360 --> 00:06:21,360
+Grave. Está no leito do fígado.
+
+52
+00:06:21,520 --> 00:06:23,680
+- Como está sua coagulação?
+- Péssima.
+
+53
+00:06:23,840 --> 00:06:26,280
+TP36eo resto errático.
+
+54
+00:06:26,440 --> 00:06:27,960
+De onde ele é?
+
+55
+00:06:28,120 --> 00:06:31,520
+Lentz é o nome no prontuário.
+Nós o bipamos, mas sem resposta.
+
+56
+00:06:31,680 --> 00:06:34,600
+Deixem-me ver.
+Preciso de espaço.
+
+57
+00:06:35,960 --> 00:06:37,600
+Passe a pinça.
+
+58
+00:06:37,960 --> 00:06:39,280
+Sucção.
+
+59
+00:06:39,440 --> 00:06:42,120
+Tem recebido ameaças no trabalho?
+
+60
+00:06:42,280 --> 00:06:45,040
+Colegas de trabalho,
+equipe do hospital, alguém?
+
+61
+00:06:46,960 --> 00:06:49,360
+- Não.
+- Algo fora do comum acontecendo?
+
+62
+00:06:50,120 --> 00:06:52,560
+Telefonemas, pessoas desligando?
+
+63
+00:06:52,720 --> 00:06:54,960
+Pessoas batendo à porta?
+
+64
+00:06:55,320 --> 00:06:56,320
+Vendedores?
+
+65
+00:06:56,480 --> 00:06:58,320
+Não que eu saiba.
+
+66
+00:06:58,640 --> 00:07:02,560
+Voltando à briga que você
+teve com o cara de um braço.
+
+67
+00:07:02,800 --> 00:07:05,400
+Aconteceu lá em cima ou embaixo?
+
+68
+00:07:06,160 --> 00:07:07,480
+Em cima.
+
+69
+00:07:07,640 --> 00:07:10,320
+E qual braço ele tinha?
+O direito ou esquerdo?
+
+70
+00:07:11,640 --> 00:07:13,640
+Com o aparato?
+
+71
+00:07:14,480 --> 00:07:15,640
+Direito.
+
+72
+00:07:15,840 --> 00:07:18,400
+É um daqueles com gancho ou...
+
+73
+00:07:20,320 --> 00:07:22,400
+Não, ele tinha uma mão cosmética.
+
+74
+00:07:22,560 --> 00:07:26,080
+O sistema de segurança
+da sua casa é muito bom.
+
+75
+00:07:26,320 --> 00:07:28,920
+Alguém mais tem o código?
+
+76
+00:07:29,840 --> 00:07:31,520
+Nossa empregada.
+
+77
+00:07:32,160 --> 00:07:34,360
+Ela sabe o código e tem a chave.
+
+78
+00:07:35,920 --> 00:07:37,440
+Esses arranhões no seu pescoço...
+
+79
+00:07:38,440 --> 00:07:40,680
+O cara de um braço que fez?
+
+80
+00:07:42,000 --> 00:07:44,360
+Helen me arranhou
+quando tentei movê-la.
+
+81
+00:07:44,520 --> 00:07:47,600
+Antes ou depois da briga
+com o cara de um braço?
+
+82
+00:07:48,840 --> 00:07:50,200
+Eu já disse.
+
+83
+00:07:50,960 --> 00:07:51,960
+Você tem uma arma?
+
+84
+00:07:53,520 --> 00:07:54,960
+Tem uma arma?
+
+85
+00:07:56,680 --> 00:07:58,680
+Sim, nós temos uma em casa.
+
+86
+00:07:58,880 --> 00:08:00,360
+Está no seu nome?
+
+87
+00:08:00,520 --> 00:08:01,520
+Está.
+
+88
+00:08:02,040 --> 00:08:03,800
+Onde você a guarda?
+
+89
+00:08:04,360 --> 00:08:05,880
+Essa sua arma.
+
+90
+00:08:06,040 --> 00:08:07,880
+No criado mudo.
+
+91
+00:08:08,440 --> 00:08:10,040
+No criado mudo da Helen.
+
+92
+00:08:10,880 --> 00:08:13,120
+Guarda muitas joias em casa?
+
+93
+00:08:15,120 --> 00:08:17,800
+Tem impressões digitais
+dele na luminária...
+
+94
+00:08:18,120 --> 00:08:20,240
+na arma e nas balas.
+
+95
+00:08:20,400 --> 00:08:23,720
+E pele do doutor
+embaixo das unhas dela.
+
+96
+00:08:24,160 --> 00:08:27,240
+Sua esposa tinha dinheiro
+na família, não?
+
+97
+00:08:27,800 --> 00:08:31,160
+Helen vem de uma família rica.
+
+98
+00:08:32,560 --> 00:08:34,000
+Ela tem seguro?
+
+99
+00:08:35,480 --> 00:08:37,000
+Sim, tem.
+
+100
+00:08:37,840 --> 00:08:39,400
+Quem é o beneficiário?
+
+101
+00:08:42,120 --> 00:08:43,120
+Eu sou.
+
+102
+00:08:43,560 --> 00:08:45,760
+O único beneficiário?
+
+103
+00:08:46,840 --> 00:08:48,000
+Sim.
+
+104
+00:08:48,920 --> 00:08:52,080
+Financeiramente, você não ficará
+mal depois disso, não é?
+
+105
+00:08:53,520 --> 00:08:55,600
+Ela valia muito dinheiro.
+
+106
+00:08:58,440 --> 00:09:00,920
+Estão sugerindo que
+eu matei minha esposa?
+
+107
+00:09:01,760 --> 00:09:05,840
+Está dizendo que esmaguei
+o crânio dela e depois atirei?
+
+108
+00:09:07,120 --> 00:09:08,840
+Como ousam?
+
+109
+00:09:09,440 --> 00:09:12,120
+Quando eu cheguei em casa,
+tinha um homem lá.
+
+110
+00:09:12,280 --> 00:09:14,040
+Eu lutei com ele.
+
+111
+00:09:14,200 --> 00:09:17,040
+- O cara de um braço.
+- Ele tinha um braço mecânico.
+
+112
+00:09:17,600 --> 00:09:19,600
+- De plástico? Borracha?
+- Encontre esse homem!
+
+113
+00:09:19,760 --> 00:09:21,520
+Encontre esse homem!
+
+114
+00:09:22,440 --> 00:09:23,520
+Qual era sua altura?
+
+115
+00:09:23,720 --> 00:09:25,440
+Ele tirou tudo de mim.
+
+116
+00:09:25,600 --> 00:09:26,960
+Meu Deus.
+
+117
+00:09:27,120 --> 00:09:28,640
+E o peso?
+
+118
+00:09:28,800 --> 00:09:30,280
+Qual era a cor do cabelo dele?
+
+119
+00:09:30,960 --> 00:09:32,880
+Qual era a cor dos olhos?
+
+120
+00:09:36,360 --> 00:09:38,800
+Não podemos ajudá-lo
+se não nos ajudar.
+
+121
+00:09:39,280 --> 00:09:40,520
+Prenda-o.
+
+122
+00:09:41,040 --> 00:09:42,600
+Senhoras e senhores do júri...
+
+123
+00:09:42,760 --> 00:09:47,040
+ouvirão provas contundentes de
+que Richard Kimble é culpado.
+
+124
+00:09:49,160 --> 00:09:51,720
+Evidência científica irrefutável...
+
+125
+00:09:51,880 --> 00:09:54,480
+de que na noite do dia 20 de janeiro...
+
+126
+00:09:54,640 --> 00:09:57,160
+Richard Kimble cruelmente...
+
+127
+00:10:00,320 --> 00:10:01,640
+atacou...
+
+128
+00:10:02,400 --> 00:10:04,760
+e matou sua esposa.
+
+129
+00:10:06,640 --> 00:10:08,240
+Mas ouvirão mais do que isso.
+
+130
+00:10:08,840 --> 00:10:11,400
+Ouvirão uma voz do túmulo.
+
+131
+00:10:11,760 --> 00:10:14,920
+A voz de Helen Kimble
+identificando seu assassino...
+
+132
+00:10:15,920 --> 00:10:18,320
+seu marido, Richard Kimble.
+
+133
+00:10:19,920 --> 00:10:21,080
+Detetive Kelly...
+
+134
+00:10:21,240 --> 00:10:25,600
+conte-nos o que viu na casa
+da vítima na noite do assassinato.
+
+135
+00:10:25,760 --> 00:10:27,440
+Nenhuma entrada forçada
+foi encontrada.
+
+136
+00:10:29,080 --> 00:10:33,360
+Desde o começo da investigação,
+não pareceu ser um roubo.
+
+137
+00:10:33,520 --> 00:10:35,040
+Nada desapareceu.
+
+138
+00:10:38,240 --> 00:10:39,240
+Querida, cheguei.
+
+139
+00:10:40,280 --> 00:10:41,880
+Quem venceu o jogo?
+
+140
+00:10:42,280 --> 00:10:44,680
+Suas impressões digitais
+estavam na arma e nas balas.
+
+141
+00:10:44,880 --> 00:10:47,720
+Nenhuma outra foi encontrada,
+além da empregada...
+
+142
+00:10:47,880 --> 00:10:49,280
+e da falecida.
+
+143
+00:10:51,720 --> 00:10:56,360
+A fratura no crânio da Sra. Kimble causou
+uma enorme hemorragia no cérebro.
+
+144
+00:10:57,200 --> 00:10:59,960
+Levou menos de cinco minutos
+para ela morrer.
+
+145
+00:11:15,800 --> 00:11:19,800
+Meritíssimo, gostaríamos de mostrar a
+ligação de emergência de Helen Kimble...
+
+146
+00:11:20,000 --> 00:11:23,920
+identificada anteriormente pela
+atendente da Polícia de Chicago.
+
+147
+00:11:25,320 --> 00:11:26,720
+Emergência.
+
+148
+00:11:27,320 --> 00:11:28,920
+Por favor, me ajude.
+
+149
+00:11:29,560 --> 00:11:31,080
+Qual é o problema?
+
+150
+00:11:34,680 --> 00:11:36,920
+Ele ainda está na casa.
+
+151
+00:11:37,080 --> 00:11:38,760
+Eu ouvi corretamente?
+
+152
+00:11:38,920 --> 00:11:40,680
+Tem alguém na sua casa?
+
+153
+00:11:42,440 --> 00:11:44,440
+Ele está tentando me matar.
+
+154
+00:11:44,680 --> 00:11:46,440
+Poderia repetir isso?
+
+155
+00:11:48,160 --> 00:11:49,360
+Senhora?
+
+156
+00:11:49,920 --> 00:11:52,360
+Ele está tentando me matar.
+
+157
+00:11:54,920 --> 00:11:57,600
+O seu agressor continua na casa?
+
+158
+00:12:03,280 --> 00:12:04,600
+Richard...
+
+159
+00:12:05,760 --> 00:12:07,280
+Richard...
+
+160
+00:12:09,440 --> 00:12:11,600
+Ele está tentando me matar.
+
+161
+00:12:20,800 --> 00:12:21,960
+Sr. Kimble...
+
+162
+00:12:22,120 --> 00:12:26,400
+considerando as ofensas
+e atenuações neste caso...
+
+163
+00:12:26,560 --> 00:12:31,320
+e entendendo que a ofensa foi brutal
+e indicativa de pura crueldade...
+
+164
+00:12:31,720 --> 00:12:36,320
+é decisão deste tribunal que seja
+mandado para a penitenciária...
+
+165
+00:12:36,480 --> 00:12:40,320
+onde aguardará a execução
+por injeção letal...
+
+166
+00:12:40,800 --> 00:12:44,720
+em uma data a ser determinada
+pelo procurador geral do estado.
+
+167
+00:12:45,080 --> 00:12:47,480
+Que Deus tenha piedade da sua alma.
+
+168
+00:13:13,920 --> 00:13:15,280
+- Carlson.
+- Aqui.
+
+169
+00:13:15,680 --> 00:13:17,000
+- Partida.
+- Aqui.
+
+170
+00:13:17,200 --> 00:13:18,520
+- Copeland.
+- O quê?
+
+171
+00:13:19,280 --> 00:13:21,040
+Comporte-se agora.
+
+172
+00:13:21,920 --> 00:13:23,200
+Kimble.
+
+173
+00:13:24,440 --> 00:13:25,520
+Aqui.
+
+174
+00:13:31,280 --> 00:13:32,960
+Vamos, cavalheiros.
+
+175
+00:13:33,440 --> 00:13:35,440
+Quatro prisioneiros saindo.
+
+176
+00:13:37,360 --> 00:13:39,480
+Prisioneiros subindo.
+
+177
+00:13:57,960 --> 00:13:59,480
+Vamos, cavalheiros.
+
+178
+00:14:02,880 --> 00:14:04,400
+Kimble, aqui.
+
+179
+00:14:06,720 --> 00:14:08,800
+Carlson, ali.
+
+180
+00:14:09,080 --> 00:14:11,160
+Partida, na frente.
+
+181
+00:14:11,720 --> 00:14:14,400
+Copeland, aqui atrás comigo.
+
+182
+00:14:17,400 --> 00:14:19,240
+Sintam-se à vontade.
+
+183
+00:14:20,680 --> 00:14:22,840
+Vocês sabem a rotina, cavalheiros.
+
+184
+00:14:51,880 --> 00:14:53,120
+Estou cansado.
+
+185
+00:14:57,800 --> 00:14:59,200
+32 Km de Menard.
+
+186
+00:14:59,520 --> 00:15:01,120
+Chegaremos lá em 40 minutos.
+
+187
+00:15:02,520 --> 00:15:06,560
+Estou feliz de me livrar dessa carga.
+Deixe McKenzie cuidar deles.
+
+188
+00:15:07,480 --> 00:15:10,640
+Espero que tenha algo bom para comer lá.
+Estou morrendo de fome.
+
+189
+00:15:10,800 --> 00:15:12,200
+Eu também.
+
+190
+00:15:13,640 --> 00:15:15,880
+Cansei daquele rango da prisão.
+
+191
+00:15:18,640 --> 00:15:22,400
+O velho Ed não liga.
+A mulher dele pôs ele na dieta.
+
+192
+00:15:22,880 --> 00:15:24,080
+Certo, Ed?
+
+193
+00:15:35,160 --> 00:15:36,480
+Ei, venham aqui, rápido!
+
+194
+00:15:39,240 --> 00:15:41,240
+Ele está vomitando! Rápido!
+
+195
+00:15:41,560 --> 00:15:44,480
+- Ele está espumando.
+- Estamos quase na prisão.
+
+196
+00:15:44,680 --> 00:15:45,680
+Ele está engasgando!
+
+197
+00:15:48,160 --> 00:15:49,160
+Espere!
+
+198
+00:16:46,160 --> 00:16:47,640
+Ah, droga!
+
+199
+00:16:51,000 --> 00:16:53,720
+Vem cá. Você é médico,
+faça alguma coisa!
+
+200
+00:16:53,880 --> 00:16:55,920
+Solte-me!
+
+201
+00:17:01,000 --> 00:17:02,160
+Você ficará bem.
+
+202
+00:17:08,400 --> 00:17:09,760
+O que é isso?
+
+203
+00:17:14,160 --> 00:17:15,440
+Merda!
+
+204
+00:17:18,680 --> 00:17:20,000
+Ajude-me!
+
+205
+00:17:20,160 --> 00:17:21,600
+Dane-se você.
+
+206
+00:17:21,760 --> 00:17:23,520
+Ajude-me com ele!
+
+207
+00:17:24,760 --> 00:17:26,520
+Vá se ferrar, doutor.
+
+208
+00:19:48,000 --> 00:19:49,080
+Escute...
+
+209
+00:19:49,840 --> 00:19:52,320
+eu não quero saber
+para onde você vai.
+
+210
+00:19:52,920 --> 00:19:54,840
+Só não me siga, entendeu?
+
+211
+00:19:59,600 --> 00:20:00,680
+Comporte-se.
+
+212
+00:20:40,080 --> 00:20:41,520
+Ora, ora, ora.
+
+213
+00:20:41,840 --> 00:20:43,440
+Que bagunça.
+
+214
+00:20:43,600 --> 00:20:45,240
+É um circo.
+
+215
+00:20:48,920 --> 00:20:50,840
+Pegou minha mochila?
+
+216
+00:20:52,920 --> 00:20:54,760
+O ponto de impacto foi aqui.
+
+217
+00:20:57,120 --> 00:21:00,200
+O primeiro vagão se soltou,
+o resto do trem descarrilou.
+
+218
+00:21:00,440 --> 00:21:01,920
+- Por uns 90 metros?
+- É.
+
+219
+00:21:02,440 --> 00:21:03,600
+Você precisa de botas novas.
+
+220
+00:21:03,760 --> 00:21:05,280
+Falei para não usar salto.
+
+221
+00:21:05,440 --> 00:21:06,760
+E pôr dois casacos.
+
+222
+00:21:06,960 --> 00:21:08,280
+Deixe para o próximo acidente.
+
+223
+00:21:08,440 --> 00:21:10,040
+Por que sempre pegamos no pé dela?
+
+224
+00:21:10,200 --> 00:21:11,200
+Porque ela nos ama.
+
+225
+00:21:11,360 --> 00:21:15,360
+- Já pensou no maquinista?
+- Aposto que ele bancou o Casey Jones.
+
+226
+00:21:15,920 --> 00:21:17,160
+Espere, senhor.
+
+227
+00:21:17,320 --> 00:21:18,680
+Quem está no comando?
+
+228
+00:21:19,040 --> 00:21:20,720
+Xerife Rawlins.
+
+229
+00:21:20,960 --> 00:21:23,280
+É só seguir as luzes da TV.
+
+230
+00:21:24,040 --> 00:21:25,360
+Xerife Rogers.
+
+231
+00:21:25,560 --> 00:21:26,640
+Rawlins!
+
+232
+00:21:31,480 --> 00:21:33,960
+Olhe lá embaixo e leve o Newman.
+
+233
+00:21:34,640 --> 00:21:36,640
+Hora de trabalhar.
+
+234
+00:21:37,480 --> 00:21:41,640
+O ônibus rolou várias vezes
+antes de parar no morro.
+
+235
+00:21:41,800 --> 00:21:44,080
+Não sei se apaguei...
+
+236
+00:21:44,240 --> 00:21:48,240
+mas quando olhei, o trem estava
+se aproximando de nós. Rápido.
+
+237
+00:21:48,480 --> 00:21:51,640
+Eu não sei como.
+Ainda estou meio confuso.
+
+238
+00:21:52,320 --> 00:21:55,480
+Eu o agarrei e o empurrei
+para fora do ônibus.
+
+239
+00:21:55,640 --> 00:21:58,680
+- Teve coragem. Os dois poderiam ter morrido.
+- Eu sei.
+
+240
+00:21:58,840 --> 00:22:01,400
+Mas ele é meu parceiro.
+Teria feito o mesmo por mim.
+
+241
+00:22:01,680 --> 00:22:05,400
+Com licença, sou o Agente Federal
+Samuel Gerard e gostaria...
+
+242
+00:22:05,600 --> 00:22:07,760
+Eu falo com você em um minuto.
+
+243
+00:22:09,520 --> 00:22:11,240
+De novo, só para constar...
+
+244
+00:22:11,440 --> 00:22:13,520
+esses três estão mortos?
+
+245
+00:22:14,680 --> 00:22:15,920
+E esse?
+
+246
+00:22:16,760 --> 00:22:19,080
+Tudo aconteceu tão rápido.
+
+247
+00:22:20,360 --> 00:22:22,200
+Não acho que ele sobreviveu.
+
+248
+00:22:23,760 --> 00:22:25,840
+Parece que veio
+de longe para nada.
+
+249
+00:22:26,040 --> 00:22:28,040
+Com todo respeito, xerife...
+
+250
+00:22:28,200 --> 00:22:30,960
+gostaria de recomendar blitz
+em um raio de 24 Km...
+
+251
+00:22:31,120 --> 00:22:33,680
+nas rodovias 1-57, 1-24
+e aqui na rota...
+
+252
+00:22:35,120 --> 00:22:37,440
+Espere. Os prisioneiros estão mortos.
+
+253
+00:22:37,600 --> 00:22:42,280
+Blitz só servirá para alarmar as pessoas
+e encher minha delegacia de ligações.
+
+254
+00:22:42,440 --> 00:22:44,960
+Odiaria ver isso
+acontecendo, xerife...
+
+255
+00:22:45,120 --> 00:22:47,720
+então tomarei sua investigação.
+
+256
+00:22:50,120 --> 00:22:51,560
+Com que autorização?
+
+257
+00:22:51,720 --> 00:22:53,040
+O governador...
+
+258
+00:22:53,200 --> 00:22:54,960
+a agência federal dos EUA...
+
+259
+00:22:55,120 --> 00:22:56,800
+e o quinto distrito de Illinois.
+
+260
+00:22:57,960 --> 00:23:02,160
+Está bem, quer cuidar
+dessa bagunça, à vontade.
+
+261
+00:23:02,320 --> 00:23:04,480
+Pessoal, escute.
+
+262
+00:23:04,640 --> 00:23:07,400
+Estamos encerrando.
+Wyatt Earp aqui...
+
+263
+00:23:07,560 --> 00:23:09,840
+Muito engraçado, Wyatt Earp.
+
+264
+00:23:10,520 --> 00:23:11,640
+Sam.
+
+265
+00:23:12,080 --> 00:23:13,080
+Nossa, vejam só!
+
+266
+00:23:17,080 --> 00:23:21,240
+Sempre ficamos fascinados quando
+achamos algemas sem pernas dentro.
+
+267
+00:23:21,400 --> 00:23:23,080
+Quem estava com a chave, senhor?
+
+268
+00:23:23,240 --> 00:23:24,240
+Eu.
+
+269
+00:23:24,400 --> 00:23:25,760
+Onde elas estão?
+
+270
+00:23:26,320 --> 00:23:27,400
+Eu não sei.
+
+271
+00:23:27,600 --> 00:23:29,320
+Pode refazer seu
+depoimento, senhor?
+
+272
+00:23:29,520 --> 00:23:30,520
+O quê?
+
+273
+00:23:30,680 --> 00:23:33,440
+Quer mudar sua história
+pra boi dormir, senhor?
+
+274
+00:23:36,920 --> 00:23:39,160
+- Ele pode ter fugido.
+- Ele pode ter fugido.
+
+275
+00:23:39,360 --> 00:23:41,760
+Você disse que ele estava
+entre os destroços!
+
+276
+00:23:41,920 --> 00:23:44,840
+Pode preparar operações.
+Escutem, todos!
+
+277
+00:23:45,000 --> 00:23:47,840
+O fugitivo está à solta há 90 minutos.
+
+278
+00:23:48,040 --> 00:23:52,200
+Média de velocidade a pé em terreno
+sinuoso, tirando ferimento, 6,5 Km/h.
+
+279
+00:23:52,360 --> 00:23:54,520
+Isso nos dá um raio de 9,5 Km.
+
+280
+00:23:57,600 --> 00:24:02,200
+O que eu quero de vocês é uma busca
+pesada em postos de gasolina...
+
+281
+00:24:03,360 --> 00:24:06,800
+residências, armazéns, fazendas,
+cabanas, galinheiros...
+
+282
+00:24:06,960 --> 00:24:08,640
+e casinhas de cachorro na área.
+
+283
+00:24:08,800 --> 00:24:11,360
+Blitz em um raio de 24 Km.
+
+284
+00:24:12,960 --> 00:24:16,480
+O nome do fugitivo é Dr. Richard Kimble.
+
+285
+00:24:19,720 --> 00:24:21,040
+Vão pegá-lo.
+
+286
+00:25:36,400 --> 00:25:37,480
+Não me venha com essa.
+
+287
+00:25:37,640 --> 00:25:40,480
+Tenho três infelizes mortos.
+Deixe-me falar com ele.
+
+288
+00:25:40,640 --> 00:25:42,640
+Stevens, é o Cosmo.
+
+289
+00:25:42,800 --> 00:25:45,560
+Terei um telefone via satélite
+em dois segundos.
+
+290
+00:25:45,720 --> 00:25:48,240
+A polícia encontrou
+um rastro de sangue...
+
+291
+00:25:48,480 --> 00:25:50,480
+três quilômetros a sudoeste.
+
+292
+00:25:50,880 --> 00:25:53,720
+Compare esse sangue
+com o dos prisioneiros.
+
+293
+00:25:55,720 --> 00:25:58,640
+Mande os dados do Kimble
+para todos os hospitais.
+
+294
+00:25:58,800 --> 00:26:00,840
+E o mesmo com os policiais.
+
+295
+00:26:04,400 --> 00:26:05,760
+O que está fazendo?
+
+296
+00:26:06,240 --> 00:26:07,560
+Pensando.
+
+297
+00:26:07,760 --> 00:26:11,400
+Pegue um café e uma rosquinha
+com cobertura para mim então...
+
+298
+00:26:11,600 --> 00:26:12,920
+enquanto está pensando.
+
+299
+00:26:13,400 --> 00:26:15,080
+Temos um corpo com vida!
+
+300
+00:26:15,240 --> 00:26:16,760
+Com vida?
+
+301
+00:26:17,840 --> 00:26:19,560
+Tem alguém vivo.
+
+302
+00:26:21,920 --> 00:26:25,280
+Vamos. Aguente firme.
+Vamos tirá-lo daqui.
+
+303
+00:26:29,000 --> 00:26:31,200
+Traga aquela ambulância aqui!
+
+304
+00:27:00,960 --> 00:27:01,960
+TRATAMENTO
+
+305
+00:27:38,320 --> 00:27:39,680
+É isto que procura?
+
+306
+00:27:40,240 --> 00:27:41,600
+Isso mesmo.
+
+307
+00:27:41,760 --> 00:27:43,240
+Farei algumas cópias.
+
+308
+00:28:07,120 --> 00:28:11,440
+Bom dia, Sr. Johnson.
+Trouxe seu café da manhã.
+
+309
+00:28:12,280 --> 00:28:14,440
+Estamos com sede hoje, não?
+
+310
+00:28:14,640 --> 00:28:16,960
+Coma antes que esfrie.
+
+311
+00:28:21,800 --> 00:28:25,120
+Fica seco aqui, não?
+
+312
+00:28:29,880 --> 00:28:31,400
+Tome.
+
+313
+00:28:31,720 --> 00:28:33,480
+Agora, coma alguma coisa.
+
+314
+00:28:33,640 --> 00:28:35,400
+Precisa ficar forte.
+
+315
+00:29:21,360 --> 00:29:25,760
+Doutor, procuramos um prisioneiro
+daquele acidente. Deve estar ferido.
+
+316
+00:29:25,960 --> 00:29:27,520
+Como ele é?
+
+317
+00:29:27,680 --> 00:29:30,440
+1,85 m, 80 Kg,
+cabelo e olhos castanhos, barba.
+
+318
+00:29:30,600 --> 00:29:32,280
+Viu alguém assim por aqui?
+
+319
+00:29:32,440 --> 00:29:34,440
+Sempre que me olho no espelho.
+
+320
+00:29:34,800 --> 00:29:36,520
+Exceto pela barba, claro.
+
+321
+00:29:36,720 --> 00:29:37,720
+Doutor!
+
+322
+00:29:44,280 --> 00:29:45,480
+Obrigado.
+
+323
+00:29:59,400 --> 00:30:01,880
+- Deixe-me ajudar.
+- Obrigado, doutor.
+
+324
+00:30:05,560 --> 00:30:06,640
+Como ele está?
+
+325
+00:30:06,800 --> 00:30:09,560
+Bem, levando em conta que
+o tiramos debaixo de um trem.
+
+326
+00:30:11,000 --> 00:30:14,080
+Avise que ele está com uma ferida
+na parte superior do estômago.
+
+327
+00:30:14,240 --> 00:30:16,760
+Como ele sabe só
+de olhar no rosto?
+
+328
+00:30:25,760 --> 00:30:28,440
+Chegou a resposta de Chicago.
+
+329
+00:30:28,840 --> 00:30:30,920
+Já estava na hora. O que temos?
+
+330
+00:30:31,440 --> 00:30:34,760
+"Richard David Kimble, cirurgião
+vascular." O que é isso?
+
+331
+00:30:35,000 --> 00:30:37,680
+Alguém que ganha
+mais do que você.
+
+332
+00:30:37,840 --> 00:30:40,760
+"Condenado pelo homicídio
+doloso de sua esposa.
+
+333
+00:30:40,920 --> 00:30:43,840
+Alegou inocência. Culpou
+um homem de um braço só."
+
+334
+00:30:44,040 --> 00:30:45,440
+Muitos amigos.
+
+335
+00:30:45,600 --> 00:30:47,960
+Médicos, equipe médica.
+
+336
+00:30:48,120 --> 00:30:51,600
+Vamos começar por aí. Quero escutas
+telefônicas. Primeiro, seu advogado.
+
+337
+00:30:51,760 --> 00:30:53,280
+Você nunca conseguirá.
+
+338
+00:30:53,440 --> 00:30:56,040
+Ligue para o Juiz Rubin.
+Diga que eu quero escutas.
+
+339
+00:30:56,200 --> 00:30:57,800
+Por que está gritando?
+
+340
+00:30:57,960 --> 00:30:59,960
+Diga quem mandou e
+que estou de bom humor.
+
+341
+00:31:00,120 --> 00:31:01,720
+Por que não grita
+com ela às vezes?
+
+342
+00:31:02,720 --> 00:31:04,800
+Recebemos uma ligação
+do hospital local.
+
+343
+00:31:04,960 --> 00:31:07,640
+O guarda ferido jura
+que viu Kimble lá.
+
+344
+00:31:07,800 --> 00:31:08,880
+Isso é quente.
+
+345
+00:31:09,040 --> 00:31:10,400
+E uma ambulância desapareceu.
+
+346
+00:31:10,880 --> 00:31:13,040
+Aonde ele vai em uma ambulância?
+
+347
+00:31:31,920 --> 00:31:33,920
+Uma ambulância foi vista...
+
+348
+00:31:34,080 --> 00:31:38,320
+três quilômetros a oeste de Doverville,
+sentido norte na autoestrada 53.
+
+349
+00:31:38,480 --> 00:31:40,000
+Saindo do mapa!
+
+350
+00:31:53,760 --> 00:31:55,360
+Peguem seus mapas.
+
+351
+00:31:55,520 --> 00:31:58,160
+Checando som.
+Peguem seus mapas.
+
+352
+00:32:04,000 --> 00:32:06,440
+Quero saber todas as rotas
+de entrada e saída da cidade.
+
+353
+00:32:18,960 --> 00:32:22,440
+Seguimos para o norte na Rota 13,
+sentido Represa Barkley.
+
+354
+00:32:22,600 --> 00:32:23,880
+Filho da mãe!
+
+355
+00:32:31,040 --> 00:32:32,880
+Não perca aquela ambulância.
+
+356
+00:32:44,640 --> 00:32:49,400
+Localizamos uma ambulância na
+Rota 13 sentido Represa Barkley.
+
+357
+00:32:49,560 --> 00:32:51,560
+Passamos por um viaduto, certo?
+
+358
+00:32:55,160 --> 00:32:59,000
+Ponha o alerta. Traga Biggs e
+Newman pelo sul do viaduto.
+
+359
+00:32:59,160 --> 00:33:00,480
+Ele está indo muito rápido.
+
+360
+00:33:06,000 --> 00:33:09,760
+Tem algum túnel até lá?
+Temos Biggs e Newman?
+
+361
+00:33:12,000 --> 00:33:14,760
+Veja no seu mapa como chegar lá.
+
+362
+00:33:41,920 --> 00:33:43,240
+Nós o pegamos!
+
+363
+00:34:01,720 --> 00:34:03,480
+Cuidado! Cuidado!
+
+364
+00:34:07,640 --> 00:34:09,880
+- O que está acontecendo?
+- Volte para o carro, senhor!
+
+365
+00:34:12,720 --> 00:34:15,080
+Newman! Bote pra quebrar!
+
+366
+00:34:24,400 --> 00:34:26,080
+Jogue luz lá!
+
+367
+00:34:27,160 --> 00:34:28,560
+Jogue luz lá!
+
+368
+00:34:28,760 --> 00:34:30,160
+Ei, o que você pegou?
+
+369
+00:34:30,320 --> 00:34:32,000
+Nada.
+
+370
+00:34:33,400 --> 00:34:36,080
+- O que pegou?
+- Deve estar brincando!
+
+371
+00:34:36,600 --> 00:34:37,840
+Você deve estar brincando!
+
+372
+00:34:43,520 --> 00:34:46,600
+Fechem o túnel! Fechem!
+
+373
+00:35:05,800 --> 00:35:07,360
+Temos uma marmota.
+
+374
+00:35:21,720 --> 00:35:25,040
+Droga! Acabei de
+comprar estes sapatos.
+
+375
+00:35:25,320 --> 00:35:27,120
+Cale a boca, Cosmo.
+
+376
+00:35:27,480 --> 00:35:28,960
+Para que lado, Sam?
+
+377
+00:37:16,480 --> 00:37:18,680
+Eu não matei minha esposa!
+
+378
+00:37:19,600 --> 00:37:21,320
+Eu não me importo!
+
+379
+00:38:13,960 --> 00:38:15,400
+Abaixe a arma!
+
+380
+00:38:17,560 --> 00:38:19,240
+Abaixe a arma!
+
+381
+00:38:20,400 --> 00:38:21,560
+Agora!
+
+382
+00:38:22,800 --> 00:38:24,080
+Mãos para cima!
+
+383
+00:38:24,480 --> 00:38:25,560
+Sobre a cabeça!
+
+384
+00:38:26,400 --> 00:38:27,720
+Vire-se!
+
+385
+00:38:30,160 --> 00:38:31,720
+Quer levar um tiro?
+
+386
+00:38:37,920 --> 00:38:39,560
+Preste atenção!
+
+387
+00:38:39,760 --> 00:38:41,760
+Fique de joelhos!
+
+388
+00:38:41,920 --> 00:38:43,760
+Agora!
+
+389
+00:39:08,120 --> 00:39:09,520
+O que aconteceu?
+Para onde ele foi?
+
+390
+00:39:09,680 --> 00:39:12,200
+Ele deu uma de Peter Pan
+nesta represa!
+
+391
+00:39:12,360 --> 00:39:13,800
+Bem aqui!
+
+392
+00:39:13,960 --> 00:39:15,800
+Lá embaixo! Bum!
+
+393
+00:39:16,040 --> 00:39:17,960
+Puta merda!
+
+394
+00:39:20,120 --> 00:39:21,440
+Podemos ir para casa agora?
+
+395
+00:39:21,640 --> 00:39:22,640
+Não.
+
+396
+00:39:24,360 --> 00:39:25,880
+Puta merda!
+
+397
+00:39:31,720 --> 00:39:33,960
+- Não tem saída daqui!
+- Precisamos subir.
+
+398
+00:39:38,040 --> 00:39:40,400
+Suba as escadas! Suba, suba!
+
+399
+00:39:40,560 --> 00:39:43,360
+Tragam eles para cá agora.
+Helicópteros, mergulhadores!
+
+400
+00:39:46,800 --> 00:39:49,400
+Feche essa água.
+Venham para cá.
+
+401
+00:39:49,560 --> 00:39:52,720
+Quero dois carros e quatro homens lá
+naquela ponte.
+
+402
+00:39:52,920 --> 00:39:55,640
+Vistoria abaixo e acima desse rio.
+
+403
+00:39:55,840 --> 00:40:00,680
+Quero um helicóptero a 30 metros.
+Avise-o sobre esses cabos.
+
+404
+00:40:00,840 --> 00:40:02,840
+Você pirou? Ele está morto!
+
+405
+00:40:03,000 --> 00:40:05,000
+Assim será mais fácil pegá-lo.
+
+406
+00:40:05,160 --> 00:40:08,400
+Quero cães farejando os dois
+bancos desse rio por 3 Km...
+
+407
+00:40:08,600 --> 00:40:10,920
+acima e abaixo.
+
+408
+00:40:11,840 --> 00:40:14,600
+- Tem uma equipe de busca nesta cidade?
+- Sim, tem.
+
+409
+00:40:14,840 --> 00:40:17,680
+Traga-a para cá e vasculhem
+o fundo desse canal.
+
+410
+00:40:18,160 --> 00:40:22,200
+- Por que não fecharam a água?
+- Tem alguém trabalhando nisso.
+
+411
+00:41:00,320 --> 00:41:02,800
+Tragam os helicópteros agora.
+
+412
+00:41:03,040 --> 00:41:04,720
+Vamos sair daqui!
+
+413
+00:41:04,880 --> 00:41:07,240
+Eu acho que não há
+nada para encontrar.
+
+414
+00:41:07,400 --> 00:41:10,400
+Mas encontre. Vocês têm
+luzes e geradores chegando.
+
+415
+00:41:36,680 --> 00:41:40,080
+- Não quero dizer como fazer seu trabalho...
+- Ponha o helicóptero na ponte!
+
+416
+00:41:40,240 --> 00:41:44,840
+..mas um em um milhão sobreviveria
+a essa queda. Ele é comida de peixe!
+
+417
+00:41:45,000 --> 00:41:47,760
+Então pegue uma vara e
+pesque o peixe que o comeu.
+
+418
+00:41:48,680 --> 00:41:51,440
+Fale com o Stevens.
+Diga que estamos a caminho.
+
+419
+00:43:31,920 --> 00:43:34,080
+Aquele homem tirou tudo de mim!
+
+420
+00:43:38,920 --> 00:43:40,520
+Não conseguimos encontrá-lo.
+
+421
+00:43:43,600 --> 00:43:45,160
+Não conseguimos encontrá-lo.
+
+422
+00:43:47,600 --> 00:43:49,760
+Encontre aquele homem!
+
+423
+00:43:57,920 --> 00:44:01,280
+Encontre aquele homem!
+
+424
+00:44:06,680 --> 00:44:09,280
+Os geradores e luzes
+de busca estão lá agora.
+
+425
+00:44:09,440 --> 00:44:11,960
+Continuarão procurando à noite.
+
+426
+00:44:12,120 --> 00:44:15,120
+Ótimo. Ligue para Kentucky
+e agradeça pelos cães.
+
+427
+00:44:15,280 --> 00:44:18,440
+Lembre-se, a ópera não
+termina até o Cachorrão uivar.
+
+428
+00:45:21,120 --> 00:45:22,440
+Precisa de carona?
+
+429
+00:45:42,120 --> 00:45:43,480
+Verifique de novo.
+
+430
+00:45:44,200 --> 00:45:47,800
+Nós o pegamos. Ele está
+com uma mulher em Whiting.
+
+431
+00:45:47,960 --> 00:45:50,640
+Ela saiu do trabalho
+e o levou para casa.
+
+432
+00:45:50,800 --> 00:45:55,400
+- Há duas horas, segundo o chefe dela.
+- Viram o carro na frente da casa.
+
+433
+00:45:55,960 --> 00:45:57,640
+Ela tem alguém?
+
+434
+00:45:57,800 --> 00:46:00,240
+Ninguém que pudemos encontrar.
+Nem família.
+
+435
+00:46:00,400 --> 00:46:05,240
+Fale para a polícia não agir até chegarmos.
+Vamos amanhã bem cedo.
+
+436
+00:46:05,400 --> 00:46:07,080
+Seu primo ainda
+tem aquele caminhão?
+
+437
+00:46:07,240 --> 00:46:08,720
+Diga que vamos precisar.
+
+438
+00:46:32,760 --> 00:46:34,080
+Fiquem próximos.
+
+439
+00:46:35,080 --> 00:46:36,840
+Na sua cola, meu chapa.
+
+440
+00:46:44,120 --> 00:46:46,840
+Eu não quero que se perca.
+Fique comigo.
+
+441
+00:47:00,480 --> 00:47:02,400
+Agentes federais!
+Todo mundo no chão!
+
+442
+00:47:08,480 --> 00:47:11,120
+Parada aí! Mãos ao alto!
+
+443
+00:47:15,440 --> 00:47:16,440
+Mãos para cima!
+
+444
+00:47:21,480 --> 00:47:23,640
+Vem, vem pra cá.
+
+445
+00:47:23,960 --> 00:47:27,080
+Peguei seu cara!
+Peguei, ouviu?
+
+446
+00:47:28,720 --> 00:47:30,720
+Eu quero sair daqui!
+
+447
+00:47:30,920 --> 00:47:32,560
+Peguei seu cara!
+
+448
+00:47:33,240 --> 00:47:34,840
+Peguei seu cara!
+
+449
+00:47:35,560 --> 00:47:39,560
+Vou estourar os miolos dele!
+Eu quero sair daqui!
+
+450
+00:47:40,480 --> 00:47:42,000
+Ouviram, tiras?
+
+451
+00:47:42,480 --> 00:47:44,080
+Ouviram?
+
+452
+00:47:44,240 --> 00:47:45,840
+Eu quero sair daqui!
+
+453
+00:47:47,160 --> 00:47:50,160
+- Escute! Podemos resolver isso!
+- Sim, podemos.
+
+454
+00:47:50,680 --> 00:47:53,440
+- Cale a boca! Cale a boca!
+- Escute.
+
+455
+00:47:53,920 --> 00:47:55,360
+Estão me ouvindo?
+
+456
+00:47:56,160 --> 00:47:58,840
+Escutem, eu vou dizer
+Oo que quero.
+
+457
+00:47:59,000 --> 00:48:00,920
+Quero um carro aí na frente.
+
+458
+00:48:04,600 --> 00:48:05,600
+Não atire.
+
+459
+00:48:05,760 --> 00:48:07,840
+Acabou.
+
+460
+00:48:30,120 --> 00:48:31,200
+Cale a boca!
+
+461
+00:49:05,760 --> 00:49:08,400
+Não consigo ouvir nada.
+Meus ouvidos...
+
+462
+00:49:11,600 --> 00:49:13,240
+Não acredito que fez aquilo.
+
+463
+00:49:14,760 --> 00:49:17,240
+Acha que eu devia ter
+barganhado com ele?
+
+464
+00:49:19,240 --> 00:49:20,360
+Sim.
+
+465
+00:49:21,080 --> 00:49:22,360
+Acho.
+
+466
+00:49:23,080 --> 00:49:24,680
+Podia ter errado...
+
+467
+00:49:25,440 --> 00:49:27,360
+e me matado.
+
+468
+00:49:29,840 --> 00:49:31,360
+Qual é a gravidade
+desse ouvido?
+
+469
+00:49:32,040 --> 00:49:34,520
+Está terrível.
+Terei um dano permanente.
+
+470
+00:49:34,680 --> 00:49:35,760
+Deixe-me ver.
+
+471
+00:49:36,200 --> 00:49:37,280
+Vem cá.
+
+472
+00:49:38,360 --> 00:49:40,120
+Pode me ouvir agora?
+
+473
+00:49:40,600 --> 00:49:41,680
+Posso.
+
+474
+00:49:43,600 --> 00:49:45,280
+Eu não...
+
+475
+00:49:46,040 --> 00:49:47,120
+barganho.
+
+476
+00:49:48,800 --> 00:49:50,040
+Ouviu?
+
+477
+00:49:51,120 --> 00:49:52,120
+Ouvi.
+
+478
+00:49:53,800 --> 00:49:54,800
+Ótimo.
+
+479
+00:50:37,600 --> 00:50:39,320
+Walter, é o Richard.
+
+480
+00:50:39,520 --> 00:50:43,600
+Meu Deus! Por que fugiu?
+Só o faz parecer mais culpado.
+
+481
+00:50:44,080 --> 00:50:46,520
+Não estava preocupado
+com aparências.
+
+482
+00:50:46,680 --> 00:50:50,000
+Diga onde está para que eu possa
+encontrá-lo e você se render.
+
+483
+00:50:50,200 --> 00:50:52,680
+Eu não vou me render.
+Preciso de ajuda, dinheiro.
+
+484
+00:50:54,040 --> 00:50:58,280
+Está me pedindo para ajudar
+um condenado. Eu não posso.
+
+485
+00:50:58,440 --> 00:51:02,440
+Meu conselho como amigo e
+advogado é que se entregue.
+
+486
+00:51:02,600 --> 00:51:04,880
+Diga, onde você está?
+
+487
+00:51:05,440 --> 00:51:06,880
+St. Louis.
+
+488
+00:51:07,120 --> 00:51:09,960
+Dê o endereço e irei para aí
+o mais rápido que puder.
+
+489
+00:51:15,720 --> 00:51:19,480
+O Sr. Copeland era um homem ruim.
+la matar um dos meus garotos.
+
+490
+00:51:20,800 --> 00:51:23,640
+Pode me culpar.
+Fui eu que atirei nele.
+
+491
+00:51:32,960 --> 00:51:37,000
+...é que se entregue.
+Diga, onde você está?
+
+492
+00:51:37,480 --> 00:51:38,640
+St. Louis.
+
+493
+00:51:38,800 --> 00:51:41,560
+Então ele não está morto.
+Que seja uma lição para vocês.
+
+494
+00:51:41,720 --> 00:51:44,720
+Nunca discuta com o Cachorrão.
+O Cachorrão está sempre certo.
+
+495
+00:51:45,560 --> 00:51:47,760
+É, já esteve certo antes.
+
+496
+00:51:50,160 --> 00:51:51,840
+Walter, é o Richard.
+
+497
+00:51:53,080 --> 00:51:56,160
+Meu Deus! Por que fugiu?
+Só o faz parecer mais culpado.
+
+498
+00:51:56,320 --> 00:51:58,520
+Não estava preocupado
+com aparências.
+
+499
+00:51:58,760 --> 00:52:02,080
+Diga onde está para que eu possa
+encontrá-lo e você se render.
+
+500
+00:52:02,320 --> 00:52:04,760
+Eu não vou me render.
+Preciso de ajuda, dinheiro.
+
+501
+00:52:04,920 --> 00:52:07,520
+Esse trem parece um elevado.
+
+502
+00:52:07,680 --> 00:52:09,440
+St. Louis não tem trem elevado.
+
+503
+00:52:09,600 --> 00:52:11,760
+Como sabe que é um elevado?
+
+504
+00:52:12,080 --> 00:52:14,200
+Eu morei embaixo de
+um elevado por 20 anos.
+
+505
+00:52:14,360 --> 00:52:19,040
+Explique a diferença entre o som
+de um elevado e um trem no solo.
+
+506
+00:52:19,200 --> 00:52:21,120
+Você deve ter ouvidos de águia.
+
+507
+00:52:21,280 --> 00:52:24,200
+Toque isso de novo. Quero ouvir
+o som de um trem elevado.
+
+508
+00:52:24,360 --> 00:52:26,800
+Que cidade têm elevados?
+Nova York tem.
+
+509
+00:52:26,960 --> 00:52:28,280
+- Filadélfia.
+- Nós temos.
+
+510
+00:52:28,440 --> 00:52:29,720
+Milwaukee.
+
+511
+00:52:29,880 --> 00:52:33,200
+Pare onde o advogado diz que
+ele parece culpado. Tem sinos.
+
+512
+00:52:33,360 --> 00:52:37,040
+Tem um cara num alto-falante.
+Pode isolar tudo menos ele?
+
+513
+00:52:37,200 --> 00:52:38,280
+Vou tentar.
+
+514
+00:52:40,360 --> 00:52:42,560
+Walter, é o Richard.
+
+515
+00:52:42,800 --> 00:52:44,120
+Bem aí.
+
+516
+00:52:44,960 --> 00:52:46,320
+O que ele está dizendo?
+
+517
+00:52:46,480 --> 00:52:49,640
+Parece "próxima parada". Repita!
+
+518
+00:52:53,160 --> 00:52:54,640
+"Próxima parada”.
+
+519
+00:52:55,400 --> 00:52:56,880
+Merchandise Mart.
+
+520
+00:52:57,080 --> 00:52:59,320
+Filho da mãe!
+O garoto voltou para casa.
+
+521
+00:52:59,720 --> 00:53:02,920
+O sino é aquele da ponte Wells Street,
+a seis quadras daqui.
+
+522
+00:53:04,160 --> 00:53:05,720
+Sabia que era um elevado.
+
+523
+00:53:05,920 --> 00:53:08,160
+É, Cachorrão. Você nunca está errado.
+
+524
+00:53:08,400 --> 00:53:11,400
+- Vou ligar para a Polícia.
+- Esse é o arquivo de Chicago.
+
+525
+00:53:13,080 --> 00:53:15,680
+Quando eu morrer,
+quero voltar como você.
+
+526
+00:53:15,840 --> 00:53:17,000
+Feliz e bonito?
+
+527
+00:53:18,080 --> 00:53:19,840
+- Vou notificar a imprensa.
+- Nada de imprensa.
+
+528
+00:53:20,000 --> 00:53:21,240
+Certo, nada de imprensa.
+
+529
+00:53:40,120 --> 00:53:42,120
+- Oi, Billy.
+- Como vai, senhor?
+
+530
+00:53:42,280 --> 00:53:44,280
+- Bem, e você?
+- Tudo certo.
+
+531
+00:53:47,760 --> 00:53:49,960
+- Tome. Até mais.
+- Tenha um bom dia, senhor.
+
+532
+00:54:03,880 --> 00:54:06,040
+Troco? Dólar, senhor?
+
+533
+00:54:06,560 --> 00:54:09,400
+Não, muito obrigado.
+Eu não quero.
+
+534
+00:54:12,400 --> 00:54:14,560
+Meu Deus. Richard!
+
+535
+00:54:15,320 --> 00:54:16,640
+Como vai, Charlie?
+
+536
+00:54:16,800 --> 00:54:18,160
+Meu Deus, você voltou.
+
+537
+00:54:18,400 --> 00:54:19,400
+Eu preciso de dinheiro.
+
+538
+00:54:19,800 --> 00:54:21,240
+Claro. Entre.
+
+539
+00:54:21,400 --> 00:54:23,880
+Não, não posso.
+O que você tiver com você.
+
+540
+00:54:24,080 --> 00:54:26,400
+Você é bacana.
+Se não é agora, será.
+
+541
+00:54:26,560 --> 00:54:29,560
+Tem um lugar para ficar?
+Como posso ajudá-lo?
+
+542
+00:54:31,160 --> 00:54:33,160
+O semáforo está verde. Mexa-se!
+
+543
+00:54:33,960 --> 00:54:34,960
+Eu ligo para você.
+
+544
+00:54:45,840 --> 00:54:48,240
+Por que Kimble matou a esposa?
+
+545
+00:54:48,440 --> 00:54:49,760
+Pelo dinheiro.
+
+546
+00:54:49,920 --> 00:54:52,680
+Como assim, pelo dinheiro?
+Ele é médico. Já é rico.
+
+547
+00:54:52,840 --> 00:54:54,080
+Ela era mais rica.
+
+548
+00:54:55,280 --> 00:54:58,080
+Esse é todo o arquivo
+da Polícia de Chicago?
+
+549
+00:54:58,280 --> 00:55:01,120
+- Está tudo aí.
+- Eu quero fazer as entrevistas de novo.
+
+550
+00:55:01,680 --> 00:55:04,040
+A lista da equipe médica
+está no arquivo?
+
+551
+00:55:04,200 --> 00:55:06,120
+- Claro.
+- Obrigado.
+
+552
+00:55:06,280 --> 00:55:07,960
+Vocês não querem usar a mídia?
+
+553
+00:55:08,120 --> 00:55:12,760
+Não, queremos ele relaxado.
+À vontade, tentando recuperar a vida.
+
+554
+00:55:16,880 --> 00:55:19,120
+Aqui é o apartamento.
+
+555
+00:55:19,280 --> 00:55:22,440
+Tem aquecedor para se esquentar.
+
+556
+00:55:22,640 --> 00:55:24,960
+Aqui tem a cozinha. Pia.
+
+557
+00:55:25,120 --> 00:55:27,960
+Ali está o banheiro.
+E aqui o quarto.
+
+558
+00:55:28,200 --> 00:55:29,720
+A cama é boa.
+
+559
+00:55:29,880 --> 00:55:31,280
+Bastante espaço.
+
+560
+00:55:31,480 --> 00:55:32,880
+Pode olhar.
+
+561
+00:55:56,400 --> 00:55:58,160
+Gostou do lugar?
+
+562
+00:55:58,480 --> 00:55:59,560
+Está bom?
+
+563
+00:56:01,000 --> 00:56:02,240
+É perfeito.
+
+564
+00:56:02,800 --> 00:56:04,160
+Certo, pessoal.
+
+565
+00:56:04,320 --> 00:56:08,320
+Hoje de manhã, fomos notificados
+pela agência federal...
+
+566
+00:56:08,520 --> 00:56:13,160
+que nosso velho amigo Dr. Richard Kimble
+está vivo e voltou para Chicago.
+
+567
+00:56:14,360 --> 00:56:17,360
+Vocês sabem a importância
+de prendermos esse traste.
+
+568
+00:56:17,520 --> 00:56:20,840
+Então estou doando uma garrafa
+de Scotch de 12 anos...
+
+569
+00:56:21,000 --> 00:56:23,200
+para quem pegar esse bandido.
+
+570
+00:56:23,440 --> 00:56:25,840
+Dick Rosetti está
+passando os detalhes.
+
+571
+00:57:15,720 --> 00:57:18,240
+- Ferimento à bala no ombro esquerdo.
+- Sinais vitais?
+
+572
+00:57:18,400 --> 00:57:21,320
+120 por 60. Pulsação 98.
+
+573
+00:57:27,080 --> 00:57:28,720
+MIOELÉTRICA
+
+574
+00:57:32,840 --> 00:57:34,680
+PRÓTESES
+ÓRTOSES
+
+575
+00:57:47,600 --> 00:57:48,760
+Posso ajudá-lo?
+
+576
+00:58:40,840 --> 00:58:42,480
+LABORATÓRIO PROTÉTICO
+POR FAVOR, USE PORTA PRINCIPAL
+
+577
+00:59:22,120 --> 00:59:23,680
+Vocês estudaram medicina juntos?
+
+578
+00:59:23,880 --> 00:59:25,280
+Sim, estudamos.
+
+579
+00:59:25,960 --> 00:59:27,720
+A turma de 73.
+
+580
+00:59:29,120 --> 00:59:30,520
+Conhece Morton Feinberg?
+
+581
+00:59:30,720 --> 00:59:32,520
+- Conheço.
+- Ele é um cara muito legal.
+
+582
+00:59:33,440 --> 00:59:34,880
+Quando o viu pela última vez?
+
+583
+00:59:35,040 --> 00:59:36,360
+Quem, Richard?
+
+584
+00:59:37,880 --> 00:59:40,280
+Certo, eu o vi hoje de manhã.
+
+585
+00:59:41,280 --> 00:59:42,640
+Hoje de manhã?
+
+586
+00:59:42,800 --> 00:59:44,960
+Ele apareceu no meu carro.
+Dei dinheiro para ele.
+
+587
+00:59:46,960 --> 00:59:48,120
+Onde foi isso?
+
+588
+00:59:48,880 --> 00:59:50,880
+Na frente do meu clube de tênis.
+
+589
+00:59:51,040 --> 00:59:52,240
+Ele pediu ajuda?
+
+590
+00:59:52,400 --> 00:59:55,480
+Eu ofereci. Ele não aceitou.
+
+591
+00:59:55,640 --> 00:59:57,160
+Quanto deu para ele?
+
+592
+00:59:57,880 --> 00:59:59,800
+Só uns trocados.
+O que eu tinha comigo.
+
+593
+01:00:00,000 --> 01:00:03,160
+- Ele não irá longe.
+- Por que ele voltaria para Chicago?
+
+594
+01:00:03,480 --> 01:00:04,840
+Ele não me disse.
+
+595
+01:00:05,000 --> 01:00:09,240
+Ele está tentando protegê-lo
+de mentir por ele, mas...
+
+596
+01:00:13,080 --> 01:00:15,920
+Se realmente quer ser amigo dele,
+ajude-nos...
+
+597
+01:00:16,120 --> 01:00:18,280
+a trazê-lo ileso.
+
+598
+01:00:18,840 --> 01:00:20,000
+Por quê?
+
+599
+01:00:20,600 --> 01:00:22,600
+Para ele voltar à prisão?
+
+600
+01:00:25,440 --> 01:00:28,680
+Se quer ajuda, cavalheiros,
+vieram ao homem errado.
+
+601
+01:00:29,080 --> 01:00:31,280
+Richard é inocente.
+
+602
+01:00:31,600 --> 01:00:34,280
+Jamais irão encontrá-lo.
+Ele é muito esperto.
+
+603
+01:00:34,440 --> 01:00:36,760
+Nós somos caras espertos.
+
+604
+01:00:37,360 --> 01:00:42,040
+É, e nós? Nós somos espertos.
+Quão esperto ele pode ser?
+
+605
+01:00:42,280 --> 01:00:43,960
+Ele é tão esperto quanto você?
+
+606
+01:00:45,520 --> 01:00:46,880
+Mais esperto.
+
+607
+01:01:05,560 --> 01:01:09,560
+Cirurgia vascular periférica. Tratar
+artérias que saem do coração.
+
+608
+01:01:09,720 --> 01:01:13,480
+- Há quanto tempo conhece Richard Kimble?
+- Dez anos. Desde que cheguei aqui.
+
+609
+01:01:16,560 --> 01:01:19,560
+Que tipo de medicina
+ele praticava no hospital?
+
+610
+01:01:41,160 --> 01:01:44,920
+Primeiro, quero que saiba que
+acho Richard Kimble inocente.
+
+611
+01:01:45,080 --> 01:01:46,520
+Ele procuraria sua ajuda?
+
+612
+01:01:46,680 --> 01:01:48,680
+Se procurasse, eu o ajudaria.
+
+613
+01:01:49,360 --> 01:01:50,840
+Mas ele não faria isso.
+
+614
+01:01:51,000 --> 01:01:52,360
+Não faz seu estilo.
+
+615
+01:02:04,120 --> 01:02:06,960
+TIPO DE JUNTA DO COTOVELO?
+
+616
+01:02:09,440 --> 01:02:14,040
+O mandado de busca continua pelo
+cirurgião de Chicago, Richard Kimble.
+
+617
+01:02:28,400 --> 01:02:32,800
+Foi aqui que o cara de um braço e
+ele lutaram e caíram escada abaixo.
+
+618
+01:02:36,640 --> 01:02:39,960
+Se eu caísse nas escadas,
+estaria morto.
+
+619
+01:02:50,560 --> 01:02:52,080
+Que desperdício!
+
+620
+01:02:55,040 --> 01:02:56,480
+Atlas de Próteses de Membros
+
+621
+01:03:00,920 --> 01:03:03,320
+Quando eu cheguei em casa,
+tinha um homem lá.
+
+622
+01:03:52,000 --> 01:03:54,520
+- Polícia. Somos da polícia!
+- Onde ele está?
+
+623
+01:04:03,560 --> 01:04:05,240
+Peguem-no, peguem-no!
+
+624
+01:04:06,560 --> 01:04:07,880
+Espere!
+
+625
+01:04:13,280 --> 01:04:15,600
+- Parado!
+- No chão. Aonde você vai?
+
+626
+01:04:18,480 --> 01:04:20,280
+Acabou.
+
+627
+01:04:24,000 --> 01:04:26,320
+Gosta de enrolar meninas de 12 anos?
+
+628
+01:04:26,480 --> 01:04:28,160
+O que estão fazendo
+com meu bebê?
+
+629
+01:04:28,320 --> 01:04:30,320
+Seu bebê é um traficante.
+
+630
+01:04:30,680 --> 01:04:32,080
+Vamos, senhora.
+
+631
+01:04:32,680 --> 01:04:35,240
+O que estão fazendo
+com o meu bebê?
+
+632
+01:05:02,080 --> 01:05:05,400
+Hoje vai ser uma loucura.
+Eles contaram?
+
+633
+01:05:05,600 --> 01:05:07,240
+Muitas crianças.
+
+634
+01:05:07,400 --> 01:05:09,400
+Estão trazendo todas para cá?
+
+635
+01:05:09,600 --> 01:05:11,520
+Sim, todas estão vindo para o County.
+
+636
+01:05:36,040 --> 01:05:38,040
+Vim limpar as persianas.
+
+637
+01:05:38,280 --> 01:05:39,680
+Eu fecho a porta.
+
+638
+01:05:50,280 --> 01:05:52,280
+Começarei aqui dentro, está bem?
+
+639
+01:06:31,760 --> 01:06:34,160
+SEXO: MASCULINO IDADE: 35-50
+MEMBRO: BRAÇO DIREITO
+
+640
+01:06:36,320 --> 01:06:38,040
+PONTO DE SUBSTITUIÇÃO:
+METADE DO ÚMERO
+
+641
+01:06:40,640 --> 01:06:44,360
+ÚLTIMO AJUSTE:
+21 JAN - 1 FEV, 1992
+
+642
+01:06:56,120 --> 01:06:58,600
+MODELO INSTALADO: HÍBRIDO
+
+643
+01:07:00,480 --> 01:07:01,680
+REGISTROS ENCONTRADOS: 5
+
+644
+01:07:04,000 --> 01:07:05,000
+IMPRIMIR
+
+645
+01:07:21,880 --> 01:07:24,120
+Vamos revisar mais uma vez.
+
+646
+01:07:24,320 --> 01:07:26,320
+Que horas ele chegou em casa?
+
+647
+01:07:26,560 --> 01:07:28,640
+Às 10h30 da manhã.
+
+648
+01:07:30,160 --> 01:07:32,720
+- Ele estava sozinho?
+- Sim, estava.
+
+649
+01:07:32,880 --> 01:07:35,720
+- Deu uma boa olhada nele?
+- Sim, dei.
+
+650
+01:07:35,880 --> 01:07:37,000
+PROCURADO POR ASSASSINATO
+
+651
+01:07:37,160 --> 01:07:38,640
+Seja honesto comigo, garoto.
+
+652
+01:07:39,000 --> 01:07:42,080
+Esse é o cara que está morando
+no porão da sua mãe?
+
+653
+01:07:42,320 --> 01:07:44,080
+É o que estou dizendo.
+
+654
+01:07:59,200 --> 01:08:00,640
+Ele está estável?
+
+655
+01:08:02,640 --> 01:08:05,440
+- Respire, fique calmo.
+- Preciso de um médico aqui!
+
+656
+01:08:18,840 --> 01:08:22,000
+Ligue para Vascular e Orto e peça
+o consentimento aos pais dela.
+
+657
+01:08:22,160 --> 01:08:24,000
+Está bem. Obrigada, doutora.
+
+658
+01:08:26,440 --> 01:08:28,160
+Dói.
+
+659
+01:08:32,800 --> 01:08:35,120
+Oi, agente. Está ali.
+
+660
+01:09:04,800 --> 01:09:06,240
+Meu peito dói.
+
+661
+01:09:10,360 --> 01:09:12,440
+Veja o raio-x daquele garoto.
+
+662
+01:09:15,320 --> 01:09:16,840
+Respire fundo.
+
+663
+01:09:17,080 --> 01:09:19,320
+Expire, inspire. De novo.
+
+664
+01:09:19,600 --> 01:09:20,760
+Devagar.
+
+665
+01:09:22,520 --> 01:09:24,080
+Veja o raio-x.
+
+666
+01:09:25,680 --> 01:09:26,920
+Calma.
+
+667
+01:09:31,280 --> 01:09:32,680
+Qual é a situação do garoto?
+
+668
+01:09:32,840 --> 01:09:34,280
+Possível esterno fraturado.
+
+669
+01:09:34,440 --> 01:09:35,840
+Preciso de você aqui.
+
+670
+01:09:37,280 --> 01:09:40,840
+Pode nos ajudar? Leve esse garoto
+para a Sala de Observação 2.
+
+671
+01:09:41,480 --> 01:09:44,000
+É, você. Ajude-nos, está bem?
+
+672
+01:09:52,760 --> 01:09:54,200
+Como está, campeão?
+
+673
+01:09:54,360 --> 01:09:55,720
+Meu peito dói.
+
+674
+01:09:56,800 --> 01:09:58,440
+Dói quando você respira?
+
+675
+01:09:58,640 --> 01:09:59,640
+Dói.
+
+676
+01:10:04,280 --> 01:10:06,480
+- Qual é o seu nome?
+- Joel.
+
+677
+01:10:12,200 --> 01:10:13,560
+Veja isso.
+
+678
+01:10:13,880 --> 01:10:16,640
+Estamos comendo laranjas
+e fazendo identificações.
+
+679
+01:10:16,800 --> 01:10:18,720
+"H.C.C." O que é isso?
+
+680
+01:10:19,320 --> 01:10:21,240
+Hospital Cook County.
+
+681
+01:10:24,560 --> 01:10:26,560
+Aguente firme, está bem?
+
+682
+01:10:27,320 --> 01:10:29,080
+Você ficará bem.
+
+683
+01:10:29,240 --> 01:10:30,640
+Dará tudo certo.
+
+684
+01:10:30,840 --> 01:10:32,560
+Segure esse elevador.
+
+685
+01:10:32,920 --> 01:10:34,000
+Obrigado.
+
+686
+01:10:38,080 --> 01:10:39,320
+Como está se sentindo?
+
+687
+01:10:39,480 --> 01:10:41,160
+Meu peito dói.
+
+688
+01:10:42,000 --> 01:10:43,320
+Onde está sua mãe?
+
+689
+01:10:43,520 --> 01:10:44,600
+Eu não sei.
+
+690
+01:10:44,760 --> 01:10:46,680
+Ela está em casa?
+
+691
+01:10:46,840 --> 01:10:48,840
+Acho que está com meu irmão.
+
+692
+01:10:49,000 --> 01:10:50,240
+Eles estão lá embaixo?
+
+693
+01:10:50,760 --> 01:10:52,160
+Eu não sei.
+
+694
+01:10:52,600 --> 01:10:54,160
+Não se preocupe.
+
+695
+01:10:54,360 --> 01:10:56,000
+Vamos encontrá-la.
+
+696
+01:10:57,000 --> 01:10:59,600
+Você joga futebol? Beisebol?
+
+697
+01:10:59,840 --> 01:11:01,200
+Futebol.
+
+698
+01:11:02,920 --> 01:11:04,280
+Aguente firme.
+
+699
+01:11:16,120 --> 01:11:17,360
+Ei, doutora.
+
+700
+01:11:18,200 --> 01:11:20,640
+Mandaram este aqui lá debaixo.
+
+701
+01:11:27,560 --> 01:11:30,720
+Leve esse para a Sala 4,
+imediatamente.
+
+702
+01:11:31,560 --> 01:11:32,880
+Tchau, Joel.
+
+703
+01:11:45,800 --> 01:11:47,800
+Cadê aquele garoto que
+mandei com o faxineiro?
+
+704
+01:11:48,000 --> 01:11:50,000
+- Que garoto?
+- Com o esterno fraturado.
+
+705
+01:11:50,240 --> 01:11:51,560
+Ele não veio para cá.
+
+706
+01:11:52,840 --> 01:11:53,840
+Não?
+
+707
+01:11:54,000 --> 01:11:55,160
+Não, não velo.
+
+708
+01:11:58,920 --> 01:12:02,000
+Algum interesse especial
+no raio-x daquele paciente?
+
+709
+01:12:02,160 --> 01:12:05,480
+- Como assim?
+- Eu o vi olhando o raio-x.
+
+710
+01:12:07,520 --> 01:12:09,840
+- É um hobby.
+- Um hobby, sério?
+
+711
+01:12:10,000 --> 01:12:12,320
+O que mais, cirurgia cerebral?
+
+712
+01:12:12,520 --> 01:12:15,000
+- O que você quer?
+- Saber como ele foi parar na Cirurgia.
+
+713
+01:12:15,160 --> 01:12:17,360
+Eu sou faxineiro.
+Só faço o que pedem.
+
+714
+01:12:17,520 --> 01:12:18,520
+Mentira!
+
+715
+01:12:18,680 --> 01:12:19,840
+Quem mudou aquelas ordens?
+
+716
+01:12:21,280 --> 01:12:22,680
+Eu não sei do que está falando.
+
+717
+01:12:26,680 --> 01:12:27,760
+Fique aqui.
+
+718
+01:12:30,120 --> 01:12:31,600
+Chame a Segurança!
+
+719
+01:12:39,920 --> 01:12:41,280
+Desculpe.
+
+720
+01:12:59,320 --> 01:13:03,960
+Peça para o Stevens contatar
+aquele Kelly da Polícia.
+
+721
+01:13:05,480 --> 01:13:10,160
+Um cara disfarçado de faxineiro
+ordena uma cirurgia de emergência...
+
+722
+01:13:10,320 --> 01:13:13,080
+e você só pega seu crachá?
+
+723
+01:13:14,080 --> 01:13:17,920
+Eu chamei a Segurança e ele fugiu
+pelas escadas. O que podia fazer?
+
+724
+01:13:18,080 --> 01:13:19,480
+Escute, senhor...
+
+725
+01:13:19,640 --> 01:13:20,840
+Agente.
+
+726
+01:13:21,080 --> 01:13:22,320
+Gerard.
+
+727
+01:13:23,920 --> 01:13:25,240
+Eu estou muito cansada.
+
+728
+01:13:25,400 --> 01:13:26,840
+Gostaria de ir para casa.
+
+729
+01:13:27,480 --> 01:13:30,680
+- Certo. Como está o garoto?
+- Ele salvou a vida dele.
+
+730
+01:13:35,920 --> 01:13:37,160
+Obrigado.
+
+731
+01:13:41,920 --> 01:13:44,600
+"Desmondo Jose Ruiz".
+
+732
+01:13:49,680 --> 01:13:50,880
+Onde você está, Desmondo?
+
+733
+01:13:52,840 --> 01:13:55,120
+Sammy, o problema é o seguinte:
+
+734
+01:13:55,680 --> 01:13:58,440
+Aqui é cheio de policiais, certo?
+
+735
+01:13:58,600 --> 01:14:00,880
+E todos estão procurando pelo Kimble.
+
+736
+01:14:01,040 --> 01:14:03,040
+Não é uma burrice...
+
+737
+01:14:03,200 --> 01:14:06,200
+vir aqui na ala de trauma
+bancar a Madre Teresa?
+
+738
+01:14:06,360 --> 01:14:07,520
+Com licença.
+
+739
+01:14:25,720 --> 01:14:26,960
+Algum problema?
+
+740
+01:14:28,040 --> 01:14:30,400
+Não, problema nenhum.
+
+741
+01:14:36,920 --> 01:14:39,720
+Com licença, poderíamos
+falar com a senhora?
+
+742
+01:14:42,080 --> 01:14:45,760
+Alô, aqui é o Dr. Elway,
+do Hospital Cook County.
+
+743
+01:14:45,920 --> 01:14:52,000
+Queria saber sobre a prótese
+de Matthew Zelick.
+
+744
+01:14:53,520 --> 01:14:54,840
+É mesmo?
+
+745
+01:14:55,000 --> 01:14:56,520
+Lamento profundamente.
+
+746
+01:15:00,000 --> 01:15:01,760
+Direita ou esquerda?
+
+747
+01:15:02,000 --> 01:15:03,160
+Direita.
+
+748
+01:15:04,760 --> 01:15:07,680
+- Idade?
+- Trinta e cinco a 45.
+
+749
+01:15:07,840 --> 01:15:11,520
+Aqui é Ted Riley, do Comitê
+de Reunião Escolar.
+
+750
+01:15:11,680 --> 01:15:14,360
+Vinte e cinco anos passam voando...
+
+751
+01:15:14,600 --> 01:15:18,280
+e Clive está na nossa lista
+de desaparecidos.
+
+752
+01:15:18,440 --> 01:15:21,600
+Eu consegui um número,
+mas quando tentei...
+
+753
+01:15:25,600 --> 01:15:26,720
+Não brinca.
+
+754
+01:15:27,800 --> 01:15:29,200
+Assalto à mão armada?
+
+755
+01:15:31,120 --> 01:15:32,280
+Ele está onde?
+
+756
+01:15:32,480 --> 01:15:33,480
+Ponto de ligação?
+
+757
+01:15:33,680 --> 01:15:34,680
+Metade do úmero.
+
+758
+01:15:34,880 --> 01:15:37,200
+Isso nos dá 47 possibilidades.
+
+759
+01:15:37,360 --> 01:15:38,360
+Quarenta e sete?
+
+760
+01:15:39,120 --> 01:15:41,880
+Verifique a ficha criminal
+dessas pessoas.
+
+761
+01:15:42,040 --> 01:15:42,960
+Agora mesmo.
+
+762
+01:15:54,080 --> 01:15:56,400
+Feliz Dia de São Patrício a todos.
+
+763
+01:16:42,440 --> 01:16:43,760
+Driscoll, Clive R.
+
+764
+01:16:44,360 --> 01:16:47,520
+Homem de um braço só, assalto
+à mão armada. É engraçado.
+
+765
+01:16:48,680 --> 01:16:49,720
+Pergunta:
+
+766
+01:16:54,640 --> 01:16:57,280
+Se podem tingir o rio de verde hoje...
+
+767
+01:16:57,440 --> 01:17:00,040
+por que não podem tingir de
+azul nos outros dias do ano?
+
+768
+01:17:00,200 --> 01:17:01,320
+E eu sei?
+
+769
+01:17:03,800 --> 01:17:06,480
+- É irlandês, senhor?
+- Quem, eu? Não.
+
+770
+01:17:06,800 --> 01:17:07,960
+Você é?
+
+771
+01:17:08,320 --> 01:17:09,480
+Não, cara!
+
+772
+01:17:19,840 --> 01:17:20,840
+Nome do preso?
+
+773
+01:17:21,560 --> 01:17:22,920
+Clive Driscoll.
+
+774
+01:17:23,240 --> 01:17:24,640
+Driscoll, Clive.
+
+775
+01:17:24,960 --> 01:17:26,360
+Identidade, por favor.
+
+776
+01:17:26,600 --> 01:17:28,440
+Driscoll, Clive R.
+
+777
+01:17:28,600 --> 01:17:30,160
+2-0-1-0.
+
+778
+01:17:30,360 --> 01:17:34,360
+Fique ciente que, por lei, sua
+conversa pode ser gravada.
+
+779
+01:17:36,240 --> 01:17:40,840
+Isso é bizarro. Esse cara é médico.
+Não vai passar por essa segurança...
+
+780
+01:17:41,000 --> 01:17:45,240
+e entrar na prisão para ver alguém
+que seu advogado diz que não existe.
+
+781
+01:17:45,440 --> 01:17:46,440
+Bizarro.
+
+782
+01:17:46,600 --> 01:17:48,000
+O que isso quer dizer, "bizarro?"
+
+783
+01:17:48,160 --> 01:17:49,240
+- Estranho.
+- Esquisito.
+
+784
+01:17:49,440 --> 01:17:51,920
+Diga "estranho" ou "esquisito".
+"Bizarro" não quer dizer nada.
+
+785
+01:17:52,080 --> 01:17:53,240
+Nós dizemos "bizarro".
+
+786
+01:17:55,440 --> 01:17:58,840
+Eu não quero que usem palavras
+sem sentido comigo. Vou de escada.
+
+787
+01:18:00,040 --> 01:18:01,320
+Que tal "zoado"?
+
+788
+01:18:01,520 --> 01:18:02,960
+Que tal "zoado", Sam?
+
+789
+01:18:06,440 --> 01:18:07,760
+Visita para Driscoll.
+
+790
+01:18:08,680 --> 01:18:10,680
+Vamos, vamos.
+
+791
+01:18:14,280 --> 01:18:15,720
+Ali.
+
+792
+01:18:38,800 --> 01:18:40,240
+Vem, Driscoll.
+
+793
+01:18:46,480 --> 01:18:48,320
+Você tem cinco minutos.
+
+794
+01:18:49,080 --> 01:18:50,320
+Quem é você?
+
+795
+01:18:51,080 --> 01:18:53,560
+Eu sinto muito. Cometi um engano.
+
+796
+01:18:53,760 --> 01:18:55,360
+Se me fez descer...
+
+797
+01:18:55,520 --> 01:18:57,120
+vamos conversar.
+
+798
+01:18:57,280 --> 01:19:00,520
+Aqui não tem diversão,
+não tem nem TV a cabo.
+
+799
+01:19:02,480 --> 01:19:05,240
+Eu gostaria, mas não posso. Desculpe.
+
+800
+01:19:55,520 --> 01:19:56,520
+Richard!
+
+801
+01:21:01,240 --> 01:21:05,000
+Tem um homem de azul mostrando
+uma arma e gritando com uma mulher.
+
+802
+01:21:05,160 --> 01:21:06,320
+Parem aquele homem!
+
+803
+01:21:06,480 --> 01:21:08,000
+Ele é agente federal. Soltem-no!
+
+804
+01:21:08,200 --> 01:21:09,640
+Soltem-no!
+
+805
+01:21:12,040 --> 01:21:13,280
+Fechem as portas!
+
+806
+01:21:48,080 --> 01:21:50,000
+Abram as portas!
+
+807
+01:21:58,520 --> 01:22:01,440
+Estamos no telhado.
+
+808
+01:22:01,760 --> 01:22:04,440
+Leve alguns homens! Olhe lá!
+
+809
+01:22:05,200 --> 01:22:06,600
+Ele está na praça!
+
+810
+01:22:06,760 --> 01:22:08,280
+Está indo para leste!
+
+811
+01:22:10,520 --> 01:22:13,200
+Na direção do Picasso!
+
+812
+01:22:23,640 --> 01:22:26,320
+Quero que deem uma salva
+de palmas para esse grupo.
+
+813
+01:22:26,480 --> 01:22:30,760
+Eles esperam há bastante tempo
+para entrar nesse desfile.
+
+814
+01:22:30,920 --> 01:22:33,840
+Estão com frio, como todos nós.
+
+815
+01:23:57,640 --> 01:24:02,480
+Agente Gerard, por que acha que
+Dr. Kimble voltou para Chicago?
+
+816
+01:24:02,960 --> 01:24:04,320
+Eu não faço ideia.
+
+817
+01:24:04,480 --> 01:24:07,240
+Sabemos que seus agentes
+estiveram no hospital hoje.
+
+818
+01:24:07,400 --> 01:24:09,240
+O Dr. Kimble estava lá?
+
+819
+01:24:09,400 --> 01:24:11,400
+Não tenho comentário sobre isso.
+
+820
+01:24:11,640 --> 01:24:13,640
+Só para entendermos a cronologia.
+
+821
+01:24:13,800 --> 01:24:16,720
+O suspeito foi julgado,
+condenado, preso...
+
+822
+01:24:16,880 --> 01:24:21,560
+fugiu, foi dado como morto, e agora
+está solto em Chicago. Correto?
+
+823
+01:24:21,720 --> 01:24:23,920
+Exceto por ser dado como morto.
+
+824
+01:24:24,080 --> 01:24:27,080
+Acredita que Kimble
+é armado e perigoso?
+
+825
+01:24:27,320 --> 01:24:29,160
+Acredito que ele é perigoso.
+
+826
+01:24:29,400 --> 01:24:33,600
+Ele está se arriscando em voltar.
+Será que ele não é inocente?
+
+827
+01:24:33,760 --> 01:24:38,160
+Ele não é inocente. Foi condenado
+pela Justiça. Ele é culpado.
+
+828
+01:24:38,320 --> 01:24:40,240
+O que farão para tentar pegá-lo?
+
+829
+01:24:40,600 --> 01:24:43,080
+Não temos mais comentários
+por enquanto.
+
+830
+01:27:23,520 --> 01:27:25,840
+Honra ao Mérito
+Fredrick Sykes.
+
+831
+01:28:28,480 --> 01:28:29,640
+Alec.
+
+832
+01:28:29,880 --> 01:28:31,240
+Richard Kimble.
+
+833
+01:28:32,680 --> 01:28:34,600
+- Oi, como vai?
+- Bem, Dr. Kimble.
+
+834
+01:28:36,160 --> 01:28:37,240
+Lentz!
+
+835
+01:28:38,000 --> 01:28:41,400
+Nós temos trocado telefonemas
+hos últimos dias.
+
+836
+01:29:01,760 --> 01:29:03,680
+Um cruzeiro patrocinado
+por Devlin MacGregor...
+
+837
+01:29:04,000 --> 01:29:05,440
+poderia ser divertido.
+
+838
+01:29:13,160 --> 01:29:15,120
+- Cancun, Richard.
+- Pescaria esportiva.
+
+839
+01:29:15,280 --> 01:29:16,600
+Pina coladas.
+
+840
+01:29:16,800 --> 01:29:18,960
+O que o hospital deve comprar?
+Qual é a boa?
+
+841
+01:29:19,120 --> 01:29:20,200
+Agulhão.
+
+842
+01:29:20,800 --> 01:29:22,800
+Mas sem compromisso, doutor.
+
+843
+01:29:23,360 --> 01:29:26,040
+O que acha? O que acha?
+
+844
+01:29:28,880 --> 01:29:31,360
+Esse cara está sangrando
+por todos os lados.
+
+845
+01:29:31,560 --> 01:29:34,880
+Lentz mandou ele para cá?
+Usaram aquele medicamento?
+
+846
+01:29:35,040 --> 01:29:38,480
+Usaram, ele está no protocolo
+RDU-90, Provasic.
+
+847
+01:29:38,640 --> 01:29:39,960
+O medicamento do futuro.
+
+848
+01:29:40,120 --> 01:29:43,240
+Vai limpar as artérias
+e acabar com nossa função.
+
+849
+01:29:49,520 --> 01:29:52,160
+"O mestre de cerimônias do
+desfile, Ed O'Flaherty, disse...
+
+850
+01:29:52,320 --> 01:29:56,160
+que não lembrava de um desfile
+tão alegre em 20 anos.
+
+851
+01:29:56,320 --> 01:29:57,560
+"Esse Kimble...
+
+852
+01:29:57,720 --> 01:29:59,920
+é um camarada..."
+
+853
+01:30:00,080 --> 01:30:01,080
+"Camarada?"
+
+854
+01:30:01,240 --> 01:30:02,240
+Ele disse "camarada".
+
+855
+01:30:02,920 --> 01:30:04,840
+Talvez ele seja um duende.
+
+856
+01:30:05,000 --> 01:30:07,000
+São as palavras dele.
+
+857
+01:30:07,400 --> 01:30:09,920
+Tem um cara na linha três
+que diz ser Richard Kimble.
+
+858
+01:30:10,080 --> 01:30:12,240
+- Quem?
+- Outro Kimble na linha 3.
+
+859
+01:30:12,400 --> 01:30:13,640
+O telefone.
+
+860
+01:30:13,800 --> 01:30:15,320
+- Diga que ele fica bem de barba.
+- Eu acho.
+
+861
+01:30:15,520 --> 01:30:16,840
+- Que linha?
+- Três.
+
+862
+01:30:17,000 --> 01:30:20,680
+"Espero que ele tenha usado verde,
+tomado uísque..."
+
+863
+01:30:20,840 --> 01:30:22,400
+Aqui é o Gerard.
+
+864
+01:30:23,600 --> 01:30:26,080
+Lembra do que eu lhe disse no túnel?
+
+865
+01:30:28,120 --> 01:30:29,600
+É ele!
+
+866
+01:30:29,760 --> 01:30:31,920
+Eu lembro... Bom, estava barulhento.
+
+867
+01:30:32,200 --> 01:30:34,600
+Acho que você disse...
+
+868
+01:30:34,760 --> 01:30:36,440
+que não matou sua esposa.
+
+869
+01:30:36,680 --> 01:30:38,280
+Lembra do que você me disse?
+
+870
+01:30:39,040 --> 01:30:41,440
+Você estava apontando
+uma arma para mim.
+
+871
+01:30:45,120 --> 01:30:47,720
+Você disse: "Eu não me importo".
+
+872
+01:30:47,960 --> 01:30:49,440
+Ele está na zona sul.
+
+873
+01:30:50,280 --> 01:30:52,800
+É, eu não me importo.
+
+874
+01:30:52,960 --> 01:30:55,200
+Não estou tentando resolver
+um quebra-cabeça.
+
+875
+01:30:55,480 --> 01:30:57,400
+Eu estou.
+
+876
+01:30:57,640 --> 01:30:59,040
+Cinco segundos para localizar.
+
+877
+01:30:59,360 --> 01:31:01,600
+E acabei de achar uma peça grande.
+
+878
+01:31:10,880 --> 01:31:12,080
+Alô, Richard?
+
+879
+01:31:12,480 --> 01:31:14,640
+- Ele não desligou. Onde ele está?
+- Falta pouco.
+
+880
+01:31:14,840 --> 01:31:16,000
+Onde ele está?
+
+881
+01:31:16,160 --> 01:31:17,400
+St. Lawrence Sul, 256.
+
+882
+01:31:17,560 --> 01:31:19,800
+Mande a polícia para lá.
+
+883
+01:31:20,000 --> 01:31:22,400
+Temos um carro lá agora.
+
+884
+01:31:51,920 --> 01:31:54,040
+Tire fotos disso.
+
+885
+01:31:57,280 --> 01:31:58,600
+Fredrick Sykes...
+
+886
+01:31:59,520 --> 01:32:03,960
+Quarenta e cinco anos, ex-policial
+e viciado em roupas.
+
+887
+01:32:04,360 --> 01:32:05,960
+Quer dar uma olhada nisso?
+
+888
+01:32:08,280 --> 01:32:10,280
+As impressões digitais do
+Kimble estão em toda parte...
+
+889
+01:32:10,440 --> 01:32:12,360
+mas principalmente na mesa.
+
+890
+01:32:12,520 --> 01:32:15,640
+Ele tinha interesse nessas fotos.
+
+891
+01:32:15,800 --> 01:32:16,960
+Negativos?
+
+892
+01:32:17,120 --> 01:32:18,480
+Deixe-me ver.
+
+893
+01:32:18,640 --> 01:32:21,280
+- O fotógrafo está a caminho.
+- Entendido.
+
+894
+01:32:38,320 --> 01:32:39,880
+Como vai, Sr. Sykes?
+
+895
+01:32:40,080 --> 01:32:43,080
+- Bem, se me disser o que está acontecendo.
+- Nós tivemos um problema.
+
+896
+01:32:43,400 --> 01:32:46,320
+- No meu apartamento ou no de cima?
+- No seu.
+
+897
+01:32:47,400 --> 01:32:49,080
+Entre, Sr. Sykes.
+
+898
+01:32:49,240 --> 01:32:52,240
+Todos sabem o meu nome aqui.
+Família feliz, hein?
+
+899
+01:32:52,840 --> 01:32:56,160
+É a convenção do sobretudo?
+O que está acontecendo?
+
+900
+01:32:56,320 --> 01:32:58,920
+Quem são vocês?
+O que está acontecendo?
+
+901
+01:33:02,760 --> 01:33:04,920
+Entraram no seu apartamento, Sr. Sykes.
+
+902
+01:33:05,440 --> 01:33:07,160
+Espero que seja policial.
+
+903
+01:33:07,600 --> 01:33:10,520
+Não, Samuel Gerard,
+agente federal dos EUA.
+
+904
+01:33:11,600 --> 01:33:16,280
+Esta manhã, um fugitivo chamado
+Richard Kimble fez uma ligação daqui.
+
+905
+01:33:16,760 --> 01:33:18,200
+Por que ele faria isso?
+
+906
+01:33:18,760 --> 01:33:20,960
+Eu não conheço nenhum
+Richard Kimble.
+
+907
+01:33:27,040 --> 01:33:28,880
+Ah, já sei.
+
+908
+01:33:29,200 --> 01:33:31,360
+O médico que matou a esposa, certo?
+
+909
+01:33:31,960 --> 01:33:35,960
+Culpou alguém com uma prótese.
+Ele está vindo atrás de mim?
+
+910
+01:33:36,120 --> 01:33:37,880
+Ele tem motivo para isso?
+
+911
+01:33:38,040 --> 01:33:40,800
+Eu tenho uma prótese!
+Deve ter sido eu!
+
+912
+01:33:41,640 --> 01:33:44,720
+Dá um tempo. Já passei
+por isso no ano passado.
+
+913
+01:33:44,880 --> 01:33:47,640
+Fui interrogado sobre a situação.
+
+914
+01:33:47,800 --> 01:33:52,040
+Vou dizer o que disse a eles.
+Estava fora de Chicago a negócios.
+
+915
+01:33:52,240 --> 01:33:53,800
+Quinze pessoas confirmaram.
+
+916
+01:33:53,960 --> 01:33:55,640
+Em que ramo você trabalha?
+
+917
+01:33:56,480 --> 01:33:57,480
+Segurança.
+
+918
+01:33:57,640 --> 01:33:59,880
+- Para quem trabalha?
+- Uma empresa farmacêutica.
+
+919
+01:34:00,080 --> 01:34:01,080
+Qual?
+
+920
+01:34:01,240 --> 01:34:04,720
+Devlin MacGregor. Cuido da
+segurança para executivos.
+
+921
+01:34:06,720 --> 01:34:10,400
+Sabe por que Kimble estaria
+interessado nestas fotos?
+
+922
+01:34:11,840 --> 01:34:12,920
+Não.
+
+923
+01:34:13,640 --> 01:34:15,760
+Onde elas foram tiradas?
+
+924
+01:34:15,920 --> 01:34:17,400
+Nossa, que peixão!
+
+925
+01:34:17,600 --> 01:34:18,920
+Cancun, México.
+
+926
+01:34:19,080 --> 01:34:22,000
+Foi um evento que a empresa
+pagou para alguns médicos.
+
+927
+01:34:22,160 --> 01:34:25,080
+- Kimble foi?
+- Ele não está na foto, está?
+
+928
+01:34:27,760 --> 01:34:30,440
+Não. Eu disse que não o conheço.
+
+929
+01:34:30,840 --> 01:34:33,760
+Importa-se se eu ver se
+sumiu alguma coisa?
+
+930
+01:34:33,920 --> 01:34:35,280
+Não, pode ver.
+
+931
+01:34:41,280 --> 01:34:42,600
+Como perdeu esse braço?
+
+932
+01:34:43,200 --> 01:34:44,840
+Cumprindo o dever.
+
+933
+01:34:55,040 --> 01:34:57,120
+Cosmo, esse cara é sujo.
+
+934
+01:34:57,440 --> 01:34:59,280
+Sim, é.
+
+935
+01:34:59,520 --> 01:35:02,720
+- Quer vigilância em cima dele?
+- Sim, monte um acampamento aqui.
+
+936
+01:35:03,040 --> 01:35:04,360
+Eu cuidarei disso.
+
+937
+01:35:05,560 --> 01:35:09,800
+Vê esta foto? Descubra quem
+é o cara ao lado do Sykes.
+
+938
+01:35:10,200 --> 01:35:13,640
+Seu nome, idade, peso,
+número do seguro social...
+
+939
+01:35:13,800 --> 01:35:17,720
+endereço, parentes,
+animais de estimação, tudo.
+
+940
+01:35:37,560 --> 01:35:40,400
+Desculpe, doutor, disseram
+que era uma emergência.
+
+941
+01:35:43,600 --> 01:35:44,920
+Com licença.
+
+942
+01:35:57,600 --> 01:35:58,840
+Sr. Bolton.
+
+943
+01:35:59,000 --> 01:36:00,000
+Chuck.
+
+944
+01:36:00,200 --> 01:36:01,280
+Richard.
+
+945
+01:36:01,440 --> 01:36:02,600
+Pode falar?
+
+946
+01:36:02,760 --> 01:36:06,760
+Sim, estou no telefone do hotel. Como
+você está? O que está acontecendo?
+
+947
+01:36:07,600 --> 01:36:10,760
+Eu o encontrei.
+Encontrei quem matou Helen.
+
+948
+01:36:12,360 --> 01:36:14,360
+Eles estavam atrás de mim.
+
+949
+01:36:14,520 --> 01:36:15,800
+Quem?
+
+950
+01:36:17,040 --> 01:36:19,720
+Devlin MacGregor e Lentz.
+
+951
+01:36:20,280 --> 01:36:23,280
+Lentz estava supervisionando
+o protocolo para RDU-90.
+
+952
+01:36:23,440 --> 01:36:26,640
+Ele sabia que estava causando
+dano ao fígado. Foi o Lentz.
+
+953
+01:36:28,640 --> 01:36:31,560
+Richard, Lentz morreu.
+
+954
+01:36:32,400 --> 01:36:34,120
+O quê? Como?
+
+955
+01:36:34,320 --> 01:36:37,040
+Em um acidente de carro
+no verão passado.
+
+956
+01:36:41,880 --> 01:36:43,880
+Pode provar isso sobre
+o medicamento?
+
+957
+01:36:44,720 --> 01:36:46,080
+Acho que sim.
+
+958
+01:36:47,400 --> 01:36:49,160
+Preciso da sua ajuda.
+
+959
+01:36:49,400 --> 01:36:52,720
+Ligue para o Bones no hospital
+e diga que precisarei de ajuda.
+
+960
+01:36:54,320 --> 01:36:55,480
+Ligarei agora.
+
+961
+01:36:55,640 --> 01:36:57,160
+Está bem. Obrigado.
+
+962
+01:37:07,160 --> 01:37:08,520
+Dr. Nichols!
+
+963
+01:37:08,840 --> 01:37:11,320
+Podemos fazer mais
+algumas perguntas?
+
+964
+01:37:11,520 --> 01:37:13,000
+Sr. Gerard.
+
+965
+01:37:13,160 --> 01:37:15,680
+Tem uma cópia daquela foto?
+
+966
+01:37:16,000 --> 01:37:17,360
+Agente Federal dos EUA.
+
+967
+01:37:17,520 --> 01:37:18,840
+Com licença.
+
+968
+01:37:21,920 --> 01:37:23,600
+Esse é Fredrick Sykes.
+
+969
+01:37:23,760 --> 01:37:27,760
+Ele é um especialista em segurança
+na Farmacêutica Devlin MacGregor.
+
+970
+01:37:27,920 --> 01:37:30,280
+Richard Kimble invadiu
+o apartamento dele.
+
+971
+01:37:30,440 --> 01:37:31,840
+Conhece esse homem?
+
+972
+01:37:32,040 --> 01:37:33,280
+Não, não conheço.
+
+973
+01:37:35,120 --> 01:37:38,120
+Está ficando desesperado,
+não, Sr. Gerard?
+
+974
+01:37:38,360 --> 01:37:39,800
+Ah, sim.
+
+975
+01:37:40,440 --> 01:37:42,440
+Eu disse que não
+encontraria o Richard.
+
+976
+01:37:42,600 --> 01:37:43,960
+Ele tem o visto?
+
+977
+01:37:46,720 --> 01:37:49,640
+Já falamos sobre isso, não?
+
+978
+01:37:52,120 --> 01:37:54,400
+Então, se me derem licença.
+
+979
+01:37:55,480 --> 01:37:58,400
+- Claro. Obrigado, doutor.
+- Obrigado, doutor.
+
+980
+01:38:00,480 --> 01:38:03,640
+Desculpe. Só mais uma pergunta
+sobre a foto.
+
+981
+01:38:03,960 --> 01:38:06,880
+Vê esse cara do lado direito
+do peixe?
+
+982
+01:38:07,040 --> 01:38:08,560
+Já o viu antes?
+
+983
+01:38:08,880 --> 01:38:10,640
+Esse cara aqui?
+
+984
+01:38:11,240 --> 01:38:13,880
+Nunca vi essa pessoa na minha vida.
+
+985
+01:38:14,560 --> 01:38:15,560
+- Certo.
+- Desculpe.
+
+986
+01:38:16,000 --> 01:38:17,160
+Obrigado.
+
+987
+01:38:17,400 --> 01:38:20,920
+Obrigado, doutor. Aproveite
+o resto da convenção.
+
+988
+01:38:25,680 --> 01:38:30,600
+"Alternativas para Terapia de Redução
+de Placa Arterial Não Invasiva.
+
+989
+01:38:30,760 --> 01:38:33,080
+Orador, Charles Nichols."
+
+990
+01:38:33,240 --> 01:38:35,240
+Aposto que fizeram fila para isso.
+
+991
+01:38:51,520 --> 01:38:53,920
+Se você fosse Richard Kimble...
+
+992
+01:38:54,280 --> 01:38:57,960
+por que caçaria um homem que
+você alega que matou sua esposa...
+
+993
+01:38:58,120 --> 01:39:01,600
+entra no apartamento dele,
+nos liga e depois some?
+
+994
+01:39:02,120 --> 01:39:03,600
+- Não faz sentido.
+- Eu devia ter sido médico.
+
+995
+01:39:04,280 --> 01:39:08,280
+Vejam essa ampliação. Esse cara
+na foto com Sykes. Na camisa dele.
+
+996
+01:39:08,680 --> 01:39:09,760
+Chicago Memorial.
+
+997
+01:39:09,920 --> 01:39:11,040
+Acho que vou lá.
+
+998
+01:39:11,200 --> 01:39:12,280
+Vá!
+
+999
+01:39:12,720 --> 01:39:13,880
+Espere.
+
+1000
+01:39:17,120 --> 01:39:18,800
+Devlin MacGregor...
+
+1001
+01:39:19,040 --> 01:39:22,720
+fez US$ 7 bilhões e meio em vendas...
+
+1002
+01:39:23,720 --> 01:39:25,480
+só no ano passado.
+
+1003
+01:39:27,240 --> 01:39:29,240
+A empresa é monstruosa.
+
+1004
+01:39:37,720 --> 01:39:39,160
+Fale comigo.
+
+1005
+01:39:43,480 --> 01:39:44,920
+Claro.
+
+1006
+01:39:46,080 --> 01:39:47,480
+É uma amostra de fígado...
+
+1007
+01:39:47,680 --> 01:39:50,480
+de um paciente que tomou RDU-90.
+
+1008
+01:39:50,680 --> 01:39:52,480
+21 de janeiro?
+
+1009
+01:39:54,240 --> 01:39:56,080
+O último!
+
+1010
+01:39:56,680 --> 01:39:58,000
+1-7-4-3-0?
+
+1011
+01:39:58,160 --> 01:40:00,520
+1-7-4-3-0. Isso.
+
+1012
+01:40:01,920 --> 01:40:04,840
+Obrigado. Devolverei
+tudo isso para você.
+
+1013
+01:40:09,600 --> 01:40:12,000
+- É bom revê-lo.
+- Igualmente.
+
+1014
+01:40:12,200 --> 01:40:15,120
+O que deu aquela história
+com sua esposa?
+
+1015
+01:40:17,680 --> 01:40:19,360
+Não acabou ainda.
+
+1016
+01:40:39,880 --> 01:40:41,480
+O que está acontecendo?
+
+1017
+01:40:41,960 --> 01:40:43,280
+Como vou saber?
+
+1018
+01:40:56,440 --> 01:41:00,440
+Acho que ele se chama Alec Lentz.
+É patologista.
+
+1019
+01:41:00,720 --> 01:41:02,480
+Lembro porque ele morreu
+no verão passado.
+
+1020
+01:41:11,920 --> 01:41:13,920
+Meu Deus. Richard!
+
+1021
+01:41:14,400 --> 01:41:16,400
+O que está fazendo aqui?
+
+1022
+01:41:16,760 --> 01:41:18,080
+Oi, Kath.
+
+1023
+01:41:33,600 --> 01:41:34,920
+Dê uma olhada.
+
+1024
+01:41:37,200 --> 01:41:39,600
+- O que acha?
+- Normal.
+
+1025
+01:41:39,760 --> 01:41:42,040
+Certamente, não é o mesmo tecido.
+
+1026
+01:41:42,200 --> 01:41:45,880
+E eles não só vieram
+de fígados saudáveis...
+
+1027
+01:41:46,360 --> 01:41:48,360
+como vieram do mesmo fígado.
+
+1028
+01:41:50,520 --> 01:41:52,200
+Kath, você é demais.
+
+1029
+01:41:58,640 --> 01:41:59,880
+Com licença.
+
+1030
+01:42:00,640 --> 01:42:02,040
+Sr. Roosevelt?
+
+1031
+01:42:03,360 --> 01:42:06,480
+Biggs e Newman, agentes federais.
+
+1032
+01:42:07,040 --> 01:42:10,640
+Só precisamos de uma informação
+do Dr. Lentz que trabalhou aqui.
+
+1033
+01:42:10,800 --> 01:42:15,400
+Ele conhecia ou tinha contato
+com o Dr. Richard Kimble?
+
+1034
+01:42:15,720 --> 01:42:17,640
+Eu não vi o Dr. Kimble.
+
+1035
+01:42:18,800 --> 01:42:19,960
+Eu não perguntei isso.
+
+1036
+01:42:21,320 --> 01:42:22,800
+Eu não sei.
+
+1037
+01:42:23,160 --> 01:42:27,000
+Se me derem licença,
+eu tenho minhas obrigações.
+
+1038
+01:42:30,000 --> 01:42:32,560
+Acho que está mentindo para nós.
+
+1039
+01:42:33,160 --> 01:42:35,000
+Lentz é o vilão?
+
+1040
+01:42:36,280 --> 01:42:37,760
+E, por que não?
+
+1041
+01:42:39,320 --> 01:42:42,920
+Ele foi um dos primeiros detentores
+de patente do RDU-90.
+
+1042
+01:42:44,240 --> 01:42:46,320
+Eu mandava minhas amostras...
+
+1043
+01:42:47,080 --> 01:42:50,840
+ele trocava por amostras saudáveis,
+refazendo relatórios...
+
+1044
+01:42:51,000 --> 01:42:52,840
+e adulterando minhas coisas. Fácil.
+
+1045
+01:42:53,000 --> 01:42:54,160
+Espere.
+
+1046
+01:42:54,600 --> 01:42:57,000
+Lentz morreu no dia 21 de agosto.
+
+1047
+01:42:59,120 --> 01:43:03,520
+Metade das amostras que ele aprovou
+foram assinadas no dia em que morreu.
+
+1048
+01:43:04,840 --> 01:43:06,040
+Está brincando.
+
+1049
+01:43:08,040 --> 01:43:10,760
+Outra pessoa deve ter
+manipulado isso.
+
+1050
+01:43:11,440 --> 01:43:12,880
+Alguém com acesso.
+
+1051
+01:43:24,640 --> 01:43:25,800
+Obrigado, Kath.
+
+1052
+01:43:26,280 --> 01:43:27,720
+Aonde vai?
+
+1053
+01:43:29,120 --> 01:43:30,560
+Ver um amigo.
+
+1054
+01:43:35,880 --> 01:43:37,800
+Isso está me dando dor de cabeça.
+
+1055
+01:43:38,160 --> 01:43:41,960
+É surpreendente. Para onde
+Roosevelt disse que Kimble ia?
+
+1056
+01:43:42,160 --> 01:43:44,320
+Ele disse que não sabe.
+
+1057
+01:43:44,720 --> 01:43:46,480
+- Acredita nele?
+- Sim, acredito.
+
+1058
+01:43:46,720 --> 01:43:49,400
+Ele disse que ele veio
+pegar amostras de tecido...
+
+1059
+01:43:49,560 --> 01:43:51,080
+para um medicamento
+experimental.
+
+1060
+01:43:51,240 --> 01:43:52,640
+Mas escute:
+
+1061
+01:43:52,920 --> 01:43:56,000
+A liberação foi aprovada
+pelo Dr. Charles Nichols.
+
+1062
+01:43:56,760 --> 01:43:59,400
+Nichols também conhecia Lentz.
+
+1063
+01:44:00,240 --> 01:44:01,680
+Ele era chefe do Lentz.
+
+1064
+01:44:01,840 --> 01:44:03,240
+Estava acobertando o Kimble.
+
+1065
+01:44:03,480 --> 01:44:05,320
+Mande a polícia para lá agora.
+
+1066
+01:44:05,520 --> 01:44:09,840
+Estamos mandando policiais.
+Quero aquele lugar virado do avesso.
+
+1067
+01:44:10,000 --> 01:44:13,600
+E não deixe ninguém zombar do
+seu rabo de cabelo. Bom trabalho.
+
+1068
+01:44:13,760 --> 01:44:15,160
+O prazer é meu.
+
+1069
+01:44:18,000 --> 01:44:19,920
+Dr. Nichols mentiu para mim.
+
+1070
+01:44:20,080 --> 01:44:22,120
+- Encontre-o.
+- Pode deixar.
+
+1071
+01:44:29,960 --> 01:44:31,440
+Ele já deve ter ido.
+
+1072
+01:44:31,600 --> 01:44:35,120
+Olhei em todos os lugares
+que você falou e não o vi.
+
+1073
+01:44:35,280 --> 01:44:36,440
+Estou dizendo.
+
+1074
+01:44:36,600 --> 01:44:39,600
+Se ele estivesse no hospital,
+eu o teria encontrado.
+
+1075
+01:44:39,880 --> 01:44:41,720
+O que quer que eu faça?
+
+1076
+01:44:42,800 --> 01:44:44,640
+Espere. Só um minuto.
+
+1077
+01:44:44,880 --> 01:44:47,360
+Estou vendo ele agora.
+
+1078
+01:45:16,320 --> 01:45:18,560
+Dr. Alexander Lentz.
+
+1079
+01:45:19,000 --> 01:45:22,160
+"Conhecido patologista no
+Hospital Chicago Memorial...
+
+1080
+01:45:22,320 --> 01:45:25,920
+estava indo jogar tênis quando
+um veículo não identificado...
+
+1081
+01:45:26,080 --> 01:45:27,480
+atingiu seu corpo...
+
+1082
+01:45:27,680 --> 01:45:31,520
+contra a proteção separando
+a rua do Lago Michigan."
+
+1083
+01:45:34,160 --> 01:45:36,160
+Não acreditará nisso.
+
+1084
+01:45:36,360 --> 01:45:39,840
+Registros de Sykes nos últimos dois anos
+não mostram ligações para Kimble.
+
+1085
+01:45:40,160 --> 01:45:41,280
+Eu imaginava.
+
+1086
+01:45:41,440 --> 01:45:45,120
+Mas quando chequei os registros
+do Kimble, uma apareceu.
+
+1087
+01:45:45,280 --> 01:45:46,600
+Kimble ligou para o Sykes.
+
+1088
+01:45:48,920 --> 01:45:50,360
+Traga o Sykes aqui agora.
+
+1089
+01:45:50,520 --> 01:45:52,200
+Na noite do assassinato...
+
+1090
+01:45:52,360 --> 01:45:53,760
+às 19h30...
+
+1091
+01:45:53,960 --> 01:45:55,360
+do telefone do seu carro.
+
+1092
+01:45:55,520 --> 01:45:58,040
+Tem o relatório da prisão do Kimble?
+
+1093
+01:46:03,960 --> 01:46:05,640
+- 19h30.
+- Aqui.
+
+1094
+01:46:07,640 --> 01:46:09,960
+Eles acabaram de entrar.
+Sykes sumiu.
+
+1095
+01:46:10,120 --> 01:46:11,360
+Não o encontram em nenhum lugar.
+
+1096
+01:46:12,480 --> 01:46:13,800
+Ele sumiu.
+
+1097
+01:46:26,040 --> 01:46:28,640
+KIMBLE EM CHICAGO
+
+1098
+01:47:18,280 --> 01:47:23,120
+Possível localização de Richard Kimble
+no trem elevado norte sentido Van Buren.
+
+1099
+01:47:29,720 --> 01:47:31,560
+Vá até a porta, doutor.
+
+1100
+01:47:39,320 --> 01:47:42,640
+Próximo parada, Estação Balbo.
+
+1101
+01:47:42,880 --> 01:47:44,560
+É a minha estação.
+
+1102
+01:47:45,960 --> 01:47:47,640
+A minha também.
+
+1103
+01:48:47,920 --> 01:48:49,400
+Perdeu sua estação.
+
+1104
+01:49:12,520 --> 01:49:15,640
+Um guarda de trânsito viu Kimble
+no elevado na Estação Balbo.
+
+1105
+01:49:15,840 --> 01:49:17,880
+A polícia está a caminho.
+
+1106
+01:49:53,720 --> 01:49:58,400
+Atenção todas as unidades. Um guarda
+foi baleado na Estação Balbo.
+
+1107
+01:49:58,720 --> 01:50:01,200
+Kimble é suspeito.
+Repito, quarda baleado.
+
+1108
+01:50:01,400 --> 01:50:03,160
+O que ele fez?
+Atirou em um policial?
+
+1109
+01:50:03,320 --> 01:50:05,720
+A polícia de Chicago irá devorá-lo.
+
+1110
+01:50:10,080 --> 01:50:13,000
+É um prazer e um privilégio...
+
+1111
+01:50:13,840 --> 01:50:16,840
+apresentar o orador desta noite.
+
+1112
+01:50:27,240 --> 01:50:29,080
+Nos últimos quatro anos...
+
+1113
+01:50:29,240 --> 01:50:32,600
+ele serviu como membro
+da A. Jude Robinson...
+
+1114
+01:50:32,760 --> 01:50:35,920
+e chefe de patologia administrativa...
+
+1115
+01:50:36,080 --> 01:50:38,520
+no Hospital Chicago Memorial.
+
+1116
+01:50:43,200 --> 01:50:45,520
+Onde são as saídas de emergência?
+
+1117
+01:50:46,520 --> 01:50:50,600
+Suspeito visto entrando no
+Hilton Tower Mall, piso térreo.
+
+1118
+01:50:51,440 --> 01:50:52,440
+Ah, você não acha...
+
+1119
+01:50:52,600 --> 01:50:54,200
+Eu sei aonde ele está indo.
+
+1120
+01:50:56,120 --> 01:50:57,720
+Biggs, Newman, onde estão?
+
+1121
+01:50:59,640 --> 01:51:04,560
+Ele foi apontado para a Mesa Diretora
+da Farmacêutica Devlin MacGregor.
+
+1122
+01:51:05,200 --> 01:51:07,200
+Por favor, recebem calorosamente...
+
+1123
+01:51:07,720 --> 01:51:09,880
+o Dr. Charles Nichols.
+
+1124
+01:51:16,400 --> 01:51:18,880
+Obrigado, senhoras e senhores...
+
+1125
+01:51:19,040 --> 01:51:21,080
+amigos e colegas.
+
+1126
+01:51:21,560 --> 01:51:23,800
+É ótimo a presença de todos.
+
+1127
+01:51:36,560 --> 01:51:40,160
+A Polícia informou que um guarda foi
+baleado e um cara com duas armas...
+
+1128
+01:51:40,320 --> 01:51:42,320
+- Foi o Kimble?
+- Relatórios conflitantes.
+
+1129
+01:51:42,480 --> 01:51:44,320
+Ele entrou no hotel pelo metrô.
+
+1130
+01:51:44,520 --> 01:51:46,160
+- Ele é meu!
+- Não é mais.
+
+1131
+01:51:46,320 --> 01:51:48,520
+Ele será pego.
+Pode ajudar ficando de fora.
+
+1132
+01:51:48,680 --> 01:51:50,000
+Prendar-nos!
+
+1133
+01:51:50,160 --> 01:51:52,240
+Fechem tudo!
+Comecem pelo piso térreo.
+
+1134
+01:51:55,280 --> 01:51:57,840
+Todas as unidades, informem quando
+o piso térreo estiver seguro.
+
+1135
+01:52:00,120 --> 01:52:02,840
+Todas as unidades,
+bloqueiem todas as saídas.
+
+1136
+01:52:03,680 --> 01:52:07,440
+Ache a sala de segurança do hotel
+e comunique-se comigo pelo rádio.
+
+1137
+01:52:10,520 --> 01:52:12,120
+Um novo medicamento...
+
+1138
+01:52:12,280 --> 01:52:16,360
+prestes a ser aprovado pela Administração
+de Alimentos e Medicamentos...
+
+1139
+01:52:16,520 --> 01:52:20,640
+mudará esses antigos
+métodos para sempre.
+
+1140
+01:52:21,440 --> 01:52:23,800
+- Agente Federal Newman.
+- Como vai?
+
+1141
+01:52:25,120 --> 01:52:26,640
+- Bem.
+- Sam, estou aqui.
+
+1142
+01:52:30,400 --> 01:52:34,040
+... através dos caminhos metabólicos
+normais no fígado.
+
+1143
+01:52:35,200 --> 01:52:37,400
+E o nome do medicamento é...
+
+1144
+01:52:37,560 --> 01:52:38,960
+Provasic.
+
+1145
+01:52:40,480 --> 01:52:42,640
+Conforme eu demonstrarei hoje...
+
+1146
+01:52:42,800 --> 01:52:45,640
+Provasic é extremamente efetivo...
+
+1147
+01:52:45,800 --> 01:52:49,000
+e não tem qualquer efeito colateral.
+
+1148
+01:52:49,240 --> 01:52:51,920
+Também vale salientar
+que esse medica...
+
+1149
+01:52:57,160 --> 01:52:59,400
+Que esse medicamento
+foi desenvolvido...
+
+1150
+01:52:59,560 --> 01:53:02,840
+em cooperação, não competição,
+com o Hospital Memorial Hospital...
+
+1151
+01:53:03,000 --> 01:53:04,760
+e esperamos que seja...
+
+1152
+01:53:04,920 --> 01:53:07,760
+o modelo para desonestas...
+
+1153
+01:53:08,520 --> 01:53:10,080
+Perdão, honestas...
+
+1154
+01:53:13,720 --> 01:53:15,040
+colaborações...
+
+1155
+01:53:15,200 --> 01:53:17,720
+entre a medicina acadêmica...
+
+1156
+01:53:17,920 --> 01:53:19,920
+e a indústria farmacêutica...
+
+1157
+01:53:20,200 --> 01:53:21,520
+Richard!
+
+1158
+01:53:22,920 --> 01:53:26,360
+Desculpe, estou no meio
+de um discurso.
+
+1159
+01:53:26,840 --> 01:53:28,600
+Quase saiu ileso, não é?
+
+1160
+01:53:31,200 --> 01:53:32,760
+Eu sei de tudo.
+
+1161
+01:53:34,600 --> 01:53:35,960
+Posso provar.
+
+1162
+01:53:37,440 --> 01:53:41,360
+Senhoras e senhores, meu amigo
+Richard Kimble não se sente bem...
+
+1163
+01:53:41,600 --> 01:53:43,040
+obviamente...
+
+1164
+01:53:43,440 --> 01:53:46,800
+então vamos partir para
+a sobremesa e café...
+
+1165
+01:53:47,040 --> 01:53:50,560
+Richard, importa-se em me
+acompanhar para conversarmos?
+
+1166
+01:53:52,280 --> 01:53:55,400
+Bom, eu volto em um segundo.
+
+1167
+01:53:59,200 --> 01:54:01,640
+Você mudou as amostras, não?
+
+1168
+01:54:03,400 --> 01:54:05,720
+Trocou as amostras...
+
+1169
+01:54:05,880 --> 01:54:07,560
+depois que Lentz morreu.
+
+1170
+01:54:09,400 --> 01:54:11,800
+Vamos manter a calma, pessoal.
+
+1171
+01:54:13,240 --> 01:54:16,640
+Depois que Lentz morreu,
+só você tinha acesso.
+
+1172
+01:54:17,840 --> 01:54:19,920
+Você trocou as amostras...
+
+1173
+01:54:20,400 --> 01:54:22,640
+e os relatórios patológicos.
+
+1174
+01:54:22,840 --> 01:54:24,240
+Matou Lentz também?
+
+1175
+01:54:24,400 --> 01:54:25,760
+Chamem a Segurança.
+
+1176
+01:54:25,920 --> 01:54:27,000
+Matou?
+
+1177
+01:54:27,840 --> 01:54:30,400
+Ele falsificou sua pesquisa...
+
+1178
+01:54:31,760 --> 01:54:34,160
+para que o RDU-90 pudesse ser...
+
+1179
+01:54:34,320 --> 01:54:35,680
+aprovado e...
+
+1180
+01:54:35,920 --> 01:54:39,080
+Devlin MacGregor lhe desse o Provasic.
+
+1181
+01:54:41,280 --> 01:54:42,760
+Acabou, pessoal.
+
+1182
+01:54:42,920 --> 01:54:44,840
+Vamos manter a calma.
+
+1183
+01:55:01,200 --> 01:55:04,360
+Você nunca desiste, não é?
+Nunca desiste!
+
+1184
+01:55:27,160 --> 01:55:28,320
+Por que Helen?
+
+1185
+01:55:31,240 --> 01:55:32,240
+Que bom que estão aqui.
+
+1186
+01:55:32,400 --> 01:55:33,800
+Para onde eles foram?
+
+1187
+01:55:34,000 --> 01:55:36,000
+- Na direção da Suíte Presidencial.
+- Onde é?
+
+1188
+01:55:36,160 --> 01:55:39,000
+- Ala sudeste.
+- Tem quantas saídas daqui?
+
+1189
+01:55:39,160 --> 01:55:42,480
+Quatro: duas pelo leste,
+duas pelo oeste.
+
+1190
+01:55:43,760 --> 01:55:45,000
+Kimble está no telhado!
+
+1191
+01:55:45,640 --> 01:55:47,240
+Cosmo, por ali.
+
+1192
+01:56:00,000 --> 01:56:02,240
+Pare! Fique onde está!
+
+1193
+01:56:02,440 --> 01:56:04,280
+É a Polícia de Chicago!
+
+1194
+01:56:04,920 --> 01:56:06,920
+Levante as mãos!
+
+1195
+01:56:07,080 --> 01:56:09,360
+O prédio está todo cercado.
+
+1196
+01:56:09,680 --> 01:56:12,120
+Repito, não se mexa!
+
+1197
+01:56:13,000 --> 01:56:14,680
+Ponha as mãos para cima!
+
+1198
+01:56:16,360 --> 01:56:17,960
+Repito, fique onde está!
+
+1199
+01:56:41,560 --> 01:56:42,800
+Fale comigo.
+
+1200
+01:56:42,960 --> 01:56:45,640
+Eles estão indo para
+o canto norte do telhado.
+
+1201
+01:56:45,800 --> 01:56:46,960
+Newman!
+
+1202
+01:56:47,960 --> 01:56:50,040
+Tragam aquele helicóptero aqui!
+
+1203
+01:56:53,800 --> 01:56:55,880
+Assim que tiverem uma visão clara...
+
+1204
+01:56:56,080 --> 01:56:57,720
+atirem.
+
+1205
+01:57:15,920 --> 01:57:17,920
+Livre-se do helicóptero!
+
+1206
+01:57:18,080 --> 01:57:20,080
+- Por quê?
+- Eu não quero levar um tiro!
+
+1207
+01:57:20,600 --> 01:57:24,600
+Polícia de Chicago, tem um agente
+no telhado. Não atirem!
+
+1208
+01:57:24,840 --> 01:57:27,160
+E retirem o helicóptero!
+
+1209
+01:58:14,720 --> 01:58:16,040
+Não atire.
+
+1210
+01:58:19,400 --> 01:58:21,240
+Esse cara nunca desiste?
+
+1211
+01:58:21,400 --> 01:58:23,400
+Descubra onde o elevador para.
+
+1212
+01:58:24,920 --> 01:58:27,320
+Elevador noroeste!
+Onde ele para?
+
+1213
+01:58:27,480 --> 01:58:29,840
+Para onde eles foram?
+Para onde eles foram?
+
+1214
+01:58:59,960 --> 01:59:02,320
+- Parou no quinto andar.
+- Eles estão no quinto andar.
+
+1215
+01:59:02,480 --> 01:59:04,760
+- O que tem no quinto andar?
+- A lavanderia.
+
+1216
+01:59:06,280 --> 01:59:08,360
+Eles pararam na lavanderia.
+
+1217
+01:59:52,240 --> 01:59:55,240
+Estamos no quinto andar.
+Qual é sua posição?
+
+1218
+01:59:56,320 --> 01:59:57,680
+Atrás de você.
+
+1219
+01:59:57,920 --> 01:59:59,680
+O que está acontecendo aqui?
+
+1220
+02:00:00,160 --> 02:00:03,320
+Mantenha a Polícia longe.
+Eles estão muito agitados.
+
+1221
+02:00:03,480 --> 02:00:05,600
+Quero que se livre dessas pessoas.
+
+1222
+02:00:05,760 --> 02:00:07,080
+Pessoal, mantenha a calma.
+
+1223
+02:00:07,240 --> 02:00:08,920
+Cosmo, venha comigo.
+
+1224
+02:01:30,240 --> 02:01:32,920
+Dr. Richard Kimble!
+
+1225
+02:01:33,600 --> 02:01:35,600
+Não tem saída daqui!
+
+1226
+02:01:37,160 --> 02:01:39,840
+O prédio inteiro está cercado!
+
+1227
+02:01:42,520 --> 02:01:44,600
+Desista, você não tem mais tempo!
+
+1228
+02:01:44,760 --> 02:01:47,520
+A Polícia de Chicago acha
+que você matou um tira!
+
+1229
+02:01:48,760 --> 02:01:51,360
+Eles vão atirar ao avistá-lo!
+
+1230
+02:01:55,040 --> 02:01:57,120
+Eu sei que você é inocente!
+
+1231
+02:01:58,520 --> 02:02:00,960
+Sei tudo sobre Fredrick Sykes!
+
+1232
+02:02:03,600 --> 02:02:06,440
+Sei sobre o Dr. Charles Nichols!
+
+1233
+02:02:08,360 --> 02:02:11,720
+Ele pegou seu carro emprestado na
+noite em que assassinou sua mulher!
+
+1234
+02:02:11,880 --> 02:02:13,560
+Ele tinha as chaves!
+
+1235
+02:02:13,720 --> 02:02:15,720
+Nenhuma entrada forçada.
+
+1236
+02:02:16,960 --> 02:02:19,880
+Ele ligou para o Sykes
+do seu carro, Richard!
+
+1237
+02:02:27,480 --> 02:02:29,240
+Desista!
+
+1238
+02:02:31,560 --> 02:02:34,560
+Ou estou mentindo ou
+terei que atirar em você!
+
+1239
+02:02:35,720 --> 02:02:37,240
+O que acha?
+
+1240
+02:02:56,600 --> 02:02:59,920
+Desista! Chega de correr!
+
+1241
+02:03:40,640 --> 02:03:42,400
+Mataram a minha esposa.
+
+1242
+02:03:43,200 --> 02:03:44,560
+Eu sei.
+
+1243
+02:03:46,240 --> 02:03:47,480
+Eu sei.
+
+1244
+02:03:49,480 --> 02:03:50,720
+Mas agora acabou.
+
+1245
+02:03:53,720 --> 02:03:55,720
+Sabia que estou satisfeito?
+
+1246
+02:03:55,880 --> 02:03:57,560
+Preciso descansar.
+
+1247
+02:04:12,240 --> 02:04:14,160
+Quem matou a esposa de Kimble?
+
+1248
+02:04:14,320 --> 02:04:16,240
+Kimble foi condenado por isso.
+
+1249
+02:04:16,400 --> 02:04:19,160
+Agora vocês têm um homem
+de um braço só sob custódia.
+
+1250
+02:04:19,320 --> 02:04:21,360
+- Foi ele?
+- Não faço ideia.
+
+1251
+02:04:21,520 --> 02:04:23,160
+Quantos homens de
+um braço só tem por aí?
+
+1252
+02:04:23,360 --> 02:04:25,000
+Muitos.
+
+1253
+02:04:25,160 --> 02:04:27,200
+Vocês cometeram um erro?
+
+1254
+02:04:30,400 --> 02:04:34,160
+Tem um homem de um braço só,
+mas nunca vi tantos por aqui.
+
+1255
+02:04:34,920 --> 02:04:37,200
+Você têm um prazo agora.
+
+1256
+02:04:37,840 --> 02:04:42,280
+Diga ao Samuel Gerard que vou
+pra casa. Estou tirando férias.
+
+1257
+02:04:45,520 --> 02:04:47,880
+Evacue a área, pessoal.
+
+1258
+02:05:05,560 --> 02:05:06,800
+Cuidado com a cabeça.
+
+1259
+02:05:18,080 --> 02:05:19,880
+Cadê a chave?
+
+1260
+02:05:20,480 --> 02:05:22,480
+Deixe-me ver suas mãos, doutor.
+
+1261
+02:05:40,920 --> 02:05:42,440
+Pensei que não se importasse.
+
+1262
+02:05:42,680 --> 02:05:43,920
+Eu não me importo.
+
+1263
+02:05:46,920 --> 02:05:48,760
+Só não conte para
+ninguém, está bem?
+
+1264
+02:10:11,480 --> 02:10:13,480
+[Portuguese - Brazilian]
