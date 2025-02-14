@@ -4,35 +4,35 @@
 
 2
 00:01:06,604 --> 00:01:11,275
-60 nós? De maneira nenhuma, Barnes.
-Os russos não têm nada assim tão rápido.
+60 nÃ³s? De maneira nenhuma, Barnes.
+Os russos nÃ£o tÃªm nada assim tÃ£o rÃ¡pido.
 
 3
 00:01:11,484 --> 00:01:15,029
 Reconfirmei isso. Quer dizer,
-faz de fato um barulho único.
+faz de fato um barulho Ãºnico.
 
 4
 00:01:15,071 --> 00:01:17,657
-Sem ressonância.
+Sem ressonÃ¢ncia.
 Reator silencioso.
 
 5
 00:01:18,366 --> 00:01:20,952
 Nem sequer soa como se
-tivesse hélices.
+tivesse hÃ©lices.
 
 6
 00:01:29,293 --> 00:01:31,003
-Mas que raio será isto?
+Mas que raio serÃ¡ isto?
 
 7
 00:01:32,505 --> 00:01:34,465
-Eu vou dizer o que não é.
+Eu vou dizer o que nÃ£o Ã©.
 
 8
 00:01:35,174 --> 00:01:36,717
-Não é um dos nossos.
+NÃ£o Ã© um dos nossos.
 
 9
 00:01:36,801 --> 00:01:40,138
@@ -44,25 +44,25 @@ Velocidade...
 
 11
 00:01:43,433 --> 00:01:44,475
-...80 nós.
+...80 nÃ³s.
 
 12
 00:01:46,102 --> 00:01:46,978
-80 nós.
+80 nÃ³s.
 
 13
 00:01:48,312 --> 00:01:53,516
 Ainda submergindo.
-Profundidade 900 pés.
+Profundidade 900 pÃ©s.
 
 14
 00:01:53,568 --> 00:01:56,737
-Folga à esquerda a
-150 pés da parede da escarpa, Sr.
+Folga Ã  esquerda a
+150 pÃ©s da parede da escarpa, Sr.
 
 15
 00:01:56,779 --> 00:01:58,948
-Está ficando apertado aqui.
+EstÃ¡ ficando apertado aqui.
 
 16
 00:01:59,782 --> 00:02:01,993
@@ -71,7 +71,7 @@ Podemos passar raspando.
 17
 00:02:02,034 --> 00:02:05,204
 Leme.
-Passa direto para... 069º.
+Passa direto para... 069Âº.
 
 18
 00:02:05,788 --> 00:02:07,081
@@ -79,12 +79,12 @@ Descer cinco graus.
 
 19
 00:02:07,123 --> 00:02:09,542
-Vem para 069º.
+Vem para 069Âº.
 Descer cinco graus. Feito.
 
 20
 00:02:09,625 --> 00:02:12,754
-Folga à esquerda de 120 pés.
+Folga Ã  esquerda de 120 pÃ©s.
 Reduzir para 75.
 
 21
@@ -94,7 +94,7 @@ proximidade acesa.
 
 22
 00:02:15,214 --> 00:02:17,800
-Está perto demais,
+EstÃ¡ perto demais,
 temos que nos afastar.
 
 23
@@ -108,7 +108,7 @@ a 260 e acelerou para...
 
 25
 00:02:25,808 --> 00:02:27,560
-para 130 nós, Sr.
+para 130 nÃ³s, Sr.
 
 26
 00:02:28,519 --> 00:02:30,688
@@ -128,18 +128,18 @@ Sr., objeto a 100 jardas.
 
 30
 00:02:49,290 --> 00:02:51,542
-É uma turbulência!
+Ã‰ uma turbulÃªncia!
 Fomos apanhados por ela!
 
 31
 00:02:51,584 --> 00:02:54,003
 Leme, parada total!
-Virar tudo à direita.
+Virar tudo Ã  direita.
 
 32
 00:02:54,045 --> 00:02:57,090
-Falha hidráulica.
-Os comandos não respondem, Sr.
+Falha hidrÃ¡ulica.
+Os comandos nÃ£o respondem, Sr.
 
 33
 00:02:57,131 --> 00:02:59,634
@@ -148,7 +148,7 @@ Monitores de volta.
 
 34
 00:03:00,301 --> 00:03:02,303
-Hidráulicos restaurados, Sr.
+HidrÃ¡ulicos restaurados, Sr.
 
 35
 00:03:06,390 --> 00:03:07,600
@@ -160,8 +160,8 @@ Fogo no sistema de radar!
 
 37
 00:03:13,397 --> 00:03:16,109
-Alarme de colisão.
-Alarme de colisão!
+Alarme de colisÃ£o.
+Alarme de colisÃ£o!
 
 38
 00:03:18,194 --> 00:03:19,987
@@ -188,8 +188,8 @@ Despejem todos! Despejem tudo!
 
 43
 00:03:42,260 --> 00:03:45,888
-Me dá um relatório dos danos!
-Qual é nossa profundidade?
+Me dÃ¡ um relatÃ³rio dos danos!
+Qual Ã© nossa profundidade?
 
 44
 00:03:47,432 --> 00:03:49,183
@@ -232,7 +232,7 @@ Passando de 1.550. Ainda descendo.
 53
 00:04:11,664 --> 00:04:14,500
 e continuamos a descer!
-- Lançar bóia de aviso.
+- LanÃ§ar bÃ³ia de aviso.
 
 54
 00:04:14,542 --> 00:04:16,002
@@ -241,11 +241,11 @@ Passando de 1.650.
 55
 00:04:16,377 --> 00:04:18,546
 - Passando de 1.700, senhor.
-- Lançando!
+- LanÃ§ando!
 
 56
 00:04:34,645 --> 00:04:36,147
-Vamos! Me dá sua mão!
+Vamos! Me dÃ¡ sua mÃ£o!
 
 57
 00:04:37,899 --> 00:04:39,525
@@ -254,34 +254,34 @@ Feche a porta!
 58
 00:05:15,019 --> 00:05:17,772
 <i>Benthic Explorer,
-Salvor One na final. Câmbio.</i>
+Salvor One na final. CÃ¢mbio.</i>
 
 59
 00:05:17,824 --> 00:05:20,525
 <i>Recebendo, Salvor One.
-Aqui é Benthic Explorer.</i>
+Aqui Ã© Benthic Explorer.</i>
 
 60
 00:05:20,650 --> 00:05:22,235
-Você tem autorização pra pousar.
+VocÃª tem autorizaÃ§Ã£o pra pousar.
 
 61
 00:05:23,986 --> 00:05:25,279
-Ei! Estão chegando.
+Ei! EstÃ£o chegando.
 
 62
 00:05:33,454 --> 00:05:35,790
-Isto... Não me cheira bem.
+Isto... NÃ£o me cheira bem.
 
 63
 00:05:36,707 --> 00:05:38,960
 Sim.
-Não está com a cara boa mesmo.
+NÃ£o estÃ¡ com a cara boa mesmo.
 
 64
 00:06:14,829 --> 00:06:17,498
-Oh, não.
-Veja só quem vem com eles.
+Oh, nÃ£o.
+Veja sÃ³ quem vem com eles.
 
 65
 00:06:17,915 --> 00:06:19,959
@@ -294,34 +294,34 @@ A rainha universal das cadelas.
 67
 00:06:22,253 --> 00:06:25,548
 <i>Tenho mais duas juntas,
-nesta válvula de condensação.</i>
+nesta vÃ¡lvula de condensaÃ§Ã£o.</i>
 
 68
 00:06:25,590 --> 00:06:27,550
-Não se vê luz da superfície.
+NÃ£o se vÃª luz da superfÃ­cie.
 
 69
 00:06:27,925 --> 00:06:30,595
-- Qual é a profundidade deles?
+- Qual Ã© a profundidade deles?
 - McBride?
 
 70
 00:06:30,636 --> 00:06:31,721
-1.700 pés.
+1.700 pÃ©s.
 
 71
 00:06:32,263 --> 00:06:36,225
-- É preciso que desçam abaixo de 2.000.
-- Não há problema. Eles vão conseguir.
+- Ã‰ preciso que desÃ§am abaixo de 2.000.
+- NÃ£o hÃ¡ problema. Eles vÃ£o conseguir.
 
 72
 00:06:36,893 --> 00:06:38,102
-Então é isso?
+EntÃ£o Ã© isso?
 
 73
 00:06:39,270 --> 00:06:42,732
-Você entrega a
-coisa inteira ao esquadrão de valentões?
+VocÃª entrega a
+coisa inteira ao esquadrÃ£o de valentÃµes?
 
 74
 00:06:42,774 --> 00:06:45,943
@@ -330,47 +330,47 @@ Estou cooperando.
 
 75
 00:06:47,195 --> 00:06:49,071
-Kirkhill, você é patético.
+Kirkhill, vocÃª Ã© patÃ©tico.
 
 76
 00:06:49,906 --> 00:06:51,491
-Põe o Brigman na linha.
+PÃµe o Brigman na linha.
 
 77
 00:06:52,325 --> 00:06:54,786
-Hippy, põe o Bud na linha.
+Hippy, pÃµe o Bud na linha.
 
 78
 00:07:01,375 --> 00:07:04,629
-<i>Catfish, traga sua carcaça até aqui
-e me dá uma mão.</i>
+<i>Catfish, traga sua carcaÃ§a atÃ© aqui
+e me dÃ¡ uma mÃ£o.</i>
 
 79
 00:07:05,755 --> 00:07:07,882
-<i>Aguenta aí. Estarei aí num segundo.</i>
+<i>Aguenta aÃ­. Estarei aÃ­ num segundo.</i>
 
 80
 00:07:13,763 --> 00:07:15,588
-<i>Ei, vocês estão demorando
+<i>Ei, vocÃªs estÃ£o demorando
 com este trabalho.</i>
 
 81
 00:07:15,640 --> 00:07:20,061
-<i>É mesmo, é porque adoramos congelar
-nossas traseiras pra você aqui.</i>
+<i>Ã‰ mesmo, Ã© porque adoramos congelar
+nossas traseiras pra vocÃª aqui.</i>
 
 82
 00:07:28,152 --> 00:07:29,403
 - Ei, Bud!
-- Quê?
+- QuÃª?
 
 83
 00:07:29,862 --> 00:07:31,531
-Hippy está no telefone!
+Hippy estÃ¡ no telefone!
 
 84
 00:07:32,323 --> 00:07:35,118
-É uma chamada da superfície.
+Ã‰ uma chamada da superfÃ­cie.
 Aquele cara novo da empresa.
 
 85
@@ -380,36 +380,36 @@ Aquele cara novo da empresa.
 
 86
 00:07:36,452 --> 00:07:39,403
-Aquele cara não sabe
-nem onde está o nariz dele.
+Aquele cara nÃ£o sabe
+nem onde estÃ¡ o nariz dele.
 
 87
 00:07:39,455 --> 00:07:44,043
-Perry, faça o favor de enrolar esta
+Perry, faÃ§a o favor de enrolar esta
 mangueira e se livre destes sacos vazios.
 
 88
 00:07:44,085 --> 00:07:46,421
-Começa a se parecer
+ComeÃ§a a se parecer
 com meu apartamento.
 
 89
 00:07:50,466 --> 00:07:53,052
-<i>Bud, atende aí a superfície.
-É urgente.</i>
+<i>Bud, atende aÃ­ a superfÃ­cie.
+Ã‰ urgente.</i>
 
 90
 00:07:53,094 --> 00:07:56,764
-Já vou! Já vou! Meu Deus!
-Paciência é uma virtude.
+JÃ¡ vou! JÃ¡ vou! Meu Deus!
+PaciÃªncia Ã© uma virtude.
 
 91
 00:08:04,021 --> 00:08:05,273
-Aqui é o Brigman.
+Aqui Ã© o Brigman.
 
 92
 00:08:06,190 --> 00:08:08,192
-É, Kirkhill. O que que está acontecendo?
+Ã‰, Kirkhill. O que que estÃ¡ acontecendo?
 
 93
 00:08:08,901 --> 00:08:13,030
@@ -428,32 +428,32 @@ com 156 homens a bordo, naufragou</i>
 
 96
 00:08:19,454 --> 00:08:23,541
-<i>Não houve contato com o submarino e
+<i>NÃ£o houve contato com o submarino e
 desconhece-se a causa do incidente.</i>
 
 97
 00:08:23,916 --> 00:08:26,002
-<i>A marinha tem autorização para usar</i>
+<i>A marinha tem autorizaÃ§Ã£o para usar</i>
 
 98
 00:08:26,043 --> 00:08:28,546
-<i>estas instalações para
-uma operação de salvamento</i>
+<i>estas instalaÃ§Ãµes para
+uma operaÃ§Ã£o de salvamento</i>
 
 99
 00:08:28,588 --> 00:08:31,007
-<i>com o nome de código
-"Operação Salvor".</i>
+<i>com o nome de cÃ³digo
+"OperaÃ§Ã£o Salvor".</i>
 
 100
 00:08:31,382 --> 00:08:35,344
 <i>- Querem que procuremos pelo submarino?
-- Não. Sabemos onde está.</i>
+- NÃ£o. Sabemos onde estÃ¡.</i>
 
 101
 00:08:35,470 --> 00:08:38,306
-<i>Mas ele está a 2.000 pés de profundidade
-e não vamos conseguir chegar até ele.</i>
+<i>Mas ele estÃ¡ a 2.000 pÃ©s de profundidade
+e nÃ£o vamos conseguir chegar atÃ© ele.</i>
 
 102
 00:08:38,347 --> 00:08:42,518
@@ -462,22 +462,22 @@ no submarino e procurar sobreviventes.
 
 103
 00:08:42,560 --> 00:08:44,687
-<i>O senhor não tem sua própria
-máquina pra fazer isto?</i>
+<i>O senhor nÃ£o tem sua prÃ³pria
+mÃ¡quina pra fazer isto?</i>
 
 104
 00:08:44,729 --> 00:08:48,524
-<i>Antes dos nossos submergíveis chegarem,
-a tempestade se abaterá sobre nós.</i>
+<i>Antes dos nossos submergÃ­veis chegarem,
+a tempestade se abaterÃ¡ sobre nÃ³s.</i>
 
 105
 00:08:48,566 --> 00:08:51,444
-<i>Vocês conseguem chegar lá
+<i>VocÃªs conseguem chegar lÃ¡
 com a sonda em 15 horas.</i>
 
 106
 00:08:51,486 --> 00:08:53,654
-<i>O que os torna a nossa melhor opção.</i>
+<i>O que os torna a nossa melhor opÃ§Ã£o.</i>
 
 107
 00:08:53,696 --> 00:08:56,115
@@ -487,35 +487,35 @@ por uma coisa como esta?</i>
 108
 00:08:56,157 --> 00:08:59,452
 <i>Fui autorizado a oferecer
-bônus especiais a todos vocês...</i>
+bÃ´nus especiais a todos vocÃªs...</i>
 
 109
 00:08:59,494 --> 00:09:02,330
-equivalente a três vezes
+equivalente a trÃªs vezes
 o pagamento normal.
 
 110
 00:09:02,580 --> 00:09:04,040
-Sim, senhor, sócio!
+Sim, senhor, sÃ³cio!
 
 111
 00:09:04,082 --> 00:09:06,375
-Pelo triplo, posso comer até um vagão!
+Pelo triplo, posso comer atÃ© um vagÃ£o!
 
 112
 00:09:06,417 --> 00:09:09,253
-Me atei fogo e me põe lá fora
+Me atei fogo e me pÃµe lÃ¡ fora
 junto com urina de cavalo.
 
 113
 00:09:09,295 --> 00:09:12,006
-Não sei que tipo de negócio
-o senhor fêz com a empresa,
+NÃ£o sei que tipo de negÃ³cio
+o senhor fÃªz com a empresa,
 
 114
 00:09:12,048 --> 00:09:15,718
-mas meu pessoal não está qualificado
-pra fazer isto. Trabalhamos é com petróleo.
+mas meu pessoal nÃ£o estÃ¡ qualificado
+pra fazer isto. Trabalhamos Ã© com petrÃ³leo.
 
 115
 00:09:16,427 --> 00:09:18,262
@@ -523,12 +523,12 @@ pra fazer isto. Trabalhamos é com petróleo.
 
 116
 00:09:19,388 --> 00:09:21,182
-<i>Aqui é o Tenente Coffey.</i>
+<i>Aqui Ã© o Tenente Coffey.</i>
 
 117
 00:09:21,682 --> 00:09:25,103
-Ele vai se transferir pra cá com uma equipe
-do SEAL e supervisará a operação.
+Ele vai se transferir pra cÃ¡ com uma equipe
+do SEAL e supervisarÃ¡ a operaÃ§Ã£o.
 
 118
 00:09:25,144 --> 00:09:28,481
@@ -537,7 +537,7 @@ mas eu sou o encarregado desta plataforma.
 
 119
 00:09:28,523 --> 00:09:32,026
-Quando se trata da segurança desta
+Quando se trata da seguranÃ§a desta
 gente sou eu que mando e depois Deus.
 
 120
@@ -547,7 +547,7 @@ Compreende?
 121
 00:09:33,402 --> 00:09:36,239
 Se a coisa ficar preta,
-cancelo a operação.
+cancelo a operaÃ§Ã£o.
 
 122
 00:09:38,449 --> 00:09:42,203
@@ -556,32 +556,32 @@ mesma sintonia, Brigman.</i>
 
 123
 00:09:42,286 --> 00:09:45,581
-<i>Agora, vamos lá desacoplar
-o topo do poço, pode ser?</i>
+<i>Agora, vamos lÃ¡ desacoplar
+o topo do poÃ§o, pode ser?</i>
 
 124
 00:09:47,125 --> 00:09:49,127
-Está bem. Vamos nos aprontar pra agir.
+EstÃ¡ bem. Vamos nos aprontar pra agir.
 
 125
 00:10:16,571 --> 00:10:19,740
-Vamos virá-lo cinco graus
-pra esquerda, está bem?
+Vamos virÃ¡-lo cinco graus
+pra esquerda, estÃ¡ bem?
 
 126
 00:10:20,241 --> 00:10:22,827
 <i>Recebido.
-Cinco graus à esquerda, Bud.</i>
+Cinco graus Ã  esquerda, Bud.</i>
 
 127
 00:10:30,334 --> 00:10:34,464
-Registre estes números. Preciso de saber
-a nossa posição quando chegar o Furacão.
+Registre estes nÃºmeros. Preciso de saber
+a nossa posiÃ§Ã£o quando chegar o FuracÃ£o.
 
 128
 00:10:34,505 --> 00:10:38,009
-Bem, é oficial.
-Eles deram o nome de Tufão Frederick.
+Bem, Ã© oficial.
+Eles deram o nome de TufÃ£o Frederick.
 
 129
 00:10:38,593 --> 00:10:40,720
@@ -594,17 +594,17 @@ Eles deram o nome de Tufão Frederick.
 
 131
 00:10:44,390 --> 00:10:48,227
-Não sei não, meu chapa. Acho que tufões
-devem receber nomes femininos, não acha?
+NÃ£o sei nÃ£o, meu chapa. Acho que tufÃµes
+devem receber nomes femininos, nÃ£o acha?
 
 132
 00:10:56,152 --> 00:10:59,489
-<i>- Não acredito que está deixando
+<i>- NÃ£o acredito que estÃ¡ deixando
 eles fazerem isto. - Oi, Lins!</i>
 
 133
 00:10:59,989 --> 00:11:02,074
-Pensei que você estava em Houston.
+Pensei que vocÃª estava em Houston.
 
 134
 00:11:02,492 --> 00:11:04,410
@@ -612,18 +612,18 @@ Estava. Agora estou aqui.
 
 135
 00:11:04,994 --> 00:11:08,748
-<i>- Só que aqui não é onde eu deixei o assunto.
-- Não dependia de mim.</i>
+<i>- SÃ³ que aqui nÃ£o Ã© onde eu deixei o assunto.
+- NÃ£o dependia de mim.</i>
 
 136
 00:11:08,790 --> 00:11:12,877
-<i>Estávamos muito perto de provar que
+<i>EstÃ¡vamos muito perto de provar que
 uma plataforma submersa pode funcionar.</i>
 
 137
 00:11:12,919 --> 00:11:16,255
-<i>- Não acredito que os deixou pegarem minha
-plataforma de perfuração! - Sua plataforma?</i>
+<i>- NÃ£o acredito que os deixou pegarem minha
+plataforma de perfuraÃ§Ã£o! - Sua plataforma?</i>
 
 138
 00:11:16,297 --> 00:11:19,550
@@ -632,7 +632,7 @@ plataforma de perfuração! - Sua plataforma?</i>
 
 139
 00:11:19,592 --> 00:11:23,221
-Contanto que segurem o aviso de demissão,
+Contanto que segurem o aviso de demissÃ£o,
 vou onde me mandarem.
 
 140
@@ -641,8 +641,8 @@ vou onde me mandarem.
 
 141
 00:11:24,889 --> 00:11:27,683
-<i>Compraram você,
-não foi? Parece mais que o alugaram barato!</i>
+<i>Compraram vocÃª,
+nÃ£o foi? Parece mais que o alugaram barato!</i>
 
 142
 00:11:28,267 --> 00:11:29,769
@@ -654,8 +654,8 @@ Vou desligar agora.
 
 144
 00:11:31,979 --> 00:11:35,691
-<i>Oh, Está bem. Virgil, seu frouxo!
-Você nunca aguentou uma briga!</i>
+<i>Oh, EstÃ¡ bem. Virgil, seu frouxo!
+VocÃª nunca aguentou uma briga!</i>
 
 145
 00:11:35,733 --> 00:11:36,567
@@ -667,11 +667,11 @@ Virgil?
 
 147
 00:11:41,823 --> 00:11:43,741
-Deus do céu, odeio aquela cadela!
+Deus do cÃ©u, odeio aquela cadela!
 
 148
 00:11:45,243 --> 00:11:48,371
-Provavelmente não deveria ter
+Provavelmente nÃ£o deveria ter
 se casado com ela, hein?
 
 149
@@ -680,36 +680,36 @@ Estabilize isso!
 
 150
 00:11:59,257 --> 00:12:01,342
-<i>Cabine 3. Você já pode Iançar.</i>
+<i>Cabine 3. VocÃª jÃ¡ pode IanÃ§ar.</i>
 
 151
 00:12:04,178 --> 00:12:06,139
-Esperem aí, cavalheiros.
+Esperem aÃ­, cavalheiros.
 
 152
 00:12:11,018 --> 00:12:13,354
 Em cheio!
-O público está eufórico!
+O pÃºblico estÃ¡ eufÃ³rico!
 
 153
 00:12:16,441 --> 00:12:19,110
-<i>Explorer, aqui é a Cabine 3.
+<i>Explorer, aqui Ã© a Cabine 3.
 Saindo com muita classe.</i>
 
 154
 00:12:19,777 --> 00:12:22,655
-- Como vocês aí atrás estão se saindo?
+- Como vocÃªs aÃ­ atrÃ¡s estÃ£o se saindo?
 - Muito bem.
 
 155
 00:12:24,907 --> 00:12:29,287
-<i>Explorer, aqui é a Cabine 3. Começando
+<i>Explorer, aqui Ã© a Cabine 3. ComeÃ§ando
 nossa descida pelo cabo umbilical.</i>
 
 156
 00:12:29,454 --> 00:12:33,124
 <i>- Compreendido, Cabine 3. Boa sorte.
-- Sorte não é um fator.</i>
+- Sorte nÃ£o Ã© um fator.</i>
 
 157
 00:12:53,936 --> 00:12:55,354
@@ -717,8 +717,8 @@ nossa descida pelo cabo umbilical.</i>
 
 158
 00:12:55,396 --> 00:12:59,692
-<i>- Aqui é a Cabine 3 na aproximação final.
-- Compreendido, Cabine 3. É você, Lindsey?</i>
+<i>- Aqui Ã© a Cabine 3 na aproximaÃ§Ã£o final.
+- Compreendido, Cabine 3. Ã‰ vocÃª, Lindsey?</i>
 
 159
 00:13:01,569 --> 00:13:03,070
@@ -726,15 +726,15 @@ Nem mais nem menos.
 
 160
 00:13:05,448 --> 00:13:06,407
-Oh, não!
+Oh, nÃ£o!
 
 161
 00:13:28,137 --> 00:13:29,305
-Olá, rapazes!
+OlÃ¡, rapazes!
 
 162
 00:13:29,639 --> 00:13:30,848
-<i>Olá, Lindsey!</i>
+<i>OlÃ¡, Lindsey!</i>
 
 163
 00:13:31,265 --> 00:13:32,725
@@ -742,32 +742,32 @@ Olá, rapazes!
 
 164
 00:13:33,017 --> 00:13:36,395
-<i>Vocês todas não deviam estar aqui, doçuras.
+<i>VocÃªs todas nÃ£o deviam estar aqui, doÃ§uras.
 Podem estragar suas meias finas.</i>
 
 165
 00:13:42,276 --> 00:13:46,322
-A má notícia é que temos de gastar oito
-horas nesta lata a fazer compressão.
+A mÃ¡ notÃ­cia Ã© que temos de gastar oito
+horas nesta lata a fazer compressÃ£o.
 
 166
 00:13:46,364 --> 00:13:50,701
-E a notícia pior é que vai demorar
-três semanas a fazer a descompressão.
+E a notÃ­cia pior Ã© que vai demorar
+trÃªs semanas a fazer a descompressÃ£o.
 
 167
 00:13:51,244 --> 00:13:53,287
-Já fomos informados, Sra. Brigman.
+JÃ¡ fomos informados, Sra. Brigman.
 
 168
 00:13:53,329 --> 00:13:56,541
-Não me chame Sra. Brigman, está bem?
+NÃ£o me chame Sra. Brigman, estÃ¡ bem?
 Detesto isso.
 
 169
 00:13:57,792 --> 00:14:00,503
 Tudo bem.
-Como é que quer que a chamemos?
+Como Ã© que quer que a chamemos?
 
 170
 00:14:01,129 --> 00:14:01,963
@@ -775,7 +775,7 @@ Chefe?
 
 171
 00:14:05,883 --> 00:14:07,051
-Lá vamos nós!
+LÃ¡ vamos nÃ³s!
 
 172
 00:14:07,927 --> 00:14:10,471
@@ -785,17 +785,17 @@ agora!
 173
 00:14:15,226 --> 00:14:18,521
 Vamos nos vigiar de perto pra detectar
-se há sinais de SNAP.
+se hÃ¡ sinais de SNAP.
 
 174
 00:14:18,563 --> 00:14:21,899
-Síndrome Nervoso de Alta Pressão.
-Músculos a tremer, começa pelas mãos.
+SÃ­ndrome Nervoso de Alta PressÃ£o.
+MÃºsculos a tremer, comeÃ§a pelas mÃ£os.
 
 175
 00:14:21,941 --> 00:14:24,444
-- náusea, excitabilidade...
-- Desorientação.
+- nÃ¡usea, excitabilidade...
+- DesorientaÃ§Ã£o.
 
 176
 00:14:24,485 --> 00:14:26,529
@@ -803,32 +803,32 @@ E outras coisas mais.
 
 177
 00:14:29,907 --> 00:14:33,911
-Uma pessoa em 20 não aguenta isso.
+Uma pessoa em 20 nÃ£o aguenta isso.
 Simplesmente enlouquecem.
 
 178
 00:14:34,203 --> 00:14:37,331
-Olha, todos já mergulharam
-a esta profundidade. Estão aptos.
+Olha, todos jÃ¡ mergulharam
+a esta profundidade. EstÃ£o aptos.
 
 179
 00:14:37,373 --> 00:14:41,461
 Estou ciente disso. O que estou
-dizendo é que é impossível prever
+dizendo Ã© que Ã© impossÃ­vel prever
 
 180
 00:14:41,502 --> 00:14:43,963
-- quem é suscetível.
+- quem Ã© suscetÃ­vel.
 - Eles passaram bem depois.
 
 181
 00:14:46,883 --> 00:14:49,260
-- Estes caras são SEALs?
-- São.
+- Estes caras sÃ£o SEALs?
+- SÃ£o.
 
 182
 00:14:49,385 --> 00:14:53,514
-Aqueles caras não são tão fortes. Lutei
+Aqueles caras nÃ£o sÃ£o tÃ£o fortes. Lutei
 contra caras muito mais fortes do que eles.
 
 183
@@ -842,7 +842,7 @@ Olha!
 
 185
 00:14:58,811 --> 00:15:00,688
-- Vê isto?
+- VÃª isto?
 - Vejo.
 
 186
@@ -851,22 +851,22 @@ Costumavam chamar de o martelo.
 
 187
 00:15:12,408 --> 00:15:15,328
-Já estão todos cozinhados
+JÃ¡ estÃ£o todos cozinhados
 e prontos a servir.
 
 188
 00:15:15,578 --> 00:15:16,954
-Estão todos bem?
+EstÃ£o todos bem?
 
 189
 00:15:21,918 --> 00:15:23,878
-- São realmente muito bonzinhos.
-- São.
+- SÃ£o realmente muito bonzinhos.
+- SÃ£o.
 
 190
 00:15:24,253 --> 00:15:28,049
-Não me lembro de ter posto uma parede
-aqui. Como está passando, Jammer?
+NÃ£o me lembro de ter posto uma parede
+aqui. Como estÃ¡ passando, Jammer?
 
 191
 00:15:28,091 --> 00:15:30,676
@@ -879,12 +879,12 @@ Quero que verifiquem a aparelhagem.
 
 193
 00:15:40,895 --> 00:15:44,357
-Estes caras vão ter tanto divertimento
+Estes caras vÃ£o ter tanto divertimento
 como um fiscal de impostos.
 
 194
 00:16:00,248 --> 00:16:03,209
-Hippy, você vai fazer
+Hippy, vocÃª vai fazer
 aquele rato ficar doente.
 
 195
@@ -893,12 +893,12 @@ Muito bem. Sra. Brigman.
 
 196
 00:16:10,633 --> 00:16:12,427
-Não por muito tempo.
+NÃ£o por muito tempo.
 
 197
 00:16:15,346 --> 00:16:18,433
-Você nunca gostou de
-ser chamada assim, não é?
+VocÃª nunca gostou de
+ser chamada assim, nÃ£o Ã©?
 
 198
 00:16:19,142 --> 00:16:22,145
@@ -907,36 +907,36 @@ alguma coisa.
 
 199
 00:16:23,604 --> 00:16:27,358
-- É a One Night que está no Flatbed?
-- É. Quem mais? Aqui. Diga oi.
+- Ã‰ a One Night que estÃ¡ no Flatbed?
+- Ã‰. Quem mais? Aqui. Diga oi.
 
 200
 00:16:28,901 --> 00:16:32,363
-- Ei, One Night. É a Lindsey.
+- Ei, One Night. Ã‰ a Lindsey.
 - Oh, oi, Lindsey.
 
 201
 00:16:37,535 --> 00:16:39,495
-Então por que veio aqui?
+EntÃ£o por que veio aqui?
 
 202
 00:16:39,954 --> 00:16:44,167
-Vocês precisam de mim. Ninguém conhece
+VocÃªs precisam de mim. NinguÃ©m conhece
 os sistemas aqui melhor do que eu.
 
 203
 00:16:44,250 --> 00:16:48,421
-Uma vez desengatados, terão que se virar
+Uma vez desengatados, terÃ£o que se virar
 sozinhos enquanto durar a tempestade.
 
 204
 00:16:48,796 --> 00:16:52,300
 E se alguma coisa acontecer depois
-que o suporte da superfície se retirar?
+que o suporte da superfÃ­cie se retirar?
 
 205
 00:16:52,341 --> 00:16:56,679
-Tem razão. Nós, pobres idiotas, é que
+Tem razÃ£o. NÃ³s, pobres idiotas, Ã© que
 teremos de saber o que devemos fazer.
 
 206
@@ -951,16 +951,16 @@ Poderia ser um desastre.
 208
 00:17:04,187 --> 00:17:07,231
 - Quer saber o que eu acho?
-- Não particularmente.
+- NÃ£o particularmente.
 
 209
 00:17:07,523 --> 00:17:10,568
 - Acho que estavas preocupada comigo.
-- Então deve ser isto.
+- EntÃ£o deve ser isto.
 
 210
 00:17:10,610 --> 00:17:14,113
-Não, falando seriamente.
+NÃ£o, falando seriamente.
 Acho que estavas. Tudo bem.
 
 211
@@ -970,7 +970,7 @@ Tudo bem. Pode admitir.
 212
 00:17:16,699 --> 00:17:18,910
 Eu estava preocupada...
-com a plataforma de perfuração.
+com a plataforma de perfuraÃ§Ã£o.
 
 213
 00:17:19,327 --> 00:17:21,704
@@ -979,7 +979,7 @@ investidos neste projeto.
 
 214
 00:17:21,746 --> 00:17:23,956
-Ah, é. Você tinha apenas três anos
+Ah, Ã©. VocÃª tinha apenas trÃªs anos
 investidos em mim.
 
 215
@@ -993,8 +993,8 @@ Oh, porra!
 
 217
 00:18:14,257 --> 00:18:17,802
-<i>- Desconectando vocês, Bud.
-- Está bem, One Night. Fique longe.</i>
+<i>- Desconectando vocÃªs, Bud.
+- EstÃ¡ bem, One Night. Fique longe.</i>
 
 218
 00:18:17,844 --> 00:18:19,595
@@ -1006,17 +1006,17 @@ Oh, porra!
 
 220
 00:18:27,937 --> 00:18:31,524
-Aqui estamos nós, assentados
-bem na borda da Depressão de Cayman.
+Aqui estamos nÃ³s, assentados
+bem na borda da DepressÃ£o de Cayman.
 
 221
 00:18:32,024 --> 00:18:36,696
-Isto é o Montana.
-300m de distância, 70m abaixo de nós.
+Isto Ã© o Montana.
+300m de distÃ¢ncia, 70m abaixo de nÃ³s.
 
 222
 00:18:37,947 --> 00:18:42,326
-Pensamos que escorregou para o precipício
+Pensamos que escorregou para o precipÃ­cio
 e agora se assenta aqui neste afloramento.
 
 223
@@ -1025,12 +1025,12 @@ Assim vamos ter que cair direto... aqui e...
 
 224
 00:18:45,997 --> 00:18:48,750
-Isto diz quanta radiação estamos pegando?
+Isto diz quanta radiaÃ§Ã£o estamos pegando?
 
 225
 00:18:48,791 --> 00:18:52,378
-Como é? Não me aproximo de
-radiação nenhuma! Nem pensar!
+Como Ã©? NÃ£o me aproximo de
+radiaÃ§Ã£o nenhuma! Nem pensar!
 
 226
 00:18:52,420 --> 00:18:53,796
@@ -1043,17 +1043,17 @@ se seis meses depois ficamos impotentes?
 
 228
 00:18:57,842 --> 00:19:00,845
-Qual é seu problema? Neste mergulho...
+Qual Ã© seu problema? Neste mergulho...
 
 229
 00:19:00,887 --> 00:19:03,973
-...você não fará absolutamente nada
+...vocÃª nÃ£o farÃ¡ absolutamente nada
 sem minhas ordens diretas.
 
 230
 00:19:04,015 --> 00:19:07,226
-E você deve seguir essas ordens
-sem discussão. Está claro?
+E vocÃª deve seguir essas ordens
+sem discussÃ£o. EstÃ¡ claro?
 
 231
 00:19:09,812 --> 00:19:13,441
@@ -1062,8 +1062,8 @@ se molhar em 15 minutos.
 
 232
 00:19:21,949 --> 00:19:25,328
-Hippy, joga pra mim um destes bastões de
-luz química, faz o favor.
+Hippy, joga pra mim um destes bastÃµes de
+luz quÃ­mica, faz o favor.
 
 233
 00:19:25,536 --> 00:19:27,205
@@ -1072,16 +1072,16 @@ luz química, faz o favor.
 
 234
 00:19:28,289 --> 00:19:29,749
-O que é esta tralha?
+O que Ã© esta tralha?
 
 235
 00:19:29,791 --> 00:19:32,502
-Respiração fluida,
+RespiraÃ§Ã£o fluida,
 acabamos de receber.
 
 236
 00:19:32,794 --> 00:19:36,297
-- É usado quando estamos em grande
+- Ã‰ usado quando estamos em grande
 profundidade. - Que profundidade?
 
 237
@@ -1091,21 +1091,21 @@ profundidade. - Que profundidade?
 
 238
 00:19:38,925 --> 00:19:40,676
-Isso é informação secreta.
+Isso Ã© informaÃ§Ã£o secreta.
 
 239
 00:19:40,718 --> 00:19:43,930
-A gente respira líquido e a gente não sofre de
-compressão. A pressão não te atinge.
+A gente respira lÃ­quido e a gente nÃ£o sofre de
+compressÃ£o. A pressÃ£o nÃ£o te atinge.
 
 240
 00:19:43,982 --> 00:19:46,641
 Quer dizer que entra
-líquido nos pulmões?
+lÃ­quido nos pulmÃµes?
 
 241
 00:19:47,433 --> 00:19:50,603
-- Uma emulsão oxigenada de flurocarbono.
+- Uma emulsÃ£o oxigenada de flurocarbono.
 - Que bosta!
 
 242
@@ -1115,16 +1115,16 @@ Veja o que vou fazer.
 243
 00:19:56,234 --> 00:19:58,694
 - Pode me emprestar seu rato?
-- O que está fazendo?
+- O que estÃ¡ fazendo?
 
 244
 00:19:59,028 --> 00:20:01,280
-Você vai... Você vai matá-la!
+VocÃª vai... VocÃª vai matÃ¡-la!
 
 245
 00:20:01,405 --> 00:20:04,700
-- Tudo bem. Eu mesmo já fiz isso.
-- Homem! Você vai afogá-la?
+- Tudo bem. Eu mesmo jÃ¡ fiz isso.
+- Homem! VocÃª vai afogÃ¡-la?
 
 246
 00:20:05,076 --> 00:20:06,327
@@ -1132,34 +1132,34 @@ Vai ficar bem.
 
 247
 00:20:06,994 --> 00:20:09,278
-Eu mesmo já respirei isso.
+Eu mesmo jÃ¡ respirei isso.
 Vai sair tudo bem.
 
 248
 00:20:09,330 --> 00:20:11,916
-Não, homem. Ela vai se afogar!
-Ela está ficando esquisita!
+NÃ£o, homem. Ela vai se afogar!
+Ela estÃ¡ ficando esquisita!
 
 249
 00:20:11,968 --> 00:20:13,574
-É um período normal de adaptação.
+Ã‰ um perÃ­odo normal de adaptaÃ§Ã£o.
 
 250
 00:20:13,626 --> 00:20:16,337
-Normal? Isto parece normal pra você?
+Normal? Isto parece normal pra vocÃª?
 Ela vai se afogar!
 
 251
 00:20:16,421 --> 00:20:18,423
-Está aceitando o fluido nos pulmões.
+EstÃ¡ aceitando o fluido nos pulmÃµes.
 
 252
 00:20:20,091 --> 00:20:22,093
-Está aceitando o fluido nos pulmões.
+EstÃ¡ aceitando o fluido nos pulmÃµes.
 
 253
 00:20:25,138 --> 00:20:26,431
-Lá vai ele.
+LÃ¡ vai ele.
 
 254
 00:20:27,140 --> 00:20:28,433
@@ -1167,57 +1167,57 @@ Ainda um pouco ansioso.
 
 255
 00:20:29,809 --> 00:20:33,729
-Agora ele está começando a se relaxar.
-Ele está respirando bem. Vê o peito dele se movendo?
+Agora ele estÃ¡ comeÃ§ando a se relaxar.
+Ele estÃ¡ respirando bem. VÃª o peito dele se movendo?
 
 256
 00:20:33,896 --> 00:20:37,733
-- Está obtendo muito oxigênio.
-- O rato está respirando aquela merda.
+- EstÃ¡ obtendo muito oxigÃªnio.
+- O rato estÃ¡ respirando aquela merda.
 
 257
 00:20:38,609 --> 00:20:43,114
 Falando a verdade,
-é a coisa mais incrível que já vi.
+Ã© a coisa mais incrÃ­vel que jÃ¡ vi.
 
 258
 00:20:43,239 --> 00:20:47,410
-O fluído é mais difícil de absorver.
-Dá um pouco mais de trabalho pra respirar.
+O fluÃ­do Ã© mais difÃ­cil de absorver.
+DÃ¡ um pouco mais de trabalho pra respirar.
 
 259
 00:20:47,744 --> 00:20:50,747
-Mas ele está passando bem.
-Ele está gostando.
+Mas ele estÃ¡ passando bem.
+Ele estÃ¡ gostando.
 
 260
 00:20:51,080 --> 00:20:54,500
-Ela não está bem. Ela não está gostando.
-Está bem, solta ela agora!
+Ela nÃ£o estÃ¡ bem. Ela nÃ£o estÃ¡ gostando.
+EstÃ¡ bem, solta ela agora!
 
 261
 00:20:54,552 --> 00:20:55,710
 - Agora!
-- Está bem.
+- EstÃ¡ bem.
 
 262
 00:20:56,878 --> 00:21:00,214
-Está bem. Agora deixemos o fluído
-drenar dos pulmões dele.
+EstÃ¡ bem. Agora deixemos o fluÃ­do
+drenar dos pulmÃµes dele.
 
 263
 00:21:01,257 --> 00:21:03,259
-Está bem. Me dá ela aqui.
-Me dá ela aqui.
+EstÃ¡ bem. Me dÃ¡ ela aqui.
+Me dÃ¡ ela aqui.
 
 264
 00:21:03,509 --> 00:21:05,136
-Aqui está seu rato.
+Aqui estÃ¡ seu rato.
 
 265
 00:21:05,928 --> 00:21:08,431
-- Está vendo? Ele está bem!
-- É uma fêmea.
+- EstÃ¡ vendo? Ele estÃ¡ bem!
+- Ã‰ uma fÃªmea.
 
 266
 00:21:10,558 --> 00:21:12,143
@@ -1225,16 +1225,16 @@ Aqui está seu rato.
 
 267
 00:21:12,310 --> 00:21:14,312
-<i>Chegando na marcação 065.</i>
+<i>Chegando na marcaÃ§Ã£o 065.</i>
 
 268
 00:21:16,272 --> 00:21:18,065
-<i>Flatbed, você está na linha?</i>
+<i>Flatbed, vocÃª estÃ¡ na linha?</i>
 
 269
 00:21:18,107 --> 00:21:21,027
 <i>Dez-quatro, Lindsey.
-Recebemos você alto e claro.</i>
+Recebemos vocÃª alto e claro.</i>
 
 270
 00:21:22,653 --> 00:21:25,782
@@ -1243,17 +1243,17 @@ Mergulhadores, como se sentem?</i>
 
 271
 00:21:25,823 --> 00:21:27,658
-<i>Por ora, estão todos bem.</i>
+<i>Por ora, estÃ£o todos bem.</i>
 
 272
 00:21:28,201 --> 00:21:31,120
-<i>Aguentem aí, rapazes.
-Daqui em diante é só descida.</i>
+<i>Aguentem aÃ­, rapazes.
+Daqui em diante Ã© sÃ³ descida.</i>
 
 273
 00:21:31,996 --> 00:21:36,417
 <i>- Ei, qual a profundidade desta descida
-aqui? - Isto aqui é um poço sem fundo.</i>
+aqui? - Isto aqui Ã© um poÃ§o sem fundo.</i>
 
 274
 00:21:36,667 --> 00:21:38,920
@@ -1261,34 +1261,34 @@ aqui? - Isto aqui é um poço sem fundo.</i>
 
 275
 00:21:43,633 --> 00:21:45,760
-<i>Cabine 3, aqui é o Bud.
-Você está na linha?</i>
+<i>Cabine 3, aqui Ã© o Bud.
+VocÃª estÃ¡ na linha?</i>
 
 276
 00:21:46,219 --> 00:21:48,930
 <i>Cabine 3 verificando.
-Estou atrás de você.</i>
+Estou atrÃ¡s de vocÃª.</i>
 
 277
 00:21:53,476 --> 00:21:55,269
-<i>Cabine 1, você já está o vendo?</i>
+<i>Cabine 1, vocÃª jÃ¡ estÃ¡ o vendo?</i>
 
 278
 00:21:56,562 --> 00:21:59,941
-O magnetômetro está movendo,
-mas não vejo nada ainda.
+O magnetÃ´metro estÃ¡ movendo,
+mas nÃ£o vejo nada ainda.
 
 279
 00:22:00,149 --> 00:22:02,860
-<i>Espera aí. Vou testar meu estroboscópio.</i>
+<i>Espera aÃ­. Vou testar meu estroboscÃ³pio.</i>
 
 280
 00:22:07,865 --> 00:22:09,700
-<i>Cabine 1, você tem um contato visual?</i>
+<i>Cabine 1, vocÃª tem um contato visual?</i>
 
 281
 00:22:13,287 --> 00:22:15,540
-<i>- Cabine 1, está nos entendendo?
+<i>- Cabine 1, estÃ¡ nos entendendo?
 - Estou.</i>
 
 282
@@ -1297,22 +1297,22 @@ Compreendido. Encontrei.
 
 283
 00:22:34,100 --> 00:22:36,060
-<i>Cabine 1, as leituras da radiação?</i>
+<i>Cabine 1, as leituras da radiaÃ§Ã£o?</i>
 
 284
 00:22:36,436 --> 00:22:38,438
-<i>Os contadores de nêutrons
-não estão indicando muito.</i>
+<i>Os contadores de nÃªutrons
+nÃ£o estÃ£o indicando muito.</i>
 
 285
 00:22:38,479 --> 00:22:41,816
-<i>Está bem.
-Continue avançando ao longo do casco.</i>
+<i>EstÃ¡ bem.
+Continue avanÃ§ando ao longo do casco.</i>
 
 286
 00:22:42,066 --> 00:22:47,029
-<i>Compreendido. Continuar avançando.
-Quer que eu tire fotos de tudo, não é?</i>
+<i>Compreendido. Continuar avanÃ§ando.
+Quer que eu tire fotos de tudo, nÃ£o Ã©?</i>
 
 287
 00:22:47,081 --> 00:22:49,532
@@ -1322,7 +1322,7 @@ Documentem tudo o que puderem.</i>
 288
 00:22:49,615 --> 00:22:53,119
 <i>Mas, continue em movimento.
-Lembre-se de que nosso tempo é curto.</i>
+Lembre-se de que nosso tempo Ã© curto.</i>
 
 289
 00:22:53,161 --> 00:22:54,162
@@ -1330,36 +1330,36 @@ Lembre-se de que nosso tempo é curto.</i>
 
 290
 00:22:58,249 --> 00:23:01,753
-<i>Chegando à escotilha de meio-navio.
-Você a está vendo, Cabine 3?</i>
+<i>Chegando Ã  escotilha de meio-navio.
+VocÃª a estÃ¡ vendo, Cabine 3?</i>
 
 291
 00:23:01,794 --> 00:23:03,546
-Sim, recebido. Já a vi.
+Sim, recebido. JÃ¡ a vi.
 
 292
 00:23:08,009 --> 00:23:10,845
 <i>- Onde quer que eu fique?
-- Fique aí parado acima dele.</i>
+- Fique aÃ­ parado acima dele.</i>
 
 293
 00:23:10,928 --> 00:23:13,890
 <i>- Compreendido. Parado.
-- Está bem. É todo seu, Tenente.</i>
+- EstÃ¡ bem. Ã‰ todo seu, Tenente.</i>
 
 294
 00:23:13,942 --> 00:23:16,350
-<i>- Está bem, A-Team.
-- Entremos em ação.</i>
+<i>- EstÃ¡ bem, A-Team.
+- Entremos em aÃ§Ã£o.</i>
 
 295
 00:23:32,200 --> 00:23:33,868
-<i>Está bem. Perry, Hippy.</i>
+<i>EstÃ¡ bem. Perry, Hippy.</i>
 
 296
 00:23:33,910 --> 00:23:37,413
-<i>- Vamos Iançar aquele veículo ROV.
-- Está bem. Estamos nele, chefe.</i>
+<i>- Vamos IanÃ§ar aquele veÃ­culo ROV.
+- EstÃ¡ bem. Estamos nele, chefe.</i>
 
 297
 00:23:38,039 --> 00:23:38,790
@@ -1367,7 +1367,7 @@ Andem!
 
 298
 00:23:43,419 --> 00:23:45,546
-<i>Little Geek está no caso.</i>
+<i>Little Geek estÃ¡ no caso.</i>
 
 299
 00:23:55,556 --> 00:23:59,310
@@ -1376,8 +1376,8 @@ Abrimos a escotilha externa de meio-navio.</i>
 
 300
 00:24:07,401 --> 00:24:09,946
-<i>Coffey, estas são as escotilhas
-dos mísseis, certo?</i>
+<i>Coffey, estas sÃ£o as escotilhas
+dos mÃ­sseis, certo?</i>
 
 301
 00:24:09,987 --> 00:24:13,282
@@ -1386,17 +1386,17 @@ escotilhas se racharam.</i>
 
 302
 00:24:14,283 --> 00:24:17,912
-<i>A radiação é nominal.
+<i>A radiaÃ§Ã£o Ã© nominal.
 Os torpedos devem ainda estar intactos.</i>
 
 303
 00:24:17,964 --> 00:24:19,080
-<i>Quantos há lá?</i>
+<i>Quantos hÃ¡ lÃ¡?</i>
 
 304
 00:24:19,455 --> 00:24:22,750
-<i>24 mísseis Trident.
-Oito MIRVs por míssil.</i>
+<i>24 mÃ­sseis Trident.
+Oito MIRVs por mÃ­ssil.</i>
 
 305
 00:24:23,793 --> 00:24:25,795
@@ -1404,11 +1404,11 @@ Um total de 192 torpedos, Coffey.
 
 306
 00:24:26,796 --> 00:24:28,423
-Qual a potência deles?
+Qual a potÃªncia deles?
 
 307
 00:24:28,631 --> 00:24:33,386
-<i>O MIRV é uma arma táctica.
+<i>O MIRV Ã© uma arma tÃ¡ctica.
 50 quilotoneladas de rendimento nominal.</i>
 
 308
@@ -1418,24 +1418,24 @@ cinco vezes Hiroshima.</i>
 
 309
 00:24:51,737 --> 00:24:53,030
-Assente-se aí embaixo.
+Assente-se aÃ­ embaixo.
 
 310
 00:25:00,788 --> 00:25:02,832
-- Estamos sólidos.
+- Estamos sÃ³lidos.
 - Vamos.
 
 311
 00:25:04,333 --> 00:25:05,710
-Está bem. Vamos.
+EstÃ¡ bem. Vamos.
 
 312
 00:25:15,845 --> 00:25:19,265
-Está bem. Vamos devagar e sem pressa.
+EstÃ¡ bem. Vamos devagar e sem pressa.
 
 313
 00:25:20,141 --> 00:25:21,601
-Não se arrisquem.
+NÃ£o se arrisquem.
 
 314
 00:25:48,753 --> 00:25:50,379
@@ -1443,7 +1443,7 @@ Onde estamos, Coffey?
 
 315
 00:25:50,880 --> 00:25:53,716
-Isto aqui é o compartimento frontal de
+Isto aqui Ã© o compartimento frontal de
 alojamento. Por aqui.
 
 316
@@ -1452,12 +1452,12 @@ Vamos. Fiquemos juntos.
 
 317
 00:26:10,149 --> 00:26:12,568
-Está bem.
+EstÃ¡ bem.
 Por aqui para o centro de controle.
 
 318
 00:26:40,430 --> 00:26:42,265
-Está emperrada! Me dá uma mão!
+EstÃ¡ emperrada! Me dÃ¡ uma mÃ£o!
 
 319
 00:26:42,306 --> 00:26:44,517
@@ -1466,7 +1466,7 @@ com essa alavanca de apoio.
 
 320
 00:26:46,727 --> 00:26:48,396
-Está se movendo. Puxem!
+EstÃ¡ se movendo. Puxem!
 
 321
 00:26:57,655 --> 00:26:58,656
@@ -1475,7 +1475,7 @@ Meu Deus!
 322
 00:26:59,782 --> 00:27:02,160
 Acalmem-se!
-Já sabíamos que íamos ver isto.
+JÃ¡ sabÃ­amos que Ã­amos ver isto.
 
 323
 00:27:02,201 --> 00:27:03,369
@@ -1496,27 +1496,27 @@ Mantenham todos a calma.
 
 327
 00:27:51,459 --> 00:27:55,838
-Não podemos ajudar estes rapazes,
-mas talvez achemos alguém.
+NÃ£o podemos ajudar estes rapazes,
+mas talvez achemos alguÃ©m.
 
 328
 00:28:01,427 --> 00:28:02,887
-Ei, Jammer. Está bem?
+Ei, Jammer. EstÃ¡ bem?
 
 329
 00:28:05,515 --> 00:28:08,142
-- Como estão vocês rapazes?
-- Estou controlando a situação.
+- Como estÃ£o vocÃªs rapazes?
+- Estou controlando a situaÃ§Ã£o.
 
 330
 00:28:08,184 --> 00:28:11,771
 O pagamento triplo cheirava
-muito dinheiro, Bud. Mas não é.
+muito dinheiro, Bud. Mas nÃ£o Ã©.
 
 331
 00:28:11,813 --> 00:28:14,107
 Estamos aqui.
-Vamos terminar a missão, está bem?
+Vamos terminar a missÃ£o, estÃ¡ bem?
 
 332
 00:28:14,148 --> 00:28:17,110
@@ -1529,7 +1529,7 @@ Separem-se em dois grupos.
 
 334
 00:28:20,530 --> 00:28:23,908
-Vamos lá. Vamos avançar.
+Vamos lÃ¡. Vamos avanÃ§ar.
 Voltamos dentro de 14 minutos.
 
 335
@@ -1538,13 +1538,13 @@ Vamos.
 
 336
 00:28:40,133 --> 00:28:42,677
-- Está ainda comigo, Jammer?
+- EstÃ¡ ainda comigo, Jammer?
 - Onde estamos?
 
 337
 00:28:42,718 --> 00:28:46,764
-No compartimento dos mísseis.
-Aquelas são as rampas de Iançamento.
+No compartimento dos mÃ­sseis.
+Aquelas sÃ£o as rampas de IanÃ§amento.
 
 338
 00:28:54,272 --> 00:28:55,106
@@ -1560,40 +1560,40 @@ Olha!
 
 341
 00:29:03,448 --> 00:29:04,866
-Olha! Está bem?
+Olha! EstÃ¡ bem?
 
 342
 00:29:06,367 --> 00:29:08,411
-Respira fundo e devagar, grandalhão.
+Respira fundo e devagar, grandalhÃ£o.
 
 343
 00:29:08,453 --> 00:29:11,664
 - Profundo e devagar. Respire suavemente.
-- Todo o mundo está morto!
+- Todo o mundo estÃ¡ morto!
 
 344
 00:29:11,706 --> 00:29:15,084
-- Estão todos mortos!
-- Está bem. Estou levando você pra fora.
+- EstÃ£o todos mortos!
+- EstÃ¡ bem. Estou levando vocÃª pra fora.
 
 345
 00:29:15,126 --> 00:29:16,544
-Não. Eu estou bem, eu estou bem.
+NÃ£o. Eu estou bem, eu estou bem.
 
 346
 00:29:22,133 --> 00:29:24,510
-Não consigo andar mais
+NÃ£o consigo andar mais
 para o interior do navio.
 
 347
 00:29:24,594 --> 00:29:27,054
-Está bem, Jammer. Não há problema.
+EstÃ¡ bem, Jammer. NÃ£o hÃ¡ problema.
 Fique aqui neste lugar.
 
 348
 00:29:27,096 --> 00:29:29,891
 Tenho que verificar este compartimento,
-está bem?
+estÃ¡ bem?
 
 349
 00:29:29,932 --> 00:29:33,936
@@ -1602,27 +1602,27 @@ Segure na extremidade desta corda aqui.
 
 350
 00:29:34,061 --> 00:29:37,315
-Se você tiver qualquer problema
+Se vocÃª tiver qualquer problema
 que seja, puxe a corda duas vezes.
 
 351
 00:29:37,565 --> 00:29:40,193
 - Entendi.
-- Puxe com força. Mais cinco minutos.
+- Puxe com forÃ§a. Mais cinco minutos.
 
 352
 00:29:40,234 --> 00:29:42,528
-Fique descontraído, está bem?
-Tudo sairá bem pra você.
+Fique descontraÃ­do, estÃ¡ bem?
+Tudo sairÃ¡ bem pra vocÃª.
 
 353
 00:29:42,570 --> 00:29:44,322
 - Tudo bem.
-- Volto já.
+- Volto jÃ¡.
 
 354
 00:30:29,867 --> 00:30:32,036
-Ainda está me recebendo bem, grandalhão?
+Ainda estÃ¡ me recebendo bem, grandalhÃ£o?
 
 355
 00:30:32,662 --> 00:30:34,080
@@ -1630,21 +1630,21 @@ Recebendo bem, Bud.
 
 356
 00:30:40,002 --> 00:30:42,922
-Está bem. Só mais uns minutinhos.
+EstÃ¡ bem. SÃ³ mais uns minutinhos.
 
 357
 00:30:43,423 --> 00:30:46,884
-Há uns compartimentos em frente
+HÃ¡ uns compartimentos em frente
 que devem ter ar.
 
 358
 00:30:46,926 --> 00:30:50,096
-- Está bem. Não há problema.
+- EstÃ¡ bem. NÃ£o hÃ¡ problema.
 - Temos de ter certeza, certo?
 
 359
 00:30:50,138 --> 00:30:52,765
-Espera aí, Jammer. Segure-se nisso aí...
+Espera aÃ­, Jammer. Segure-se nisso aÃ­...
 
 360
 00:31:00,022 --> 00:31:00,857
@@ -1652,7 +1652,7 @@ Merda!
 
 361
 00:31:02,483 --> 00:31:04,444
-Bud? Está me ouvindo?
+Bud? EstÃ¡ me ouvindo?
 
 362
 00:31:05,278 --> 00:31:05,987
@@ -1668,11 +1668,11 @@ Oh, meu Deus!
 
 365
 00:31:56,829 --> 00:31:57,914
-Bud, é você?
+Bud, Ã© vocÃª?
 
 366
 00:32:21,187 --> 00:32:22,647
-Aguenta aí, Jammer.
+Aguenta aÃ­, Jammer.
 
 367
 00:32:25,566 --> 00:32:27,860
@@ -1688,125 +1688,125 @@ Jammer!
 
 370
 00:32:42,375 --> 00:32:45,211
-- Qual é o problema?
-- Está com convulsões!
+- Qual Ã© o problema?
+- EstÃ¡ com convulsÃµes!
 
 371
 00:32:46,879 --> 00:32:49,382
-É a mistura dele! Oxigênio demais!
+Ã‰ a mistura dele! OxigÃªnio demais!
 
 372
 00:32:50,216 --> 00:32:52,677
-Temos que reduzir o oxigênio! Vire ele!
+Temos que reduzir o oxigÃªnio! Vire ele!
 
 373
 00:32:54,887 --> 00:32:57,598
 Roda pra baixo, homem!
-Ele está morrendo!
+Ele estÃ¡ morrendo!
 
 374
 00:33:01,060 --> 00:33:04,981
-Está bem. Temos que levá-lo pra
-fora daqui! Vamos. Vamos movê-lo.
+EstÃ¡ bem. Temos que levÃ¡-lo pra
+fora daqui! Vamos. Vamos movÃª-lo.
 
 375
 00:33:05,064 --> 00:33:06,482
-Devagar, grandalhão.
+Devagar, grandalhÃ£o.
 
 376
 00:33:09,861 --> 00:33:12,363
-One Night, está vendo os mergulhadores?
+One Night, estÃ¡ vendo os mergulhadores?
 
 377
 00:33:12,405 --> 00:33:14,323
-<i>- Já emergiram?
+<i>- JÃ¡ emergiram?
 - Negativo, Lindsey.</i>
 
 378
 00:33:14,365 --> 00:33:18,077
-<i>Não os vi.
+<i>NÃ£o os vi.
 Vamos dar a eles mais dois minutos</i>
 
 379
 00:33:18,119 --> 00:33:20,329
-<i>e então vou fazer soar a chamada de
+<i>e entÃ£o vou fazer soar a chamada de
 volta dos mergulhadores...</i>
 
 380
 00:33:40,892 --> 00:33:42,685
-<i>Lindsey, está me recebendo?</i>
+<i>Lindsey, estÃ¡ me recebendo?</i>
 
 381
 00:33:42,935 --> 00:33:45,897
 <i>Me encontre em Flatbed!
-Esta é uma emergência de mergulho!</i>
+Esta Ã© uma emergÃªncia de mergulho!</i>
 
 382
 00:33:45,938 --> 00:33:49,776
-<i>- Lins, está me recebendo!
+<i>- Lins, estÃ¡ me recebendo!
 - Sim, recebendo, Bud. Estou a caminho.</i>
 
 383
 00:33:56,074 --> 00:33:58,201
-Olha, sou apenas um paramédico.
+Olha, sou apenas um paramÃ©dico.
 
 384
 00:33:58,951 --> 00:34:02,330
-Que trata quase só de ferimentos.
-Este tipo de coisa, é...
+Que trata quase sÃ³ de ferimentos.
+Este tipo de coisa, Ã©...
 
 385
 00:34:03,289 --> 00:34:05,333
-Não há muito que eu possa fazer.
+NÃ£o hÃ¡ muito que eu possa fazer.
 
 386
 00:34:06,209 --> 00:34:08,461
-A coma poderá durar horas ou dias.
+A coma poderÃ¡ durar horas ou dias.
 
 387
 00:34:15,551 --> 00:34:18,012
-Então você não gravou nada nas câmeras?
+EntÃ£o vocÃª nÃ£o gravou nada nas cÃ¢meras?
 
 388
 00:34:18,513 --> 00:34:20,765
-Não, não tirei fotografias.
+NÃ£o, nÃ£o tirei fotografias.
 
 389
 00:34:20,890 --> 00:34:22,725
-- E os vídeos?
-- Não.
+- E os vÃ­deos?
+- NÃ£o.
 
 390
 00:34:23,309 --> 00:34:25,645
-Sofremos perda de energia elétrica.
+Sofremos perda de energia elÃ©trica.
 
 391
 00:34:25,728 --> 00:34:28,564
-Olha, não quero falar sobre isto,
-está bem?
+Olha, nÃ£o quero falar sobre isto,
+estÃ¡ bem?
 
 392
 00:34:28,773 --> 00:34:30,858
-Está bem. Que seja assim.
+EstÃ¡ bem. Que seja assim.
 
 393
 00:34:31,025 --> 00:34:33,403
-Olha, não sei o que vi Bud,
-está bem?
+Olha, nÃ£o sei o que vi Bud,
+estÃ¡ bem?
 
 394
 00:34:33,444 --> 00:34:36,489
 Se Coffey quer chamar isso de
-um submersível russo, tudo bem.
+um submersÃ­vel russo, tudo bem.
 
 395
 00:34:36,531 --> 00:34:39,117
-É um submersível russo.
-Não tem problema.
+Ã‰ um submersÃ­vel russo.
+NÃ£o tem problema.
 
 396
 00:34:39,158 --> 00:34:42,203
-É, mas você pensa que
+Ã‰, mas vocÃª pensa que
 era uma outra coisa.
 
 397
@@ -1819,11 +1819,11 @@ Um dos nossos?
 
 399
 00:34:49,293 --> 00:34:50,002
-Não.
+NÃ£o.
 
 400
 00:34:51,003 --> 00:34:52,338
-Quem era, então?
+Quem era, entÃ£o?
 
 401
 00:34:54,465 --> 00:34:56,175
@@ -1831,35 +1831,35 @@ Vamos, Lindsey. Fale comigo.
 
 402
 00:34:57,927 --> 00:35:00,304
-Olha, Jammer viu uma coisa lá embaixo.
+Olha, Jammer viu uma coisa lÃ¡ embaixo.
 
 403
 00:35:00,346 --> 00:35:04,100
 - Algo que o assustou pra valer.
-- A mistura dele não estava correta.
+- A mistura dele nÃ£o estava correta.
 
 404
 00:35:04,308 --> 00:35:08,104
-Jammer entrou em pânico. Ele danificou
+Jammer entrou em pÃ¢nico. Ele danificou
 o regulador e a mistura saiu errada.
 
 405
 00:35:08,146 --> 00:35:11,065
 Mas o que ele viu que
-o fêz entrar em pânico?
+o fÃªz entrar em pÃ¢nico?
 
 406
 00:35:12,608 --> 00:35:14,652
-Bem, o que você acha que ele viu?
+Bem, o que vocÃª acha que ele viu?
 
 407
 00:35:16,320 --> 00:35:17,280
-Não sei.
+NÃ£o sei.
 
 408
 00:35:18,823 --> 00:35:22,910
-<i>- Alguns de vocês viram isso?
-- Não, senhor. A senhora Brigman viu.</i>
+<i>- Alguns de vocÃªs viram isso?
+- NÃ£o, senhor. A senhora Brigman viu.</i>
 
 409
 00:35:23,953 --> 00:35:26,205
@@ -1877,37 +1877,37 @@ vai entrar em parafuso.</i>
 
 412
 00:35:34,422 --> 00:35:37,508
-<i>E agora não sabem onde estão
-os submarinos. Está bem.</i>
+<i>E agora nÃ£o sabem onde estÃ£o
+os submarinos. EstÃ¡ bem.</i>
 
 413
 00:35:39,427 --> 00:35:43,097
-<i>Não tenho escolha.
-Estou confirmando pra você ir pra Fase Dois.</i>
+<i>NÃ£o tenho escolha.
+Estou confirmando pra vocÃª ir pra Fase Dois.</i>
 
 414
 00:35:43,890 --> 00:35:47,894
 <i>Vais recuperar uma ogiva,
-ativa-a e aguardas por mais instruções.</i>
+ativa-a e aguardas por mais instruÃ§Ãµes.</i>
 
 415
 00:35:49,103 --> 00:35:52,148
-<i>- Há algum problema com isso?
+<i>- HÃ¡ algum problema com isso?
 - Negativo, senhor.</i>
 
 416
 00:35:54,525 --> 00:35:55,526
-Vamos lá!
+Vamos lÃ¡!
 
 417
 00:35:55,735 --> 00:35:58,154
 - O que ele disse?
-- Aumenta o volume, estúpido!
+- Aumenta o volume, estÃºpido!
 
 418
 00:35:58,196 --> 00:36:03,451
-<i>Há notícias que o Montana enfrentou um
-submarino soviético antes deste afundar</i>
+<i>HÃ¡ notÃ­cias que o Montana enfrentou um
+submarino soviÃ©tico antes deste afundar</i>
 
 419
 00:36:03,576 --> 00:36:06,788
@@ -1916,17 +1916,17 @@ a negar qualquer envolvimento.</i>
 
 420
 00:36:06,954 --> 00:36:08,831
-Somos nós!
-Somos nós, homem!
+Somos nÃ³s!
+Somos nÃ³s, homem!
 
 421
 00:36:08,873 --> 00:36:12,752
-<i>Benthic Petroleum está participando
-da operação de recuperação...</i>
+<i>Benthic Petroleum estÃ¡ participando
+da operaÃ§Ã£o de recuperaÃ§Ã£o...</i>
 
 422
 00:36:12,919 --> 00:36:15,338
-<i>Há uma enorme atividade.</i>
+<i>HÃ¡ uma enorme atividade.</i>
 
 423
 00:36:15,755 --> 00:36:17,965
@@ -1934,8 +1934,8 @@ da operação de recuperação...</i>
 
 424
 00:36:18,007 --> 00:36:20,468
-<i>a concentração massiva
-de forças americanas...</i>
+<i>a concentraÃ§Ã£o massiva
+de forÃ§as americanas...</i>
 
 425
 00:36:20,510 --> 00:36:24,097
@@ -1945,21 +1945,21 @@ em Havana e Moscow.</i>
 426
 00:36:24,597 --> 00:36:28,684
 <i>Traineiras russas e cubanas,
-sem dúvida navios de vigilância,...</i>
+sem dÃºvida navios de vigilÃ¢ncia,...</i>
 
 427
 00:36:28,726 --> 00:36:30,686
-<i>...têm circundado a área</i>
+<i>...tÃªm circundado a Ã¡rea</i>
 
 428
 00:36:30,937 --> 00:36:34,482
-<i>...e os aviões soviéticos receberam ordens para se afastarem.
+<i>...e os aviÃµes soviÃ©ticos receberam ordens para se afastarem.
 - Isto cheira mal!</i>
 
 429
 00:36:35,775 --> 00:36:39,362
-- Hippy, que está havendo com você?
-- Que está havendo comigo? Nada!
+- Hippy, que estÃ¡ havendo com vocÃª?
+- Que estÃ¡ havendo comigo? Nada!
 
 430
 00:36:39,404 --> 00:36:42,281
@@ -1968,13 +1968,13 @@ internacional como a...
 
 431
 00:36:42,323 --> 00:36:45,827
-- Crise Cubana dos Mísseis!
-- Chegou a esta conclusão sozinho, Hip?
+- Crise Cubana dos MÃ­sseis!
+- Chegou a esta conclusÃ£o sozinho, Hip?
 
 432
 00:36:45,868 --> 00:36:48,287
 Temos os submarinos
-russos à nossa volta.
+russos Ã  nossa volta.
 
 433
 00:36:48,329 --> 00:36:52,166
@@ -1983,47 +1983,47 @@ podem dizer que aconteceu o quiserem.
 
 434
 00:36:52,208 --> 00:36:55,044
-Acalme-se, está bem?
-Está deixando as mulheres nervosas.
+Acalme-se, estÃ¡ bem?
+EstÃ¡ deixando as mulheres nervosas.
 
 435
 00:36:55,086 --> 00:36:57,338
-- Que engraçado, Virgil.
+- Que engraÃ§ado, Virgil.
 - Sabe,
 
 436
 00:36:57,380 --> 00:37:01,175
-esses SEALs não estão contando a verdade.
-Alguma coisa está acontecendo!
+esses SEALs nÃ£o estÃ£o contando a verdade.
+Alguma coisa estÃ¡ acontecendo!
 
 437
 00:37:01,426 --> 00:37:04,804
-- Vamos lá.
-- Hippy, tudo pra você é uma conspiração
+- Vamos lÃ¡.
+- Hippy, tudo pra vocÃª Ã© uma conspiraÃ§Ã£o
 
 438
 00:37:04,846 --> 00:37:05,972
-Mas é mesmo.
+Mas Ã© mesmo.
 
 439
 00:37:07,265 --> 00:37:09,642
-O Coffey está
+O Coffey estÃ¡
 partiindo com o Flatbed!
 
 440
 00:37:09,684 --> 00:37:12,895
 Mostrei a ele como funcionavam
-os comandos e saíram daqui!
+os comandos e saÃ­ram daqui!
 
 441
 00:37:12,937 --> 00:37:15,106
-- Não disse que precisamos dele?
+- NÃ£o disse que precisamos dele?
 - Sim!
 
 442
 00:37:15,148 --> 00:37:17,525
-- Pra onde ele a está levando?
-- Não tenho a mínima idéia!
+- Pra onde ele a estÃ¡ levando?
+- NÃ£o tenho a mÃ­nima idÃ©ia!
 
 443
 00:37:17,567 --> 00:37:18,359
@@ -2035,36 +2035,36 @@ Coffey! Volta!
 
 445
 00:37:21,988 --> 00:37:25,616
-Precisamos do braço grande para
+Precisamos do braÃ§o grande para
 nos desprendermos do cabo.
 
 446
 00:37:25,867 --> 00:37:27,994
-Vem aí um furacão dos diabos!
+Vem aÃ­ um furacÃ£o dos diabos!
 
 447
 00:37:29,036 --> 00:37:31,330
 - Ele desligou.
-- É inacreditável.
+- Ã‰ inacreditÃ¡vel.
 
 448
 00:37:33,166 --> 00:37:37,962
-Volta lá embaixo e fala pra aqueles
-homens descerem e ficarem lá!
+Volta lÃ¡ embaixo e fala pra aqueles
+homens descerem e ficarem lÃ¡!
 
 449
 00:37:48,765 --> 00:37:51,392
 Precisamos desprender
-o cabo e sair daqui, já!
+o cabo e sair daqui, jÃ¡!
 
 450
 00:37:51,434 --> 00:37:54,812
-- Está bem. Faça isto, então.
-- Não há problema, exceto que seus rapazes...
+- EstÃ¡ bem. FaÃ§a isto, entÃ£o.
+- NÃ£o hÃ¡ problema, exceto que seus rapazes...
 
 451
 00:37:54,854 --> 00:37:59,192
-saíram com o Flatbed. Meu pessoal precisa
+saÃ­ram com o Flatbed. Meu pessoal precisa
 dele para o desengate do cabo.
 
 452
@@ -2079,12 +2079,12 @@ nosso colega "Fred" em duas horas!
 
 454
 00:38:06,491 --> 00:38:09,160
-- Está aberta.
-- É toda sua, chefe.
+- EstÃ¡ aberta.
+- Ã‰ toda sua, chefe.
 
 455
 00:38:10,244 --> 00:38:12,288
-Vou afastá-lo e deixá-lo cair.
+Vou afastÃ¡-lo e deixÃ¡-lo cair.
 
 456
 00:38:14,332 --> 00:38:15,333
@@ -2092,13 +2092,13 @@ Tudo bem.
 
 457
 00:38:16,250 --> 00:38:19,921
-Desviar a ligação à terra do
-mecanismo de separação das ogivas.
+Desviar a ligaÃ§Ã£o Ã  terra do
+mecanismo de separaÃ§Ã£o das ogivas.
 
 458
 00:38:20,129 --> 00:38:23,341
 - Entendeu?
-- Mecanismo de separação desligado.
+- Mecanismo de separaÃ§Ã£o desligado.
 
 459
 00:38:24,967 --> 00:38:27,220
@@ -2107,12 +2107,12 @@ de um a seis
 
 460
 00:38:27,261 --> 00:38:30,890
-- numa sequência anti-horário.
+- numa sequÃªncia anti-horÃ¡rio.
 - Verifique. Retirando o parafuso um.
 
 461
 00:38:54,497 --> 00:38:58,793
-Está bem! Tiremos a aparelhagem deles!
+EstÃ¡ bem! Tiremos a aparelhagem deles!
 Vamos sair do submarino! Vamos embora!
 
 462
@@ -2126,7 +2126,7 @@ Pronta para rodar, querida!
 
 464
 00:39:04,298 --> 00:39:07,885
-<i>- Não toque nisso! Afasta-te.
+<i>- NÃ£o toque nisso! Afasta-te.
 - Excusez-moi! (Desculpe-me)</i>
 
 465
@@ -2140,25 +2140,25 @@ Sacana.
 
 467
 00:39:18,938 --> 00:39:21,232
-Isto não é exercício, Slick.
+Isto nÃ£o Ã© exercÃ­cio, Slick.
 Me faz me sentir orgulhoso.
 
 468
 00:39:21,274 --> 00:39:22,650
-É fácil, benzinho.
+Ã‰ fÃ¡cil, benzinho.
 
 469
 00:39:58,019 --> 00:39:59,854
-<i>Qual é o problema, One Night?</i>
+<i>Qual Ã© o problema, One Night?</i>
 
 470
 00:39:59,896 --> 00:40:03,733
-<i>Deve estar um inferno lá em cima.
-Este cabo está me deixando puto!</i>
+<i>Deve estar um inferno lÃ¡ em cima.
+Este cabo estÃ¡ me deixando puto!</i>
 
 471
 00:40:04,984 --> 00:40:08,780
-- Não consigo segurá-lo.
+- NÃ£o consigo segurÃ¡-lo.
 - Bem, continue tentando. Continue tentando.
 
 472
@@ -2171,17 +2171,17 @@ Merda! Temos um problema!
 
 474
 00:40:15,870 --> 00:40:18,539
-- O que está acontecendo?
-- Estamos perdendo o empuxo número dois!
+- O que estÃ¡ acontecendo?
+- Estamos perdendo o empuxo nÃºmero dois!
 
 475
 00:40:18,581 --> 00:40:20,625
-A cremalheira está se partindo!
+A cremalheira estÃ¡ se partindo!
 
 476
 00:40:21,918 --> 00:40:25,546
-Não está fixando!
-Estamos saindo fora da posição aqui!
+NÃ£o estÃ¡ fixando!
+Estamos saindo fora da posiÃ§Ã£o aqui!
 
 477
 00:40:35,056 --> 00:40:36,057
@@ -2193,7 +2193,7 @@ Merda!
 
 479
 00:40:56,327 --> 00:40:59,872
-A plataforma está se movendo!
+A plataforma estÃ¡ se movendo!
 
 480
 00:40:59,914 --> 00:41:02,291
@@ -2202,7 +2202,7 @@ Estamos sendo arrastados!
 
 481
 00:41:02,375 --> 00:41:05,294
-Larguem guincho número 1!
+Larguem guincho nÃºmero 1!
 Larguem o 1!
 
 482
@@ -2229,11 +2229,11 @@ O guindaste! Perdemos o guindaste!
 
 487
 00:42:01,517 --> 00:42:03,352
-Está caindo na sua direção!
+EstÃ¡ caindo na sua direÃ§Ã£o!
 
 488
 00:42:04,729 --> 00:42:08,024
-Está bem, todo mundo!
+EstÃ¡ bem, todo mundo!
 Todo mundo se prepare para o impacto!
 
 489
@@ -2248,18 +2248,18 @@ Se movam! Vamos! Andem!
 
 491
 00:42:19,827 --> 00:42:22,830
-- Que diabo está acontecendo por aqui?
-- Não sei!
+- Que diabo estÃ¡ acontecendo por aqui?
+- NÃ£o sei!
 
 492
 00:42:30,922 --> 00:42:33,800
-Vocês dois ajudem na segurança da
+VocÃªs dois ajudem na seguranÃ§a da
 plataforma! Vamos!
 
 493
 00:42:43,142 --> 00:42:46,020
-One Night! Sáia daí!
-O guindaste está descendo!
+One Night! SÃ¡ia daÃ­!
+O guindaste estÃ¡ descendo!
 
 494
 00:42:55,071 --> 00:42:57,156
@@ -2267,8 +2267,8 @@ O guindaste está descendo!
 
 495
 00:43:08,167 --> 00:43:10,670
-Já a vi!
-Vem mesmo na nossa direção!
+JÃ¡ a vi!
+Vem mesmo na nossa direÃ§Ã£o!
 
 496
 00:44:16,069 --> 00:44:17,111
@@ -2277,7 +2277,7 @@ Oh, merda!
 497
 00:44:29,749 --> 00:44:31,375
 - Oh, Deus...
-- Não!
+- NÃ£o!
 
 498
 00:44:33,628 --> 00:44:34,337
@@ -2298,15 +2298,15 @@ Vamos! - Cat, apague isto!
 
 502
 00:44:57,151 --> 00:44:59,612
-Bud! A sala de exercícios está inundada!
+Bud! A sala de exercÃ­cios estÃ¡ inundada!
 
 503
 00:44:59,654 --> 00:45:01,239
-Voltem lá para baixo!
+Voltem lÃ¡ para baixo!
 
 504
 00:45:03,658 --> 00:45:05,952
-Vão!
+VÃ£o!
 Eu cuido da sala do gerador!
 
 505
@@ -2319,7 +2319,7 @@ Merda!
 
 507
 00:45:29,100 --> 00:45:30,435
-Sai daí!
+Sai daÃ­!
 
 508
 00:45:30,893 --> 00:45:32,061
@@ -2347,7 +2347,7 @@ Atire na porta!
 
 514
 00:47:04,320 --> 00:47:05,071
-Não!
+NÃ£o!
 
 515
 00:47:08,032 --> 00:47:08,783
@@ -2360,7 +2360,7 @@ Cortem a linha do motor!
 
 517
 00:47:22,588 --> 00:47:24,632
-Não consigo abrí-lo daqui de fora!
+NÃ£o consigo abrÃ­-lo daqui de fora!
 
 518
 00:47:25,133 --> 00:47:27,301
@@ -2377,7 +2377,7 @@ Finler!
 
 521
 00:48:09,177 --> 00:48:10,219
-Aguenta aí!
+Aguenta aÃ­!
 
 522
 00:48:13,306 --> 00:48:16,976
@@ -2386,7 +2386,7 @@ A linha do motor! Depressa, homem!
 
 523
 00:48:21,773 --> 00:48:22,857
-Vá lá, Cat!
+VÃ¡ lÃ¡, Cat!
 
 524
 00:48:24,233 --> 00:48:25,234
@@ -2420,30 +2420,30 @@ Pegue a escotilha!
 
 531
 00:48:59,560 --> 00:49:02,021
-- Estão bem? Estão todos bem?
+- EstÃ£o bem? EstÃ£o todos bem?
 - Sim.
 
 532
 00:49:02,897 --> 00:49:04,065
-Filho da mãe!
+Filho da mÃ£e!
 
 533
 00:49:12,990 --> 00:49:17,412
 <i>Benthic Explorer, Benthic Explorer.
-Aqui é a Deepcore Dois. Está me recebendo?</i>
+Aqui Ã© a Deepcore Dois. EstÃ¡ me recebendo?</i>
 
 534
 00:49:20,373 --> 00:49:23,626
 Benthic Explorer, Benthic Explorer.
-Aqui é a Deepcore.
+Aqui Ã© a Deepcore.
 
 535
 00:49:24,252 --> 00:49:26,045
-Está me recebendo? Câbio.
+EstÃ¡ me recebendo? CÃ¢bio.
 
 536
 00:49:26,087 --> 00:49:28,464
-Esqueça disso, Sonny.
+EsqueÃ§a disso, Sonny.
 Eles se foram, homem.
 
 537
@@ -2460,13 +2460,13 @@ Ei, Jammer.
 
 540
 00:49:52,363 --> 00:49:55,116
-- Você está com tremores.
+- VocÃª estÃ¡ com tremores.
 - Eu sei o que tenho.
 
 541
 00:49:55,366 --> 00:49:59,036
-Vou lidar com isto, está bem? Eu lido
-comigo. Você lida com você mesmo.
+Vou lidar com isto, estÃ¡ bem? Eu lido
+comigo. VocÃª lida com vocÃª mesmo.
 
 542
 00:50:00,705 --> 00:50:02,790
@@ -2474,7 +2474,7 @@ Encontrou seu colega?
 
 543
 00:50:03,750 --> 00:50:05,501
-- Não.
+- NÃ£o.
 - Mais apertado.
 
 544
@@ -2488,7 +2488,7 @@ Eu estava obedecendo ordens.
 
 546
 00:50:12,508 --> 00:50:13,885
-Não tive escolha.
+NÃ£o tive escolha.
 
 547
 00:50:29,984 --> 00:50:31,486
@@ -2496,37 +2496,37 @@ Como vai isso, Cat?
 
 548
 00:50:42,663 --> 00:50:45,083
-- Que que você tem pra me dizer, craque?
+- Que que vocÃª tem pra me dizer, craque?
 - Bem,...
 
 549
 00:50:45,291 --> 00:50:49,587
-consigo energia para o módulo e
+consigo energia para o mÃ³dulo e
 o tanque, se redirecionar estes cabos.
 
 550
 00:50:49,962 --> 00:50:54,175
 Mas tenho de passar pelos cabos
-principais que estão todos derretidos.
+principais que estÃ£o todos derretidos.
 
 551
 00:50:55,093 --> 00:50:57,637
-Mas não haverá o bastante para
+Mas nÃ£o haverÃ¡ o bastante para
 os aquecedores funcionarem.
 
 552
 00:50:58,137 --> 00:51:02,058
 Em algumas horas, este lugar vai estar
-frio como uma câmara frigorífica.
+frio como uma cÃ¢mara frigorÃ­fica.
 
 553
 00:51:02,100 --> 00:51:05,019
-- E o oxigênio?
-- Bem, prepare-se pra notícia.
+- E o oxigÃªnio?
+- Bem, prepare-se pra notÃ­cia.
 
 554
 00:51:05,061 --> 00:51:07,313
-Fechando todas as seções que não estamos
+Fechando todas as seÃ§Ãµes que nÃ£o estamos
 usando, talvez haja o bastante pra 12 horas.
 
 555
@@ -2549,12 +2549,12 @@ talvez consiga esticar isto. Talvez.
 
 559
 00:51:20,910 --> 00:51:24,580
-Há uns tanques de armazenamento na popa
-próximos ao módulo destruído.
+HÃ¡ uns tanques de armazenamento na popa
+prÃ³ximos ao mÃ³dulo destruÃ­do.
 
 560
 00:51:24,622 --> 00:51:27,917
-Vou ter que ir lá fora, e atar a eles.
+Vou ter que ir lÃ¡ fora, e atar a eles.
 
 561
 00:51:31,045 --> 00:51:31,796
@@ -2567,43 +2567,43 @@ Ei, Lins.
 
 563
 00:51:36,050 --> 00:51:38,136
-Estou contente por você estar aqui.
+Estou contente por vocÃª estar aqui.
 
 564
 00:51:38,177 --> 00:51:38,886
-É?
+Ã‰?
 
 565
 00:51:41,472 --> 00:51:42,640
-Mas eu não.
+Mas eu nÃ£o.
 
 566
 00:51:54,193 --> 00:51:56,112
-<i>Onde você está agora, Lins?</i>
+<i>Onde vocÃª estÃ¡ agora, Lins?</i>
 
 567
 00:51:56,779 --> 00:51:59,157
-Estou sob o tri-módulo a bombordo.
+Estou sob o tri-mÃ³dulo a bombordo.
 
 568
 00:52:02,118 --> 00:52:05,455
-- Ainda está comigo, Hip?
-- Atrás de você, Lins.
+- Ainda estÃ¡ comigo, Hip?
+- AtrÃ¡s de vocÃª, Lins.
 
 569
 00:52:15,757 --> 00:52:19,218
-- Qual é o estado dela?
-- Vocês acabaram com minha plataforma.
+- Qual Ã© o estado dela?
+- VocÃªs acabaram com minha plataforma.
 
 570
 00:52:19,260 --> 00:52:22,638
-- Há muitos detritos aqui.
-- Bem, não fique de mau humor.
+- HÃ¡ muitos detritos aqui.
+- Bem, nÃ£o fique de mau humor.
 
 571
 00:52:23,264 --> 00:52:26,225
-- Me jogue aquela 9/16, tá?
-- Tá.
+- Me jogue aquela 9/16, tÃ¡?
+- TÃ¡.
 
 572
 00:52:26,934 --> 00:52:27,935
@@ -2611,28 +2611,28 @@ Obrigada.
 
 573
 00:53:03,304 --> 00:53:05,640
-<i>Vamos. Quero ver esses músculos.</i>
+<i>Vamos. Quero ver esses mÃºsculos.</i>
 
 574
 00:53:07,100 --> 00:53:08,518
-Bingo! Aí vai um.
+Bingo! AÃ­ vai um.
 
 575
 00:53:10,144 --> 00:53:11,312
-Já vão dois.
+JÃ¡ vÃ£o dois.
 
 576
 00:53:14,982 --> 00:53:17,318
-Lindsey, está me recebendo? Câmbio.
+Lindsey, estÃ¡ me recebendo? CÃ¢mbio.
 
 577
 00:53:18,027 --> 00:53:20,321
-Recebendo, Hippy. Qual é o problema?
+Recebendo, Hippy. Qual Ã© o problema?
 
 578
 00:53:22,281 --> 00:53:25,368
 Oh, merda. A eletricidade
-está abandonando a gente outra vez.
+estÃ¡ abandonando a gente outra vez.
 
 579
 00:53:25,743 --> 00:53:27,078
@@ -2640,15 +2640,15 @@ Lindsey, volta.
 
 580
 00:53:27,286 --> 00:53:30,456
-<i>Perdi o vídeo. Lins, você está aí...?</i>
+<i>Perdi o vÃ­deo. Lins, vocÃª estÃ¡ aÃ­...?</i>
 
 581
 00:53:32,083 --> 00:53:33,835
-Hippy, está recebendo?
+Hippy, estÃ¡ recebendo?
 
 582
 00:53:37,338 --> 00:53:38,589
-Lins, está recebendo?
+Lins, estÃ¡ recebendo?
 
 583
 00:53:39,882 --> 00:53:40,716
@@ -2656,7 +2656,7 @@ Oh, merda!
 
 584
 00:53:42,051 --> 00:53:44,554
-Oh, que diabo! Hippy, está recebendo?
+Oh, que diabo! Hippy, estÃ¡ recebendo?
 
 585
 00:53:46,222 --> 00:53:47,056
@@ -2664,7 +2664,7 @@ Diabo!
 
 586
 00:53:48,391 --> 00:53:50,476
-Bud, está recebendo? Câmbio.
+Bud, estÃ¡ recebendo? CÃ¢mbio.
 
 587
 00:53:52,854 --> 00:53:55,314
@@ -2681,63 +2681,63 @@ Diabo!
 590
 00:57:03,002 --> 00:57:06,380
 - Foi uma boa tentativa, Lins.
-- Você perdeu sua lanterna de mergulho?
+- VocÃª perdeu sua lanterna de mergulho?
 
 591
 00:57:06,422 --> 00:57:10,510
-Vamos, rapazes. Essa é a menor.
-Essa é a menor aqui.
+Vamos, rapazes. Essa Ã© a menor.
+Essa Ã© a menor aqui.
 
 592
 00:57:10,718 --> 00:57:13,638
-- Vê, está a tremelicar.
-- Seja lá o que for.
+- VÃª, estÃ¡ a tremelicar.
+- Seja lÃ¡ o que for.
 
 593
 00:57:13,679 --> 00:57:16,474
-Estou dizendo pra você o que é.
-Você simplesmente não está me ouvindo.
+Estou dizendo pra vocÃª o que Ã©.
+VocÃª simplesmente nÃ£o estÃ¡ me ouvindo.
 
 594
 00:57:16,526 --> 00:57:19,644
 - Agora, Lindsey...
-- Há uma coisa aqui embaixo.
+- HÃ¡ uma coisa aqui embaixo.
 
 595
 00:57:19,811 --> 00:57:23,689
-- Uma coisa que não é nós.
-- Pode ser mais... específica.
+- Uma coisa que nÃ£o Ã© nÃ³s.
+- Pode ser mais... especÃ­fica.
 
 596
 00:57:24,190 --> 00:57:26,859
 - Uma coisa que se move em zigzague.
-- Não é como nós.
+- NÃ£o Ã© como nÃ³s.
 
 597
 00:57:27,151 --> 00:57:28,361
-Não é humano.
+NÃ£o Ã© humano.
 
 598
 00:57:29,112 --> 00:57:32,698
-Entendeu? Alguma coisa não-humana
+Entendeu? Alguma coisa nÃ£o-humana
 mas inteligente.
 
 599
 00:57:39,080 --> 00:57:41,541
-Uma inteligência não terrestre.
+Uma inteligÃªncia nÃ£o terrestre.
 
 600
 00:57:42,542 --> 00:57:44,836
-Uma inteligência não terrestre.
+Uma inteligÃªncia nÃ£o terrestre.
 
 601
 00:57:45,461 --> 00:57:49,841
-INT. Pois, essa é melhor que OVNI.
-Mas também funciona.
+INT. Pois, essa Ã© melhor que OVNI.
+Mas tambÃ©m funciona.
 
 602
 00:57:50,133 --> 00:57:52,260
-Objetos Voadores Subaquáticos.
+Objetos Voadores SubaquÃ¡ticos.
 
 603
 00:57:56,514 --> 00:57:59,809
@@ -2746,22 +2746,22 @@ espaciais? - Diabo, estamos!
 
 604
 00:57:59,861 --> 00:58:02,019
-Automóveis de motor envenenado
+AutomÃ³veis de motor envenenado
 dos deuses! Certo, Lins?
 
 605
 00:58:02,770 --> 00:58:05,148
-Não, não, de fato.
+NÃ£o, nÃ£o, de fato.
 Podem ser INT.
 
 606
 00:58:05,189 --> 00:58:09,360
-A CIA sempre soube da sua existência.
-Estão sempre sequestrando pessoas.
+A CIA sempre soube da sua existÃªncia.
+EstÃ£o sempre sequestrando pessoas.
 
 607
 00:58:09,412 --> 00:58:11,154
-Hippy, me faça um favor?
+Hippy, me faÃ§a um favor?
 
 608
 00:58:11,404 --> 00:58:12,780
@@ -2769,7 +2769,7 @@ Deixe-me em paz.
 
 609
 00:58:13,740 --> 00:58:17,118
-- Pode vir ao meu escritório, por favor?
+- Pode vir ao meu escritÃ³rio, por favor?
 - Com certeza.
 
 610
@@ -2779,32 +2779,32 @@ Eu... Venha aqui.
 611
 00:58:22,165 --> 00:58:25,282
 - Jesus, Lins! - Uma coisa realmente
-importante está acontecendo.
+importante estÃ¡ acontecendo.
 
 612
 00:58:25,334 --> 00:58:29,505
-Estou tentando manter a situação controlada.
-Não posso permitir este tipo de histeria.
+Estou tentando manter a situaÃ§Ã£o controlada.
+NÃ£o posso permitir este tipo de histeria.
 
 613
 00:58:29,547 --> 00:58:32,550
-Quem está histérico?
-Ninguém está histérico!
+Quem estÃ¡ histÃ©rico?
+NinguÃ©m estÃ¡ histÃ©rico!
 
 614
 00:58:34,010 --> 00:58:37,930
-Quando a questão é de sobrevivência,
-a gente não fala tolices sobre alienígenas.
+Quando a questÃ£o Ã© de sobrevivÃªncia,
+a gente nÃ£o fala tolices sobre alienÃ­genas.
 
 615
 00:58:37,972 --> 00:58:42,810
-Eu vi algo. Não vou dizer que não vi
+Eu vi algo. NÃ£o vou dizer que nÃ£o vi
 nada quando, de fato, vi. Sinto muito.
 
 616
 00:58:43,311 --> 00:58:46,481
 - Por favor.
-- Você é a mulher mais teimosa que conheço.
+- VocÃª Ã© a mulher mais teimosa que conheÃ§o.
 
 617
 00:58:46,533 --> 00:58:47,648
@@ -2812,7 +2812,7 @@ Sim, sou!
 
 618
 00:58:48,399 --> 00:58:51,360
-Mas preciso que você acredite
+Mas preciso que vocÃª acredite
 em mim agora.
 
 619
@@ -2822,13 +2822,13 @@ Estou estressada?
 
 620
 00:58:54,822 --> 00:58:58,409
-Tenho alguns sintomas de pressão -
-náusea, tremores, fala arrastada?
+Tenho alguns sintomas de pressÃ£o -
+nÃ¡usea, tremores, fala arrastada?
 
 621
 00:58:59,660 --> 00:59:01,162
-- Não.
-- Não.
+- NÃ£o.
+- NÃ£o.
 
 622
 00:59:02,163 --> 00:59:04,415
@@ -2836,22 +2836,22 @@ Bud, esta sou eu, a Lindsey. Sim?
 
 623
 00:59:05,708 --> 00:59:08,461
-Você me conhece melhor do
+VocÃª me conhece melhor do
 que qualquer pessoa no mundo.
 
 624
 00:59:09,670 --> 00:59:13,549
-Agora presta atenção ao que te digo.
+Agora presta atenÃ§Ã£o ao que te digo.
 Eu vi aquelas coisas.
 
 625
 00:59:14,926 --> 00:59:19,472
-Toquei numa delas. E... não se tratava
-de qualquer pedaço de lata batida...
+Toquei numa delas. E... nÃ£o se tratava
+de qualquer pedaÃ§o de lata batida...
 
 626
 00:59:19,514 --> 00:59:21,390
-como as que temos construído.
+como as que temos construÃ­do.
 
 627
 00:59:23,059 --> 00:59:24,060
@@ -2860,20 +2860,20 @@ Deslizava.
 628
 00:59:25,353 --> 00:59:28,272
 Foi a coisa mais bonita
-que alguma vez já vi.
+que alguma vez jÃ¡ vi.
 
 629
 00:59:29,732 --> 00:59:32,193
-Oh, Deus, queria que você estivesse lá.
+Oh, Deus, queria que vocÃª estivesse lÃ¡.
 
 630
 00:59:32,985 --> 00:59:34,320
-Era uma máquina.
+Era uma mÃ¡quina.
 
 631
 00:59:34,362 --> 00:59:38,699
-Era uma máquina, mas estava viva. Era
-como que uma... como uma dança de luz.
+Era uma mÃ¡quina, mas estava viva. Era
+como que uma... como uma danÃ§a de luz.
 
 632
 00:59:41,744 --> 00:59:44,080
@@ -2882,34 +2882,34 @@ Tem que confiar em mim.
 
 633
 00:59:44,288 --> 00:59:48,042
-Agora, não penso que queriam
-nos causar mal. Não sei como sei isso.
+Agora, nÃ£o penso que queriam
+nos causar mal. NÃ£o sei como sei isso.
 
 634
 00:59:48,084 --> 00:59:50,169
-É só... um sentimento.
+Ã‰ sÃ³... um sentimento.
 
 635
 00:59:51,170 --> 00:59:55,466
 Meu Deus! Vou acreditar num sentimento?
-Como é que posso crer num sentimento?
+Como Ã© que posso crer num sentimento?
 
 636
 00:59:55,550 --> 01:00:00,096
 - Acha que o Coffey vai se basear em um?
-- Bem, todos nós vemos o que queremos ver.
+- Bem, todos nÃ³s vemos o que queremos ver.
 
 637
 01:00:00,430 --> 01:00:02,348
-O Coffey olha e vê russos.
+O Coffey olha e vÃª russos.
 
 638
 01:00:03,224 --> 01:00:04,559
-Vê ódio e medo.
+VÃª Ã³dio e medo.
 
 639
 01:00:06,686 --> 01:00:09,522
-Você tem de olhar com
+VocÃª tem de olhar com
 melhores olhos do que isto.
 
 640
@@ -2918,7 +2918,7 @@ Por favor.
 
 641
 01:00:16,696 --> 01:00:18,030
-Não posso, Lins.
+NÃ£o posso, Lins.
 
 642
 01:00:19,866 --> 01:00:20,783
@@ -2930,30 +2930,30 @@ Consegui.
 
 644
 01:00:54,233 --> 01:00:54,942
-Vá.
+VÃ¡.
 
 645
 01:00:55,860 --> 01:00:59,530
-Vá lá, especialista.
-Um pouco mais à esquerda.
+VÃ¡ lÃ¡, especialista.
+Um pouco mais Ã  esquerda.
 
 646
 01:01:01,199 --> 01:01:02,658
-O que é isso...?
+O que Ã© isso...?
 
 647
 01:01:11,000 --> 01:01:13,252
-Oh, não é possível que
+Oh, nÃ£o Ã© possÃ­vel que
 esteja acontecendo isto.
 
 648
 01:01:21,844 --> 01:01:25,264
 Estou tremendo, homem.
-Está bem. Espere. E agora...
+EstÃ¡ bem. Espere. E agora...
 
 649
 01:01:27,100 --> 01:01:29,018
-Aqui está o MIRV!
+Aqui estÃ¡ o MIRV!
 
 650
 01:01:33,022 --> 01:01:36,984
@@ -2962,12 +2962,12 @@ Aqui está o MIRV!
 
 651
 01:01:37,151 --> 01:01:41,656
-Tem de ser algum de plano de emergência
-para manter os russos afastados, não?
+Tem de ser algum de plano de emergÃªncia
+para manter os russos afastados, nÃ£o?
 
 652
 01:01:41,697 --> 01:01:44,575
-Ouça, carregaram
+OuÃ§a, carregaram
 um dos explosivos nucleares.
 
 653
@@ -2976,7 +2976,7 @@ Utilizaram algum tipo de detonador.
 
 654
 01:01:47,203 --> 01:01:50,998
-Depois voltaram a pô-lo no submarino.
+Depois voltaram a pÃ´-lo no submarino.
 Fizeram ir tudo pelos ares.
 
 655
@@ -2986,36 +2986,36 @@ Muitos espertos.
 656
 01:01:55,670 --> 01:01:58,714
 Estou Ihe dizendo.
-E não estou sendo paranóico...
+E nÃ£o estou sendo paranÃ³ico...
 
 657
 01:01:59,549 --> 01:02:00,550
-Olá, Lins.
+OlÃ¡, Lins.
 
 658
 01:02:09,434 --> 01:02:13,980
 - Lins, pode esperar um segundo?
-- Se você não fizer nada, eu faço!
+- Se vocÃª nÃ£o fizer nada, eu faÃ§o!
 
 659
 01:02:14,188 --> 01:02:16,691
 Lindsey,
-nós vamos fazer alguma coisa!
+nÃ³s vamos fazer alguma coisa!
 
 660
 01:02:18,651 --> 01:02:21,863
 - Lins! Pare e pensa um segundo.
-- O quê?
+- O quÃª?
 
 661
 01:02:43,050 --> 01:02:47,013
-Sabe, você tem o topete de trazer
+Sabe, vocÃª tem o topete de trazer
 essa coisa na minha plataforma.
 
 662
 01:02:47,638 --> 01:02:51,809
-Com tudo o que está acontecendo
-no mundo, você traz uma arma nuclear
+Com tudo o que estÃ¡ acontecendo
+no mundo, vocÃª traz uma arma nuclear
 
 663
 01:02:51,851 --> 01:02:53,102
@@ -3023,42 +3023,42 @@ Sra. Brigman...
 
 664
 01:02:53,144 --> 01:02:57,398
-Alguém mais acha que isso
-é particularmente uma psicose ou só eu?
+AlguÃ©m mais acha que isso
+Ã© particularmente uma psicose ou sÃ³ eu?
 
 665
 01:02:57,690 --> 01:03:01,319
-Sra. Brigman, você não precisa saber
-os detalhes da nossa operação.
+Sra. Brigman, vocÃª nÃ£o precisa saber
+os detalhes da nossa operaÃ§Ã£o.
 
 666
 01:03:01,360 --> 01:03:04,478
-- Até é melhor que não saiba.
-- Tem razão! Não preciso saber!
+- AtÃ© Ã© melhor que nÃ£o saiba.
+- Tem razÃ£o! NÃ£o preciso saber!
 
 667
 01:03:04,530 --> 01:03:08,743
-Preciso é saber que aquela coisa está fora
+Preciso Ã© saber que aquela coisa estÃ¡ fora
 desta plataforma! Entendido, Roger Reator?
 
 668
 01:03:10,703 --> 01:03:13,863
-Você está se tornando um sério
-impedimento à nossa missão.
+VocÃª estÃ¡ se tornando um sÃ©rio
+impedimento Ã  nossa missÃ£o.
 
 669
 01:03:13,915 --> 01:03:18,669
-Agora, ou você dá uma meia-volta
+Agora, ou vocÃª dÃ¡ uma meia-volta
 e sai daqui, ou a mando levarem pra fora.
 
 670
 01:03:18,711 --> 01:03:21,839
-Não vou dar uma meia-volta nem sair daqui!
+NÃ£o vou dar uma meia-volta nem sair daqui!
 
 671
 01:03:21,923 --> 01:03:26,594
-- Você pensa que está falando com quem?
-- Emergência! Todo mundo aqui, movam-se.
+- VocÃª pensa que estÃ¡ falando com quem?
+- EmergÃªncia! Todo mundo aqui, movam-se.
 
 672
 01:03:26,803 --> 01:03:28,513
@@ -3078,7 +3078,7 @@ Temos problemas! Vamos!
 
 676
 01:03:34,769 --> 01:03:35,978
-O que está acontecendo?
+O que estÃ¡ acontecendo?
 
 677
 01:03:36,020 --> 01:03:37,021
@@ -3086,7 +3086,7 @@ Tudo bem!
 
 678
 01:03:39,190 --> 01:03:43,069
-- O que está acontecendo?
+- O que estÃ¡ acontecendo?
 - Deixe ela ir, homem. Deixa.
 
 679
@@ -3099,7 +3099,7 @@ Deixe ela ir.
 
 681
 01:03:49,158 --> 01:03:51,744
-A coisa mais inteligente que você já fêz.
+A coisa mais inteligente que vocÃª jÃ¡ fÃªz.
 
 682
 01:03:54,372 --> 01:03:57,250
@@ -3108,51 +3108,51 @@ A coisa mais inteligente que você já fêz.
 
 683
 01:03:57,302 --> 01:03:59,252
-- Qual é o problema?
+- Qual Ã© o problema?
 - Nada.
 
 684
 01:04:00,002 --> 01:04:02,004
-Já estávamos de saída, certo?
+JÃ¡ estÃ¡vamos de saÃ­da, certo?
 
 685
 01:04:22,692 --> 01:04:24,360
-Não precisamos deles.
+NÃ£o precisamos deles.
 
 686
 01:04:25,862 --> 01:04:27,780
-Não podemos confiar neles.
+NÃ£o podemos confiar neles.
 
 687
 01:04:32,076 --> 01:04:34,495
-Talvez tenhamos de tomar precauções.
+Talvez tenhamos de tomar precauÃ§Ãµes.
 
 688
 01:04:36,539 --> 01:04:38,583
-Vamos ter que tomar precauções.
+Vamos ter que tomar precauÃ§Ãµes.
 
 689
 01:04:43,546 --> 01:04:46,924
 Lins, quero que se afaste daquele cara.
-Estou falando sério.
+Estou falando sÃ©rio.
 
 690
 01:04:47,091 --> 01:04:49,969
-O cara já era. Você viu as mãos dele?
+O cara jÃ¡ era. VocÃª viu as mÃ£os dele?
 
 691
 01:04:50,470 --> 01:04:52,263
-O que? Ele está com tremores?
+O que? Ele estÃ¡ com tremores?
 
 692
 01:04:52,513 --> 01:04:57,060
-Olha, ele está trabalhando sozinho.
+Olha, ele estÃ¡ trabalhando sozinho.
 Ele se desligou da cadeia de comando.
 
 693
 01:04:57,112 --> 01:05:00,521
-Ele está mostrando sinais de psicose
-induzida pela pressão.
+Ele estÃ¡ mostrando sinais de psicose
+induzida pela pressÃ£o.
 
 694
 01:05:00,563 --> 01:05:02,690
@@ -3170,32 +3170,32 @@ Esta coisa inteira me enoja.
 
 697
 01:05:13,242 --> 01:05:16,871
-Você pode programar o chip primário de
-comando dele e ele irá onde você quiser
+VocÃª pode programar o chip primÃ¡rio de
+comando dele e ele irÃ¡ onde vocÃª quiser
 
 698
 01:05:16,913 --> 01:05:20,166
-e ele vai lá ter, certo?
-- Não. Péssima ideia, Lindsey.
+e ele vai lÃ¡ ter, certo?
+- NÃ£o. PÃ©ssima ideia, Lindsey.
 
 699
 01:05:20,208 --> 01:05:21,751
-Porquê, Hip? Vá lá.
+PorquÃª, Hip? VÃ¡ lÃ¡.
 
 700
 01:05:21,793 --> 01:05:26,631
-Porque mesmo que suportasse a pressão a
-esta profundidade, o que não acredito...
+Porque mesmo que suportasse a pressÃ£o a
+esta profundidade, o que nÃ£o acredito...
 
 701
 01:05:26,839 --> 01:05:32,053
 sem a corrente, sabe o que aconteceria?
-Ficaria ali parado que nem um estúpido.
+Ficaria ali parado que nem um estÃºpido.
 
 702
 01:05:32,637 --> 01:05:36,599
 Alguma coisa teria de passar em frente
-da câmera pra você ver alguma coisa.
+da cÃ¢mera pra vocÃª ver alguma coisa.
 
 703
 01:05:36,641 --> 01:05:39,644
@@ -3209,17 +3209,17 @@ com o Bud sobre isto.</i>
 
 705
 01:05:41,979 --> 01:05:45,900
-<i>Não. Isto fica entre você e eu. Obtemos
-a prova e então falamos para os outros</i>
+<i>NÃ£o. Isto fica entre vocÃª e eu. Obtemos
+a prova e entÃ£o falamos para os outros</i>
 
 706
 01:05:45,942 --> 01:05:47,026
-<i>Hippy, vê só.</i>
+<i>Hippy, vÃª sÃ³.</i>
 
 707
 01:05:47,068 --> 01:05:50,780
 <i>Se conseguirmos provar ao Coffey
-que não há russos lá em baixo,</i>
+que nÃ£o hÃ¡ russos lÃ¡ em baixo,</i>
 
 708
 01:05:51,030 --> 01:05:53,116
@@ -3227,22 +3227,22 @@ que não há russos lá em baixo,</i>
 
 709
 01:05:54,659 --> 01:05:59,372
-<i>Tenho de Ihe dizer, ele me dá mais medo que
-qualquer coisa que encontremos lá embaixo.</i>
+<i>Tenho de Ihe dizer, ele me dÃ¡ mais medo que
+qualquer coisa que encontremos lÃ¡ embaixo.</i>
 
 710
 01:05:59,414 --> 01:06:03,835
-<i>É um cara armado metido a espertalhão
-que nem um robô-soldado!</i>
+<i>Ã‰ um cara armado metido a espertalhÃ£o
+que nem um robÃ´-soldado!</i>
 
 711
 01:06:07,213 --> 01:06:09,757
-<i>Mê dê umas duas horas.
+<i>MÃª dÃª umas duas horas.
 Vou ver o que posso fazer.</i>
 
 712
 01:06:09,799 --> 01:06:11,175
-<i>Ótimo. Obrigada.</i>
+<i>Ã“timo. Obrigada.</i>
 
 713
 01:06:24,939 --> 01:06:26,691
@@ -3250,8 +3250,8 @@ Virgil, vire de lado.
 
 714
 01:06:56,763 --> 01:06:58,890
-Está bem.
-Está tudo preparado, grandalhão.
+EstÃ¡ bem.
+EstÃ¡ tudo preparado, grandalhÃ£o.
 
 715
 01:06:59,557 --> 01:07:02,852
@@ -3288,7 +3288,7 @@ Bud!
 
 723
 01:09:41,010 --> 01:09:42,678
-Não, espera. Tudo bem.
+NÃ£o, espera. Tudo bem.
 
 724
 01:09:43,221 --> 01:09:44,931
@@ -3296,37 +3296,37 @@ Deus todo-poderoso!
 
 725
 01:09:45,223 --> 01:09:46,849
-Acho que gosta de você.
+Acho que gosta de vocÃª.
 
 726
 01:10:07,161 --> 01:10:08,955
-Está tentando se comunicar.
+EstÃ¡ tentando se comunicar.
 
 727
 01:10:11,207 --> 01:10:12,166
-É o Bud.
+Ã‰ o Bud.
 
 728
 01:10:16,295 --> 01:10:18,214
-- É maravilhoso!
+- Ã‰ maravilhoso!
 - Sou eu!
 
 729
 01:10:22,135 --> 01:10:24,303
-- Não. Não faça...
+- NÃ£o. NÃ£o faÃ§a...
 - Tudo bem.
 
 730
 01:10:29,434 --> 01:10:30,476
-Está viva?
+EstÃ¡ viva?
 
 731
 01:10:34,480 --> 01:10:35,773
-Lindsey, não...
+Lindsey, nÃ£o...
 
 732
 01:10:37,817 --> 01:10:38,943
-Água do mar.
+Ãgua do mar.
 
 733
 01:10:39,861 --> 01:10:40,737
@@ -3339,21 +3339,21 @@ Vamos. Vamos!
 735
 01:10:59,088 --> 01:11:01,716
 - Depressa!
-- Pra onde está indo?
+- Pra onde estÃ¡ indo?
 
 736
 01:11:11,976 --> 01:11:14,604
 Depressa!
-Acho que vai para o módulo B!
+Acho que vai para o mÃ³dulo B!
 
 737
 01:11:15,605 --> 01:11:17,065
-Lins, você está vendo?
+Lins, vocÃª estÃ¡ vendo?
 
 738
 01:12:17,208 --> 01:12:21,712
-Então, levantem a mão os que acham que
-era um tentáculo de água dos russos.
+EntÃ£o, levantem a mÃ£o os que acham que
+era um tentÃ¡culo de Ã¡gua dos russos.
 
 739
 01:12:21,963 --> 01:12:22,922
@@ -3361,7 +3361,7 @@ Tenente?
 
 740
 01:12:23,840 --> 01:12:25,049
-Não? Então...
+NÃ£o? EntÃ£o...
 
 741
 01:12:27,009 --> 01:12:28,678
@@ -3369,60 +3369,60 @@ Uma grande descoberta.
 
 742
 01:12:29,345 --> 01:12:30,221
-Campeã.
+CampeÃ£.
 
 743
 01:12:30,513 --> 01:12:35,309
-- Acabou de impressionar a si própria?
-- Aquilo não poderia ser só água do mar.
+- Acabou de impressionar a si prÃ³pria?
+- Aquilo nÃ£o poderia ser sÃ³ Ã¡gua do mar.
 
 744
 01:12:35,560 --> 01:12:39,647
-Devem ter aprendido a controlar a água.
-Quer dizer, ao nível molecular.
+Devem ter aprendido a controlar a Ã¡gua.
+Quer dizer, ao nÃ­vel molecular.
 
 745
 01:12:39,689 --> 01:12:43,943
-Podem plastificá-la, pulverizá-la,
+Podem plastificÃ¡-la, pulverizÃ¡-la,
 fazerem com ela o que quiserem.
 
 746
 01:12:44,193 --> 01:12:47,405
-- Podem pô-la sob controlo inteligente.
+- Podem pÃ´-la sob controlo inteligente.
 - Talvez...
 
 747
 01:12:48,197 --> 01:12:52,034
 toda a tecnologia deles
-se baseia nisso, controlar a água.
+se baseia nisso, controlar a Ã¡gua.
 
 748
 01:12:53,953 --> 01:12:56,831
 Foi a mesma coisa que
-você viu da última vez?
+vocÃª viu da Ãºltima vez?
 
 749
 01:12:57,123 --> 01:12:57,832
-Não.
+NÃ£o.
 
 750
 01:12:58,082 --> 01:13:01,961
-Sabe, não acho que aquela coisa
-que você viu era um deles.
+Sabe, nÃ£o acho que aquela coisa
+que vocÃª viu era um deles.
 
 751
 01:13:02,170 --> 01:13:05,673
-- O que você está dizendo?
-- Não acho que fosse uma INT.
+- O que vocÃª estÃ¡ dizendo?
+- NÃ£o acho que fosse uma INT.
 
 752
 01:13:05,715 --> 01:13:09,719
-Penso que era a versão deles de
+Penso que era a versÃ£o deles de
 um telecomandado. Como o Big Geek.
 
 753
 01:13:10,970 --> 01:13:13,931
-- Hippy, acha que estavam só nos testando?
+- Hippy, acha que estavam sÃ³ nos testando?
 - Sim.
 
 754
@@ -3438,19 +3438,19 @@ que alguma vez viram.
 756
 01:13:37,080 --> 01:13:40,291
 Foram direto para o torpedo.
-E acham que é bonito!
+E acham que Ã© bonito!
 
 757
 01:14:00,228 --> 01:14:02,188
-Você precisa dormir um pouco.
+VocÃª precisa dormir um pouco.
 
 758
 01:14:12,281 --> 01:14:13,408
-Não temos...
+NÃ£o temos...
 
 759
 01:14:14,242 --> 01:14:17,036
-...jeito de avisar a superfície.
+...jeito de avisar a superfÃ­cie.
 
 760
 01:14:18,329 --> 01:14:20,415
@@ -3458,12 +3458,12 @@ E sabe o que isto significa?
 
 761
 01:14:22,875 --> 01:14:25,586
-Significa que aconteça
+Significa que aconteÃ§a
 o que acontecer...
 
 762
 01:14:25,628 --> 01:14:27,755
-...é da nossa responsabilidade.
+...Ã© da nossa responsabilidade.
 
 763
 01:14:28,714 --> 01:14:29,674
@@ -3479,7 +3479,7 @@ Foi, ratinho?
 
 766
 01:16:07,063 --> 01:16:08,231
-Não se mexam!
+NÃ£o se mexam!
 
 767
 01:16:10,566 --> 01:16:11,692
@@ -3487,17 +3487,17 @@ Assim mesmo.
 
 768
 01:16:13,027 --> 01:16:15,279
-- Está bem, Hip?
-- Eles estão usando o Big Geek...
+- EstÃ¡ bem, Hip?
+- Eles estÃ£o usando o Big Geek...
 
 769
 01:16:15,321 --> 01:16:17,677
 para levar a bomba para os INT.
-- O quê?
+- O quÃª?
 
 770
 01:16:17,729 --> 01:16:20,034
-Nós o programamos pra ir direto a eles.
+NÃ³s o programamos pra ir direto a eles.
 
 771
 01:16:20,076 --> 01:16:21,244
@@ -3505,17 +3505,17 @@ Oh, meu Deus!
 
 772
 01:16:23,746 --> 01:16:26,290
-Pegue isto. Vamos pra Fase Três.
+Pegue isto. Vamos pra Fase TrÃªs.
 
 773
 01:16:26,874 --> 01:16:29,377
-O quê? Não recebemos
+O quÃª? NÃ£o recebemos
 ordens para isso!
 
 774
 01:16:29,627 --> 01:16:33,881
-Programei o Little Geek para descer até
-ao fundo da fossa e fazer alguns vídeos.
+Programei o Little Geek para descer atÃ©
+ao fundo da fossa e fazer alguns vÃ­deos.
 
 775
 01:16:33,923 --> 01:16:36,843
@@ -3525,29 +3525,29 @@ ao fundo da fossa e fazer alguns vídeos.
 776
 01:16:40,179 --> 01:16:44,100
 Coffey... Vamos, Coffey.
-Pense no que está fazendo, está bem?
+Pense no que estÃ¡ fazendo, estÃ¡ bem?
 
 777
 01:16:44,517 --> 01:16:46,602
-Pense no que está fazendo!
+Pense no que estÃ¡ fazendo!
 
 778
 01:16:47,228 --> 01:16:48,229
-Para trás!
+Para trÃ¡s!
 
 779
 01:16:50,898 --> 01:16:54,360
-Isto é algo que queria fazer,
+Isto Ã© algo que queria fazer,
 desde que nos conhecemos.
 
 780
 01:17:02,368 --> 01:17:03,411
-Vá com calma.
+VÃ¡ com calma.
 
 781
 01:17:06,748 --> 01:17:11,127
-- Está bem! Na cozinha! Vamos embora!
-Se movam! - Tire estas mãos de mim!
+- EstÃ¡ bem! Na cozinha! Vamos embora!
+Se movam! - Tire estas mÃ£os de mim!
 
 782
 01:17:11,294 --> 01:17:12,712
@@ -3555,7 +3555,7 @@ Sei o caminho.
 
 783
 01:17:12,879 --> 01:17:16,132
-O teu patrão está pronto
+O teu patrÃ£o estÃ¡ pronto
 pra detonar 50 megatoneladas.
 
 784
@@ -3564,36 +3564,36 @@ E vamos ficar aqui pra ver o show!
 
 785
 01:17:19,469 --> 01:17:21,471
-Ele está completamente louco!
+Ele estÃ¡ completamente louco!
 
 786
 01:17:21,846 --> 01:17:24,307
 - Para quando puseram o cronometro?
-- Três horas.
+- TrÃªs horas.
 
 787
 01:17:24,348 --> 01:17:26,549
-- Cala a boca! Não fale.
-- Três horas.
+- Cala a boca! NÃ£o fale.
+- TrÃªs horas.
 
 788
 01:17:26,601 --> 01:17:30,104
-Não vamos conseguir estar numa distância
-mínima de segurança em três horas.
+NÃ£o vamos conseguir estar numa distÃ¢ncia
+mÃ­nima de seguranÃ§a em trÃªs horas.
 
 789
 01:17:30,605 --> 01:17:32,815
-Não podemos ir pra Fase Três.
+NÃ£o podemos ir pra Fase TrÃªs.
 E esse pessoal?
 
 790
 01:17:32,857 --> 01:17:34,942
-Cale a boca! O que está havendo com você?
+Cale a boca! O que estÃ¡ havendo com vocÃª?
 
 791
 01:17:42,033 --> 01:17:45,536
 Fiquem todos calmos.
-A situação está sob controle.
+A situaÃ§Ã£o estÃ¡ sob controle.
 
 792
 01:17:51,209 --> 01:17:53,669
@@ -3601,17 +3601,17 @@ Mate quem tocar naquela porta.
 
 793
 01:17:58,257 --> 01:18:01,719
-Shoenick! Seu tenente está
+Shoenick! Seu tenente estÃ¡
 pra dar um mau passo na carreira!
 
 794
 01:18:01,761 --> 01:18:04,347
-O cara é mais louco do que
+O cara Ã© mais louco do que
 um rato de esgoto!
 
 795
 01:18:04,389 --> 01:18:07,683
-- Não está vendo que ele perdeu a razão?
+- NÃ£o estÃ¡ vendo que ele perdeu a razÃ£o?
 - Cale a boca!
 
 796
@@ -3621,13 +3621,13 @@ um rato de esgoto!
 
 797
 01:18:10,728 --> 01:18:12,688
-Vai esmagar esta plataforma exploratória
+Vai esmagar esta plataforma exploratÃ³ria
 como uma lata de cerveja.
 
 798
 01:18:12,740 --> 01:18:15,024
 - Cale a boca, homem!
-- Temos que impedí-lo.
+- Temos que impedÃ­-lo.
 
 799
 01:18:15,066 --> 01:18:15,983
@@ -3635,28 +3635,28 @@ Cale a boca!
 
 800
 01:18:16,776 --> 01:18:20,488
-Esta não é nossa missão.
-Não podemos detonar sem as ordens.
+Esta nÃ£o Ã© nossa missÃ£o.
+NÃ£o podemos detonar sem as ordens.
 
 801
 01:18:34,627 --> 01:18:37,505
-Ele está pra declarar guerra
-às espécies alienígenas...
+Ele estÃ¡ pra declarar guerra
+Ã s espÃ©cies alienÃ­genas...
 
 802
 01:18:37,547 --> 01:18:40,800
-justamente quando estão tentando
+justamente quando estÃ£o tentando
 fazer contato conosco. Por favor!
 
 803
 01:18:40,842 --> 01:18:43,845
-- Não sei. Acho que o estou persuadindo.
+- NÃ£o sei. Acho que o estou persuadindo.
 - Sim!
 
 804
 01:18:51,394 --> 01:18:53,438
 - Jammer.
-- Estão todos bem?
+- EstÃ£o todos bem?
 
 805
 01:18:54,439 --> 01:18:55,440
@@ -3664,13 +3664,13 @@ Oh, homem!
 
 806
 01:18:56,816 --> 01:19:00,153
-- Não se mova, paspalho!
+- NÃ£o se mova, paspalho!
 - Olha, eu sou o menor dos seus problemas.
 
 807
 01:19:00,361 --> 01:19:03,656
-Vá devagar, Hippy.
-Como está se sentindo, grandalhão?
+VÃ¡ devagar, Hippy.
+Como estÃ¡ se sentindo, grandalhÃ£o?
 
 808
 01:19:04,157 --> 01:19:05,783
@@ -3678,13 +3678,13 @@ Estou bem, Bud. Eu...
 
 809
 01:19:06,117 --> 01:19:11,456
-Eu... pensei que eu estava morto lá
+Eu... pensei que eu estava morto lÃ¡
 quando vi aquele anjo se aproximando.
 
 810
 01:19:14,709 --> 01:19:18,504
-É, está bem.
-É. Por que não fala sobre isto depois?
+Ã‰, estÃ¡ bem.
+Ã‰. Por que nÃ£o fala sobre isto depois?
 
 811
 01:19:25,178 --> 01:19:28,097
@@ -3693,40 +3693,40 @@ quando vi aquele anjo se aproximando.
 
 812
 01:19:33,561 --> 01:19:35,855
-Não vamos ser capazes de mover isto.
+NÃ£o vamos ser capazes de mover isto.
 
 813
 01:19:35,907 --> 01:19:38,149
 E agora?
-É a única porta para o tanque.
+Ã‰ a Ãºnica porta para o tanque.
 
 814
 01:19:49,911 --> 01:19:52,955
-- O que você está fazendo?
+- O que vocÃª estÃ¡ fazendo?
 - Vamos nadar pra escotilha seis.
 
 815
 01:19:52,997 --> 01:19:53,790
-O quê?
+O quÃª?
 
 816
 01:19:56,125 --> 01:19:57,658
-Vou entrar lá...
+Vou entrar lÃ¡...
 
 817
 01:19:57,710 --> 01:20:01,297
 - e abrir a porta pelo outro lado.
-- Bud, esta água está congelada.
+- Bud, esta Ã¡gua estÃ¡ congelada.
 
 818
 01:20:02,715 --> 01:20:05,082
-Então é melhor você me desejar
+EntÃ£o Ã© melhor vocÃª me desejar
 boa sorte, ein?
 
 819
 01:20:05,134 --> 01:20:07,303
 - Deseja boa sorte pra gente.
-- Você está vindo junto?
+- VocÃª estÃ¡ vindo junto?
 
 820
 01:20:07,345 --> 01:20:08,846
@@ -3734,22 +3734,22 @@ Parece que sim.
 
 821
 01:20:10,348 --> 01:20:12,600
-- Está bem, Cat.
+- EstÃ¡ bem, Cat.
 - Vamos, Bud.
 
 822
 01:20:14,018 --> 01:20:16,646
-- Caso não morra...
-- Isto é loucura.
+- Caso nÃ£o morra...
+- Isto Ã© loucura.
 
 823
 01:20:17,105 --> 01:20:20,274
-Vamos lá, Bud.
-Vamos lá, sócio. Não tenho o dia todo.
+Vamos lÃ¡, Bud.
+Vamos lÃ¡, sÃ³cio. NÃ£o tenho o dia todo.
 
 824
 01:21:20,668 --> 01:21:22,336
-Vamos lá. Força nisto.
+Vamos lÃ¡. ForÃ§a nisto.
 
 825
 01:21:28,009 --> 01:21:29,093
@@ -3761,12 +3761,12 @@ Temos de...
 
 827
 01:21:32,847 --> 01:21:35,224
-- É a única maneira.
-- Não consigo.
+- Ã‰ a Ãºnica maneira.
+- NÃ£o consigo.
 
 828
 01:21:35,266 --> 01:21:37,268
-Não consigo chegar lá, sócio.
+NÃ£o consigo chegar lÃ¡, sÃ³cio.
 
 829
 01:21:37,477 --> 01:21:38,436
@@ -3774,29 +3774,29 @@ Lamento.
 
 830
 01:21:41,022 --> 01:21:42,982
-Está bem. Tudo bem, Cat.
+EstÃ¡ bem. Tudo bem, Cat.
 
 831
 01:21:43,691 --> 01:21:45,610
-Você fica atrás, está bem?
+VocÃª fica atrÃ¡s, estÃ¡ bem?
 
 832
 01:23:19,746 --> 01:23:22,655
-- O que ele está fazendo?
-- Ele não vai conseguir ir até a porta.
+- O que ele estÃ¡ fazendo?
+- Ele nÃ£o vai conseguir ir atÃ© a porta.
 
 833
 01:23:22,707 --> 01:23:27,253
 - O Bud vai tentar acabar com ele.
-- Não. Deus, ele não pode ser tão burro.
+- NÃ£o. Deus, ele nÃ£o pode ser tÃ£o burro.
 
 834
 01:23:27,295 --> 01:23:29,380
-Aquele cara é um assassino profissional.
+Aquele cara Ã© um assassino profissional.
 
 835
 01:24:18,346 --> 01:24:19,055
-Não!
+NÃ£o!
 
 836
 01:24:20,223 --> 01:24:21,224
@@ -3804,11 +3804,11 @@ Coffey...
 
 837
 01:24:21,891 --> 01:24:23,059
-Coffey, ouça.
+Coffey, ouÃ§a.
 
 838
 01:26:15,171 --> 01:26:17,465
-- Bud, você está bem?
+- Bud, vocÃª estÃ¡ bem?
 - Pegue ele, Cat!
 
 839
@@ -3838,37 +3838,37 @@ Atire!
 
 845
 01:27:02,677 --> 01:27:03,720
-Você está bem?
+VocÃª estÃ¡ bem?
 
 846
 01:27:04,011 --> 01:27:05,763
-O pino de segurança está travado!
+O pino de seguranÃ§a estÃ¡ travado!
 
 847
 01:27:06,305 --> 01:27:07,557
-Me dê isto aqui!
+Me dÃª isto aqui!
 
 848
 01:27:13,604 --> 01:27:16,816
 Vamos! Vamos sair! Me ajuda!
-Me dê á uma mão. Se movam.
+Me dÃª Ã¡ uma mÃ£o. Se movam.
 
 849
 01:27:16,858 --> 01:27:20,069
-- One Night, como está a Cabine 1?
-- Pronta pra Iançar.
+- One Night, como estÃ¡ a Cabine 1?
+- Pronta pra IanÃ§ar.
 
 850
 01:27:21,612 --> 01:27:24,282
-Ande! Você é melhor nisto do que eu.
+Ande! VocÃª Ã© melhor nisto do que eu.
 
 851
 01:27:24,949 --> 01:27:26,492
-Você tem ar? Vamos.
+VocÃª tem ar? Vamos.
 
 852
 01:27:29,120 --> 01:27:30,204
-Você tem ar.
+VocÃª tem ar.
 
 853
 01:28:22,840 --> 01:28:23,674
@@ -3896,13 +3896,13 @@ Estou indo, benzinho! Acalme-se.
 
 859
 01:30:44,023 --> 01:30:45,900
-- Você está bem?
+- VocÃª estÃ¡ bem?
 - Estou.
 
 860
 01:30:49,570 --> 01:30:53,199
-- Está vendo o Big Geek?
-- Está bem em frente de mim.
+- EstÃ¡ vendo o Big Geek?
+- EstÃ¡ bem em frente de mim.
 
 861
 01:31:00,081 --> 01:31:01,290
@@ -3910,12 +3910,12 @@ Oh, meu Deus!
 
 862
 01:31:01,666 --> 01:31:03,459
-Certo, pegue o braço!
+Certo, pegue o braÃ§o!
 
 863
 01:31:03,960 --> 01:31:06,879
 - Pra esquerda. Um pouco mais.
-- Você não acertou. Tente de novo.
+- VocÃª nÃ£o acertou. Tente de novo.
 
 864
 01:31:06,921 --> 01:31:07,714
@@ -3924,11 +3924,11 @@ Firme.
 865
 01:31:08,423 --> 01:31:10,414
 - Agarre!
-- Sim, já consegui!
+- Sim, jÃ¡ consegui!
 
 866
 01:31:10,466 --> 01:31:13,136
-- É escorregadio.
+- Ã‰ escorregadio.
 - Segure bem firme.
 
 867
@@ -3942,12 +3942,12 @@ Merda! Perdemos o Geek!
 
 869
 01:31:35,199 --> 01:31:38,536
-- Onde está, Bud? Consegue vê-lo?
+- Onde estÃ¡, Bud? Consegue vÃª-lo?
 - Vou dar uma olhada.
 
 870
 01:31:40,246 --> 01:31:43,249
-- Ele está vindo rápido. Acelere!
+- Ele estÃ¡ vindo rÃ¡pido. Acelere!
 - Merda!
 
 871
@@ -3961,7 +3961,7 @@ Merda!
 
 873
 01:32:13,321 --> 01:32:15,323
-Continue avançando, benzinho!
+Continue avanÃ§ando, benzinho!
 
 874
 01:32:17,075 --> 01:32:17,992
@@ -3969,12 +3969,12 @@ Venha aqui.
 
 875
 01:32:24,624 --> 01:32:25,833
-Filho da mãe!
+Filho da mÃ£e!
 
 876
 01:32:34,092 --> 01:32:36,594
-Tudo à esquerda, querida!
-À esquerda!
+Tudo Ã  esquerda, querida!
+Ã€ esquerda!
 
 877
 01:32:50,316 --> 01:32:51,807
@@ -3982,64 +3982,64 @@ Meu Deus, mulher!
 
 878
 01:32:51,859 --> 01:32:54,862
-Se você acha que sabe fazer melhor,
-vem pra cá!
+Se vocÃª acha que sabe fazer melhor,
+vem pra cÃ¡!
 
 879
 01:33:01,869 --> 01:33:03,079
-Filho da mãe!
+Filho da mÃ£e!
 
 880
 01:33:05,665 --> 01:33:08,126
-- Ele está perto?
+- Ele estÃ¡ perto?
 - Encostado na gente.
 
 881
 01:33:08,167 --> 01:33:09,127
-Está bem.
+EstÃ¡ bem.
 
 882
 01:33:09,752 --> 01:33:11,629
-- Onde você está indo?
+- Onde vocÃª estÃ¡ indo?
 - Segure-se!
 
 883
 01:34:56,109 --> 01:34:58,736
-<i>Deepcore, aqui é da Cabine 1.
-Está recebendo?</i>
+<i>Deepcore, aqui Ã© da Cabine 1.
+EstÃ¡ recebendo?</i>
 
 884
 01:35:01,114 --> 01:35:03,741
-Deepcore, Deepcore, aqui é da Cabine 1.
-Câmbio.
+Deepcore, Deepcore, aqui Ã© da Cabine 1.
+CÃ¢mbio.
 
 885
 01:35:05,576 --> 01:35:07,995
-Não estou recebendo resposta!
+NÃ£o estou recebendo resposta!
 
 886
 01:35:08,913 --> 01:35:12,375
 - E estamos inundando.
-- É. Você notou?
+- Ã‰. VocÃª notou?
 
 887
 01:35:12,959 --> 01:35:15,326
-Você se saiu bem lá, Virgil.
+VocÃª se saiu bem lÃ¡, Virgil.
 
 888
 01:35:15,378 --> 01:35:18,506
 - Fiquei mesmo impressionada.
-- Bom, não foi bom o suficiente.
+- Bom, nÃ£o foi bom o suficiente.
 
 889
 01:35:18,548 --> 01:35:22,385
 - Temos ainda de apanhar o Big Geek.
-- Bem, não nesta coisa.
+- Bem, nÃ£o nesta coisa.
 
 890
 01:35:22,427 --> 01:35:25,054
-Deepcore, Deepcore, aqui é da Cabine 1.
-Câmbio.
+Deepcore, Deepcore, aqui Ã© da Cabine 1.
+CÃ¢mbio.
 
 891
 01:35:29,016 --> 01:35:30,351
@@ -4047,12 +4047,12 @@ Tente de novo.
 
 892
 01:35:30,518 --> 01:35:33,062
-Deepcore, aqui é da Cabine 1.
+Deepcore, aqui Ã© da Cabine 1.
 Precisamos de...
 
 893
 01:35:37,108 --> 01:35:38,151
-Vocês todos estão bem?
+VocÃªs todos estÃ£o bem?
 
 894
 01:35:38,860 --> 01:35:39,610
@@ -4060,11 +4060,11 @@ Estamos.
 
 895
 01:35:46,367 --> 01:35:47,493
-Bem, isto é tudo.
+Bem, isto Ã© tudo.
 
 896
 01:35:47,535 --> 01:35:48,870
-É sim, maravilhoso.
+Ã‰ sim, maravilhoso.
 
 897
 01:35:51,330 --> 01:35:54,333
@@ -4073,61 +4073,61 @@ Vem da direita.
 
 898
 01:35:54,375 --> 01:35:56,617
-Aquilo é a plataforma.
+Aquilo Ã© a plataforma.
 
 899
 01:35:56,669 --> 01:35:59,088
-Está, diria, a umas 60, 70 jardas.
+EstÃ¡, diria, a umas 60, 70 jardas.
 
 900
 01:35:59,130 --> 01:36:01,257
-Bem, eles virão nos buscar.
+Bem, eles virÃ£o nos buscar.
 
 901
 01:36:01,549 --> 01:36:05,803
 Mas vai levar um tempo pra chegarem
-aqui. Temos de fazer a inundação parar.
+aqui. Temos de fazer a inundaÃ§Ã£o parar.
 
 902
 01:36:08,264 --> 01:36:11,809
-- Está vendo de onde entra a água?
-- Estou. Pode segurar a lâmpada?
+- EstÃ¡ vendo de onde entra a Ã¡gua?
+- Estou. Pode segurar a lÃ¢mpada?
 
 903
 01:36:11,851 --> 01:36:16,105
-Há um encaixe partido atrás do painel.
-Não creio que consiga lá chegar.
+HÃ¡ um encaixe partido atrÃ¡s do painel.
+NÃ£o creio que consiga lÃ¡ chegar.
 
 904
 01:36:18,983 --> 01:36:22,403
 - Tens algumas ferramentas?
-- Não sei. Tenho de procurar.
+- NÃ£o sei. Tenho de procurar.
 
 905
 01:36:22,445 --> 01:36:24,113
-Sim, bom, já procurei.
+Sim, bom, jÃ¡ procurei.
 
 906
 01:36:26,783 --> 01:36:30,119
 Diabo! Tudo que preciso
-é uma chave inglesa crescente!
+Ã© uma chave inglesa crescente!
 
 907
 01:36:32,955 --> 01:36:33,915
-Vamos lá.
+Vamos lÃ¡.
 
 908
 01:36:40,254 --> 01:36:41,464
-Filho da mãe!
+Filho da mÃ£e!
 
 909
 01:36:42,590 --> 01:36:44,425
-Está bem. Calma, Bud.
+EstÃ¡ bem. Calma, Bud.
 
 910
 01:36:45,385 --> 01:36:47,178
 - Calma.
-- Está bem.
+- EstÃ¡ bem.
 
 911
 01:36:50,598 --> 01:36:51,641
@@ -4135,46 +4135,46 @@ Muito bem.
 
 912
 01:36:54,394 --> 01:36:56,687
-Temos de tirar você daqui.
+Temos de tirar vocÃª daqui.
 
 913
 01:36:56,813 --> 01:36:58,773
 - Como?
-- Não sei como.
+- NÃ£o sei como.
 
 914
 01:36:59,148 --> 01:37:02,819
-- Está bem. Só temos uma roupa.
-- Temos que ter uma idéia.
+- EstÃ¡ bem. SÃ³ temos uma roupa.
+- Temos que ter uma idÃ©ia.
 
 915
 01:37:02,860 --> 01:37:06,406
 - Oh, meu Deus! Estou me congelando!
-- Venha aqui. Me dá suas mãos.
+- Venha aqui. Me dÃ¡ suas mÃ£os.
 
 916
 01:37:06,614 --> 01:37:10,910
-Ouça, você é inteligente.
-Tem alguma idéia boa?
+OuÃ§a, vocÃª Ã© inteligente.
+Tem alguma idÃ©ia boa?
 
 917
 01:37:10,952 --> 01:37:14,539
-Está bem. Porque não nada até
+EstÃ¡ bem. Porque nÃ£o nada atÃ©
 a plataforma e traz mais outra roupa?
 
 918
 01:37:15,623 --> 01:37:21,379
-Isso levará sete ou oito minutos
+Isso levarÃ¡ sete ou oito minutos
 pra nadar, pegar a roupa e voltar.
 
 919
 01:37:22,380 --> 01:37:25,216
-Eu não conseguiria.
-Quando eu voltasse, você estaria...
+Eu nÃ£o conseguiria.
+Quando eu voltasse, vocÃª estaria...
 
 920
 01:37:26,384 --> 01:37:27,343
-Está bem.
+EstÃ¡ bem.
 
 921
 01:37:27,385 --> 01:37:30,513
@@ -4183,7 +4183,7 @@ Oh, meu Deus!
 
 922
 01:37:32,515 --> 01:37:34,183
-Está funcionando?
+EstÃ¡ funcionando?
 
 923
 01:37:35,685 --> 01:37:36,519
@@ -4199,56 +4199,56 @@ Aqui. Veste isto.
 
 926
 01:37:52,452 --> 01:37:56,664
-- Não! Está nascendo guelras em você de
-repente? - Não discuta comigo, diabo!comigo, c'um raio!
+- NÃ£o! EstÃ¡ nascendo guelras em vocÃª de
+repente? - NÃ£o discuta comigo, diabo!comigo, c'um raio!
 
 927
 01:37:56,706 --> 01:38:01,044
-- Isto não é uma opção, esqueça disso!
+- Isto nÃ£o Ã© uma opÃ§Ã£o, esqueÃ§a disso!
 - Lindsey, cale a boca e ponha isso!
 
 928
 01:38:01,085 --> 01:38:03,744
-- Se você for lógico...
-- Pro diabo com a lógica!
+- Se vocÃª for lÃ³gico...
+- Pro diabo com a lÃ³gica!
 
 929
 01:38:03,796 --> 01:38:08,426
-Ouça. Você vestiu a roupa
-e é melhor nadador do que eu, certo?
+OuÃ§a. VocÃª vestiu a roupa
+e Ã© melhor nadador do que eu, certo?
 
 930
 01:38:08,634 --> 01:38:11,429
-- É, talvez.
-- Certo? Sim! Então tenho um plano.
+- Ã‰, talvez.
+- Certo? Sim! EntÃ£o tenho um plano.
 
 931
 01:38:11,471 --> 01:38:14,807
-- Qual é o plano?
-- Eu afogo e você me puxa pra plataforma.
+- Qual Ã© o plano?
+- Eu afogo e vocÃª me puxa pra plataforma.
 
 932
 01:38:14,849 --> 01:38:15,558
-Não!
+NÃ£o!
 
 933
 01:38:16,142 --> 01:38:19,562
-Sim! A água aqui está só
+Sim! A Ã¡gua aqui estÃ¡ sÃ³
 a uns dois graus acima de zero.
 
 934
 01:38:19,604 --> 01:38:23,483
 Eu... entro em profunda hipotermia.
-Meu sangue ficará como água congelada.
+Meu sangue ficarÃ¡ como Ã¡gua congelada.
 
 935
 01:38:23,775 --> 01:38:26,944
-Os sistemas do meu corpo vão
-se desacelerar. Eles não vão parar.
+Os sistemas do meu corpo vÃ£o
+se desacelerar. Eles nÃ£o vÃ£o parar.
 
 936
 01:38:26,986 --> 01:38:31,282
-Você me puxa de volta e podem...
+VocÃª me puxa de volta e podem...
 podem me ressuscitar depois de talvez
 
 937
@@ -4258,12 +4258,12 @@ podem me ressuscitar depois de talvez
 
 938
 01:38:34,202 --> 01:38:38,372
-É o único modo! Ponha isto!
-Ponha isto. Você sabe que tenho razão.
+Ã‰ o Ãºnico modo! Ponha isto!
+Ponha isto. VocÃª sabe que tenho razÃ£o.
 
 939
 01:38:38,831 --> 01:38:43,419
-Por favor! É o único modo. Tem todo
+Por favor! Ã‰ o Ãºnico modo. Tem todo
 o equipamento... na plataforma pra isto.
 
 940
@@ -4272,7 +4272,7 @@ Veste isto. Bud, por favor!
 
 941
 01:38:47,215 --> 01:38:49,300
-- Isto é loucura.
+- Isto Ã© loucura.
 - Eu sei.
 
 942
@@ -4281,16 +4281,16 @@ Oh, meu Deus.
 
 943
 01:38:51,511 --> 01:38:54,013
-- Você está bem?
-- É o único modo.
+- VocÃª estÃ¡ bem?
+- Ã‰ o Ãºnico modo.
 
 944
 01:38:54,055 --> 01:38:55,556
-Está bem. Aqui. Segure isto.
+EstÃ¡ bem. Aqui. Segure isto.
 
 945
 01:38:58,684 --> 01:39:00,770
-Filho da mãe. Segure, Lindsey.
+Filho da mÃ£e. Segure, Lindsey.
 
 946
 01:39:03,022 --> 01:39:05,316
@@ -4298,7 +4298,7 @@ Tu consegues fazer isto, tu sabes.
 
 947
 01:39:10,154 --> 01:39:12,907
-- Você consegue fazer isso.
+- VocÃª consegue fazer isso.
 - Deus Lins, eu...
 
 948
@@ -4308,7 +4308,7 @@ Pode me contar depois.
 
 949
 01:39:33,052 --> 01:39:35,722
-Isto, talvez, não tenha sido uma
+Isto, talvez, nÃ£o tenha sido uma
 grande ideia!
 
 950
@@ -4317,12 +4317,12 @@ Oh, meu Deus!
 
 951
 01:39:50,778 --> 01:39:53,614
-Não consigo!
+NÃ£o consigo!
 Bud, estou assustada!
 
 952
 01:40:25,188 --> 01:40:25,938
-Não!
+NÃ£o!
 
 953
 01:40:51,714 --> 01:40:52,757
@@ -4331,25 +4331,25 @@ Fiz contato!
 954
 01:40:53,132 --> 01:40:55,343
 - Onde?
-- Meu Deus! É a Lindsey.
+- Meu Deus! Ã‰ a Lindsey.
 
 955
 01:40:55,385 --> 01:40:59,097
-- Deepcore, está me recebendo? Câmbio.
+- Deepcore, estÃ¡ me recebendo? CÃ¢mbio.
 - Estou recebendo, Bud. Estamos aqui.
 
 956
 01:40:59,138 --> 01:41:00,807
-Vão para a enfermaria.
+VÃ£o para a enfermaria.
 
 957
 01:41:01,057 --> 01:41:03,976
-Tragam o oxigénio,
-o kit de reanimação,
+Tragam o oxigÃ©nio,
+o kit de reanimaÃ§Ã£o,
 
 958
 01:41:04,936 --> 01:41:09,190
-uma injecção de 10 cc de adrenalina,
+uma injecÃ§Ã£o de 10 cc de adrenalina,
 e uns cobertores quentes. Compreendeu?
 
 959
@@ -4359,7 +4359,7 @@ na piscina rapidamente!
 
 960
 01:41:12,110 --> 01:41:13,486
-Já! Vamos! Vamos!
+JÃ¡! Vamos! Vamos!
 
 961
 01:41:13,778 --> 01:41:15,947
@@ -4375,21 +4375,21 @@ Aqui vem ele!
 
 964
 01:41:41,973 --> 01:41:44,767
-- Cuidado com a cabeça dela.
+- Cuidado com a cabeÃ§a dela.
 - Entendi. Entendi.
 
 965
 01:41:44,809 --> 01:41:46,310
-Cuidado com os pés.
+Cuidado com os pÃ©s.
 
 966
 01:41:49,105 --> 01:41:51,524
-Cuidado com a cabeça dela ao baixar.
+Cuidado com a cabeÃ§a dela ao baixar.
 
 967
 01:41:57,530 --> 01:42:00,158
 Afastem-se. As passagens de ar dela
-estão livres de água?
+estÃ£o livres de Ã¡gua?
 
 968
 01:42:00,450 --> 01:42:03,369
@@ -4402,7 +4402,7 @@ Apronte o desfibrilador. Depressa, Cat.
 
 970
 01:42:08,791 --> 01:42:10,626
-Três mil... quatro mil...
+TrÃªs mil... quatro mil...
 
 971
 01:42:11,377 --> 01:42:12,336
@@ -4411,16 +4411,16 @@ Respira.
 972
 01:42:14,047 --> 01:42:16,340
 Mil...
-dois mil... três mil...
+dois mil... trÃªs mil...
 
 973
 01:42:17,216 --> 01:42:20,553
-Não! Tem que ser na pele
-nua ou não dá certo!
+NÃ£o! Tem que ser na pele
+nua ou nÃ£o dÃ¡ certo!
 
 974
 01:42:20,595 --> 01:42:22,388
-Três mil... quatro mil...
+TrÃªs mil... quatro mil...
 
 975
 01:42:23,765 --> 01:42:24,557
@@ -4428,12 +4428,12 @@ Aqui.
 
 976
 01:42:26,142 --> 01:42:27,310
-Está bem assim?
+EstÃ¡ bem assim?
 
 977
 01:42:27,351 --> 01:42:29,270
 - Entendi.
-- Então vai!
+- EntÃ£o vai!
 
 978
 01:42:29,312 --> 01:42:30,271
@@ -4460,7 +4460,7 @@ Respira.
 
 983
 01:42:43,993 --> 01:42:46,537
-Está indo, está indo. Está carregando.
+EstÃ¡ indo, estÃ¡ indo. EstÃ¡ carregando.
 
 984
 01:42:46,829 --> 01:42:47,955
@@ -4478,7 +4478,7 @@ Carregando...
 987
 01:42:53,336 --> 01:42:55,129
 - Nada?
-- Sem pulsação.
+- Sem pulsaÃ§Ã£o.
 
 988
 01:42:55,421 --> 01:42:58,091
@@ -4500,24 +4500,24 @@ Vamos!
 
 992
 01:43:06,474 --> 01:43:08,017
-Deus! Sem pulsação.
+Deus! Sem pulsaÃ§Ã£o.
 
 993
 01:43:08,142 --> 01:43:10,395
-Não está batendo. Diabo!
-Não está batendo.
+NÃ£o estÃ¡ batendo. Diabo!
+NÃ£o estÃ¡ batendo.
 
 994
 01:43:12,980 --> 01:43:15,817
-Um, dois, três, quatro, cinco mil...
+Um, dois, trÃªs, quatro, cinco mil...
 
 995
 01:43:16,275 --> 01:43:18,903
-Um, dois, três, quatro... respira!
+Um, dois, trÃªs, quatro... respira!
 
 996
 01:43:19,320 --> 01:43:22,073
-Um, dois, três, quatro... respira!
+Um, dois, trÃªs, quatro... respira!
 
 997
 01:43:30,581 --> 01:43:32,834
@@ -4526,17 +4526,17 @@ Um mil, dois mil,...
 
 998
 01:43:32,875 --> 01:43:34,585
-três mil, quatro mil...
+trÃªs mil, quatro mil...
 
 999
 01:43:36,003 --> 01:43:39,173
 Vamos, benzinho.
-Um mil, dois mil, três mil...
+Um mil, dois mil, trÃªs mil...
 
 1000
 01:43:40,591 --> 01:43:44,137
 Vamos, benzinho!
-Respire! Vamos! Dois mil, três mil...
+Respire! Vamos! Dois mil, trÃªs mil...
 
 1001
 01:43:44,929 --> 01:43:45,763
@@ -4548,11 +4548,11 @@ Bud...
 
 1003
 01:43:50,143 --> 01:43:51,853
-É o fim, homem.
+Ã‰ o fim, homem.
 
 1004
 01:43:54,439 --> 01:43:55,898
-É o fim.
+Ã‰ o fim.
 
 1005
 01:43:56,691 --> 01:43:57,650
@@ -4560,15 +4560,15 @@ Sinto muito.
 
 1006
 01:43:58,985 --> 01:44:00,194
-Não tem pulso.
+NÃ£o tem pulso.
 
 1007
 01:44:23,259 --> 01:44:23,968
-Não!
+NÃ£o!
 
 1008
 01:44:24,844 --> 01:44:27,805
-Não, ela tem um coração forte!
+NÃ£o, ela tem um coraÃ§Ã£o forte!
 Ela quer viver!
 
 1009
@@ -4603,7 +4603,7 @@ Diabo! Respire!
 
 1016
 01:45:31,828 --> 01:45:35,915
-Diabo, sua cadela! Você nunca fugiu de
+Diabo, sua cadela! VocÃª nunca fugiu de
 nenhuma coisana sua vida. Agora lute!
 
 1017
@@ -4628,23 +4628,23 @@ Lute!
 
 1022
 01:45:56,144 --> 01:45:58,146
-Lins? É isto aí, Lindsey.
+Lins? Ã‰ isto aÃ­, Lindsey.
 
 1023
 01:45:58,354 --> 01:46:00,398
-É isto aí, Lins. Você vai conseguir.
+Ã‰ isto aÃ­, Lins. VocÃª vai conseguir.
 
 1024
 01:46:00,440 --> 01:46:03,025
-É isto aí, Lins. Volte, benzinho. Vamos.
+Ã‰ isto aÃ­, Lins. Volte, benzinho. Vamos.
 
 1025
 01:46:03,401 --> 01:46:05,069
-Você vai conseguir, benzinho.
+VocÃª vai conseguir, benzinho.
 
 1026
 01:46:15,496 --> 01:46:16,956
-Dê ar pra ela.
+DÃª ar pra ela.
 
 1027
 01:46:17,540 --> 01:46:18,499
@@ -4652,7 +4652,7 @@ Respire.
 
 1028
 01:46:23,713 --> 01:46:25,256
-Você conseguiu, campeã!
+VocÃª conseguiu, campeÃ£!
 
 1029
 01:46:25,298 --> 01:46:26,090
@@ -4660,23 +4660,23 @@ Deus!
 
 1030
 01:46:41,481 --> 01:46:44,150
-Certifique que o coração dela está bem.
+Certifique que o coraÃ§Ã£o dela estÃ¡ bem.
 
 1031
 01:47:00,625 --> 01:47:02,877
-Homem grande não chora, se lembra?
+Homem grande nÃ£o chora, se lembra?
 
 1032
 01:47:09,217 --> 01:47:10,385
-Olá, menina.
+OlÃ¡, menina.
 
 1033
 01:47:12,428 --> 01:47:13,513
-Olá, valentão.
+OlÃ¡, valentÃ£o.
 
 1034
 01:47:17,767 --> 01:47:19,811
-Estou vendo que funcionou, não?
+Estou vendo que funcionou, nÃ£o?
 
 1035
 01:47:19,852 --> 01:47:21,646
@@ -4684,11 +4684,11 @@ Sim. Claro que funcionou.
 
 1036
 01:47:23,231 --> 01:47:25,066
-Você nunca está errado, está?
+VocÃª nunca estÃ¡ errado, estÃ¡?
 
 1037
 01:47:27,777 --> 01:47:29,112
-Como está se sentindo?
+Como estÃ¡ se sentindo?
 
 1038
 01:47:30,905 --> 01:47:32,281
@@ -4696,20 +4696,20 @@ Me sentindo melhor.
 
 1039
 01:47:33,825 --> 01:47:35,535
-O que você fez comigo?
+O que vocÃª fez comigo?
 
 1040
 01:47:41,874 --> 01:47:44,085
-Na próxima, é sua vez, tá?
+Na prÃ³xima, Ã© sua vez, tÃ¡?
 
 1041
 01:47:47,088 --> 01:47:48,881
-É, você entendeu certo.
+Ã‰, vocÃª entendeu certo.
 
 1042
 01:47:50,174 --> 01:47:54,512
-Isto é pra que seus olhos possam focalizar
-no fluído respirador. Como se sente?
+Isto Ã© pra que seus olhos possam focalizar
+no fluÃ­do respirador. Como se sente?
 
 1043
 01:47:55,930 --> 01:47:58,558
@@ -4718,48 +4718,48 @@ consegue desativar a bomba.
 
 1044
 01:47:58,599 --> 01:48:01,728
-Tá bem. Com tanto peso você,
+TÃ¡ bem. Com tanto peso vocÃª,
 vai cair feito um tijolo.
 
 1045
 01:48:03,020 --> 01:48:07,316
 Ainda temos cerca de uma hora, por isso,
-deve conseguir chegar lá a tempo.
+deve conseguir chegar lÃ¡ a tempo.
 
 1046
 01:48:07,358 --> 01:48:12,363
-Quando chegar lá, tudo que tem a fazer
-é cortar um fio, soltar os pesos e voltar.
+Quando chegar lÃ¡, tudo que tem a fazer
+Ã© cortar um fio, soltar os pesos e voltar.
 
 1047
 01:48:15,783 --> 01:48:19,412
-- Me dê á uma chave inglesa.
+- Me dÃª Ã¡ uma chave inglesa.
 - Talvez eu devesse conferir tudo.
 
 1048
 01:48:22,457 --> 01:48:24,459
-Está com folga. Eu arranjo isso.
+EstÃ¡ com folga. Eu arranjo isso.
 
 1049
 01:48:25,460 --> 01:48:27,920
-Bud, você não tem que fazer isto.
+Bud, vocÃª nÃ£o tem que fazer isto.
 
 1050
 01:48:29,464 --> 01:48:31,174
-Alguém tem que fazer.
+AlguÃ©m tem que fazer.
 
 1051
 01:48:31,507 --> 01:48:33,051
-Não tem que ser você.
+NÃ£o tem que ser vocÃª.
 
 1052
 01:48:33,593 --> 01:48:34,719
-Quem, então?
+Quem, entÃ£o?
 
 1053
 01:48:39,932 --> 01:48:43,644
-Então, consigo ouvi-los,
-mas não consigo falar, certo?
+EntÃ£o, consigo ouvi-los,
+mas nÃ£o consigo falar, certo?
 
 1054
 01:48:43,686 --> 01:48:46,773
@@ -4768,13 +4768,13 @@ de produzir sons. Desculpa.
 
 1055
 01:48:46,814 --> 01:48:49,734
-- Dá uma sensação um pouco estranha.
-- Sem dúvida.
+- DÃ¡ uma sensaÃ§Ã£o um pouco estranha.
+- Sem dÃºvida.
 
 1056
 01:48:49,776 --> 01:48:53,279
 Aviso a todos...
-Sou péssimo datilógrafo.
+Sou pÃ©ssimo datilÃ³grafo.
 
 1057
 01:48:57,450 --> 01:48:59,077
@@ -4791,12 +4791,12 @@ Calma.
 1060
 01:49:07,168 --> 01:49:09,462
 - Mais para a frente.
-- Está bem.
+- EstÃ¡ bem.
 
 1061
 01:49:09,504 --> 01:49:11,214
 - Obrigado.
-- Você fez direito.
+- VocÃª fez direito.
 
 1062
 01:49:12,840 --> 01:49:14,592
@@ -4809,15 +4809,15 @@ Pronto.
 
 1064
 01:49:25,937 --> 01:49:27,438
-Vamos entrar em ação!
+Vamos entrar em aÃ§Ã£o!
 
 1065
 01:49:29,690 --> 01:49:30,983
-Abrir válvulas.
+Abrir vÃ¡lvulas.
 
 1066
 01:49:31,692 --> 01:49:34,153
-Fone de cabeça, por favor.
+Fone de cabeÃ§a, por favor.
 
 1067
 01:49:35,613 --> 01:49:38,533
@@ -4839,12 +4839,12 @@ Olha para mim. Olha para mim.
 
 1071
 01:49:44,956 --> 01:49:47,417
-Não segure a respiração.
-Aspire o fluído.
+NÃ£o segure a respiraÃ§Ã£o.
+Aspire o fluÃ­do.
 
 1072
 01:49:47,458 --> 01:49:48,835
-Aspire o fluído. Aspire.
+Aspire o fluÃ­do. Aspire.
 
 1073
 01:49:49,210 --> 01:49:50,169
@@ -4852,12 +4852,12 @@ Aspire.
 
 1074
 01:49:51,504 --> 01:49:55,133
-Isso. Não prenda a respiração agora.
-Você está fazendo certo.
+Isso. NÃ£o prenda a respiraÃ§Ã£o agora.
+VocÃª estÃ¡ fazendo certo.
 
 1075
 01:49:55,633 --> 01:49:58,761
-Não prenda a respiração. Aspire. Isso.
+NÃ£o prenda a respiraÃ§Ã£o. Aspire. Isso.
 
 1076
 01:49:59,220 --> 01:49:59,929
@@ -4865,21 +4865,21 @@ Bud!
 
 1077
 01:50:00,680 --> 01:50:02,140
-Isto não é normal!
+Isto nÃ£o Ã© normal!
 
 1078
 01:50:02,682 --> 01:50:06,018
-É normal! Vai passar num segundo!
-É perfeitamente normal!
+Ã‰ normal! Vai passar num segundo!
+Ã‰ perfeitamente normal!
 
 1079
 01:50:06,060 --> 01:50:08,688
-- Não é normal.
-- É perfeitamente normal.
+- NÃ£o Ã© normal.
+- Ã‰ perfeitamente normal.
 
 1080
 01:50:08,730 --> 01:50:12,900
-Todos nós respiramos líquidos por nove
+Todos nÃ³s respiramos lÃ­quidos por nove
 meses, Bud. Seu corpo vai se lembrar. Isso.
 
 1081
@@ -4889,20 +4889,20 @@ Isso mesmo.
 1082
 01:50:15,278 --> 01:50:18,281
 - Perfeitamente normal.
-- Cristo! Ele está respirando!
+- Cristo! Ele estÃ¡ respirando!
 
 1083
 01:50:18,322 --> 01:50:19,574
-Me dá isso aí.
+Me dÃ¡ isso aÃ­.
 
 1084
 01:50:21,200 --> 01:50:23,578
-- Está me ouvindo?
-- Lá vai ele.
+- EstÃ¡ me ouvindo?
+- LÃ¡ vai ele.
 
 1085
 01:50:23,619 --> 01:50:25,246
-Sim? Está bem...
+Sim? EstÃ¡ bem...
 
 1086
 01:50:26,831 --> 01:50:28,499
@@ -4910,7 +4910,7 @@ Experimenta o teclado.
 
 1087
 01:50:34,839 --> 01:50:36,007
-É ESQUISITO.
+Ã‰ ESQUISITO.
 
 1088
 01:50:39,010 --> 01:50:40,595
@@ -4918,11 +4918,11 @@ DEVIA EXPERIMENTAR.
 
 1089
 01:50:43,931 --> 01:50:45,266
-Já experimentei.
+JÃ¡ experimentei.
 
 1090
 01:50:49,020 --> 01:50:49,896
-Ótimo.
+Ã“timo.
 
 1091
 01:50:49,937 --> 01:50:50,772
@@ -4930,7 +4930,7 @@ Vamos!
 
 1092
 01:50:57,862 --> 01:51:00,573
-- Hippy, já preparou?
+- Hippy, jÃ¡ preparou?
 - Espera, Jammer.
 
 1093
@@ -4953,33 +4953,33 @@ como o do Big Geek!
 
 1097
 01:51:14,545 --> 01:51:16,631
-Deve levar você direto lá!
+Deve levar vocÃª direto lÃ¡!
 
 1098
 01:51:16,672 --> 01:51:19,092
-Tudo que você tem de fazer é esperar!
+Tudo que vocÃª tem de fazer Ã© esperar!
 
 1099
 01:53:05,990 --> 01:53:08,701
-- Qual é a profundidade dele?
-- 3.200 pés.
+- Qual Ã© a profundidade dele?
+- 3.200 pÃ©s.
 
 1100
 01:53:08,868 --> 01:53:10,870
-A tua profundidade é de 3.200 pés.
+A tua profundidade Ã© de 3.200 pÃ©s.
 
 1101
 01:53:10,912 --> 01:53:14,332
-<i>Você está se saindo bem. Agora,
-cuidado com os destroços do guindaste.</i>
+<i>VocÃª estÃ¡ se saindo bem. Agora,
+cuidado com os destroÃ§os do guindaste.</i>
 
 1102
 01:53:14,374 --> 01:53:16,250
-<i>Você deve estar quase perto.</i>
+<i>VocÃª deve estar quase perto.</i>
 
 1103
 01:53:27,637 --> 01:53:29,347
-4.800 pés. É oficial.
+4.800 pÃ©s. Ã‰ oficial.
 
 1104
 01:53:29,514 --> 01:53:30,264
@@ -4987,13 +4987,13 @@ Sim.
 
 1105
 01:53:31,182 --> 01:53:35,770
-Bud, segundo o Monk, você bateu o récorde
+Bud, segundo o Monk, vocÃª bateu o rÃ©corde
 do mergulho mais profundo com a roupa.
 
 1106
 01:53:35,937 --> 01:53:40,483
-<i>Aposto que você não pensou que faria
-isto quando acordou nesta manhã, hein?</i>
+<i>Aposto que vocÃª nÃ£o pensou que faria
+isto quando acordou nesta manhÃ£, hein?</i>
 
 1107
 01:53:44,487 --> 01:53:45,905
@@ -5005,33 +5005,33 @@ Uma milha abaixo. Ainda sorrindo.
 
 1109
 01:54:06,843 --> 01:54:07,844
-8.500 pés.
+8.500 pÃ©s.
 
 1110
 01:54:10,888 --> 01:54:12,181
-8.500 pés, Bud.
+8.500 pÃ©s, Bud.
 
 1111
 01:54:12,432 --> 01:54:13,683
-<i>Está tudo bem?</i>
+<i>EstÃ¡ tudo bem?</i>
 
 1112
 01:54:16,352 --> 01:54:20,940
-Pergunte sobre os efeitos da pressão.
-Tremores, problemas de visão, euforia.
+Pergunte sobre os efeitos da pressÃ£o.
+Tremores, problemas de visÃ£o, euforia.
 
 1113
 01:54:22,191 --> 01:54:24,861
 O alferes Monk quer
-saber como está se sentido.
+saber como estÃ¡ se sentido.
 
 1114
 01:54:34,078 --> 01:54:35,580
-MÃOS TREMENDO
+MÃƒOS TREMENDO
 
 1115
 01:54:36,456 --> 01:54:39,375
-Está começando.
+EstÃ¡ comeÃ§ando.
 Atinge o sistema nervoso primeiro.
 
 1116
@@ -5040,13 +5040,13 @@ Continue falando. Deixe ele ouvir sua voz.
 
 1117
 01:54:42,086 --> 01:54:44,213
-Está bem, Bud.
-Sua profundidade é de 8.900 pés.
+EstÃ¡ bem, Bud.
+Sua profundidade Ã© de 8.900 pÃ©s.
 
 1118
 01:54:44,255 --> 01:54:46,758
-- Você está indo bem.
-- Não, Lindsey.
+- VocÃª estÃ¡ indo bem.
+- NÃ£o, Lindsey.
 
 1119
 01:54:48,051 --> 01:54:49,635
@@ -5058,15 +5058,15 @@ Bud...
 
 1121
 01:54:59,187 --> 01:55:02,398
-Há umas... umas coisas que preciso dizer.
+HÃ¡ umas... umas coisas que preciso dizer.
 
 1122
 01:55:04,400 --> 01:55:06,194
-É difícil pra mim, sabe.
+Ã‰ difÃ­cil pra mim, sabe.
 
 1123
 01:55:08,029 --> 01:55:10,615
-Não é fácil ser uma cadela de ferro.
+NÃ£o Ã© fÃ¡cil ser uma cadela de ferro.
 
 1124
 01:55:11,115 --> 01:55:13,951
@@ -5074,43 +5074,43 @@ Exige disciplina e anos de treino.
 
 1125
 01:55:15,453 --> 01:55:17,497
-Muita gente não dá valor a isso.
+Muita gente nÃ£o dÃ¡ valor a isso.
 
 1126
 01:55:20,792 --> 01:55:24,379
-<i>Jesus, sinto muito não poder falar
+<i>Jesus, sinto muito nÃ£o poder falar
 estas coisas na sua cara.</i>
 
 1127
 01:55:24,921 --> 01:55:27,840
-Tenho que esperar até
-você estar sozinho no escuro,...
+Tenho que esperar atÃ©
+vocÃª estar sozinho no escuro,...
 
 1128
 01:55:28,257 --> 01:55:31,010
-se congelando e há 10.000 pés de
-água entre nós dois.
+se congelando e hÃ¡ 10.000 pÃ©s de
+Ã¡gua entre nÃ³s dois.
 
 1129
 01:55:31,719 --> 01:55:33,971
-Está chegando na dezena de milhar.
+EstÃ¡ chegando na dezena de milhar.
 
 1130
 01:55:41,312 --> 01:55:42,855
-12.000 pés. Meu Deus!
+12.000 pÃ©s. Meu Deus!
 
 1131
 01:55:42,897 --> 01:55:45,441
-- Não acredito que ele esteja fazendo isto!
+- NÃ£o acredito que ele esteja fazendo isto!
 - Hippy!
 
 1132
 01:55:45,483 --> 01:55:47,693
-Cale a boca! Qual o problema com você?
+Cale a boca! Qual o problema com vocÃª?
 
 1133
 01:55:51,531 --> 01:55:53,199
-Bud, como você está passando?
+Bud, como vocÃª estÃ¡ passando?
 
 1134
 01:55:59,664 --> 01:56:00,415
@@ -5122,42 +5122,42 @@ SLF; JAQ SFDJS
 
 1136
 01:56:03,459 --> 01:56:04,877
-Ele está desorientado.
+Ele estÃ¡ desorientado.
 
 1137
 01:56:04,919 --> 01:56:08,673
 - Converse com ele. Mantenha ele
-com a gente. - Chegando a 16.000 pés.
+com a gente. - Chegando a 16.000 pÃ©s.
 
 1138
 01:56:08,715 --> 01:56:10,883
-Não, Bud, é a pressão, está bem?
+NÃ£o, Bud, Ã© a pressÃ£o, estÃ¡ bem?
 
 1139
 01:56:10,925 --> 01:56:13,594
-Você tem que ouvir minha voz.
-Você tem que tentar.
+VocÃª tem que ouvir minha voz.
+VocÃª tem que tentar.
 
 1140
 01:56:13,636 --> 01:56:17,390
-<i>Se concentre, está bem?
-Ouça a minha voz. Por favor.</i>
+<i>Se concentre, estÃ¡ bem?
+OuÃ§a a minha voz. Por favor.</i>
 
 1141
 01:56:18,182 --> 01:56:19,434
-17.000 pés.
+17.000 pÃ©s.
 
 1142
 01:56:20,435 --> 01:56:22,979
-Cristo, isto é loucura.
+Cristo, isto Ã© loucura.
 
 1143
 01:56:23,229 --> 01:56:25,314
-Bud? Não estou conseguindo contato algum!
+Bud? NÃ£o estou conseguindo contato algum!
 
 1144
 01:56:31,362 --> 01:56:33,322
-- Oh! Vamos! Não!
+- Oh! Vamos! NÃ£o!
 - O que?
 
 1145
@@ -5180,12 +5180,12 @@ Sei como se sente sozinho..
 1149
 01:57:40,807 --> 01:57:44,018
 Sozinho em toda essa...
-escuridão... fria.
+escuridÃ£o... fria.
 
 1150
 01:57:48,147 --> 01:57:52,360
-<i>Mas mesmo no escuro estou com você.
-Oh, Bud. Você não está sozinho não.</i>
+<i>Mas mesmo no escuro estou com vocÃª.
+Oh, Bud. VocÃª nÃ£o estÃ¡ sozinho nÃ£o.</i>
 
 1151
 01:57:57,323 --> 01:57:58,574
@@ -5198,11 +5198,11 @@ Prometo isso.
 
 1153
 01:58:16,342 --> 01:58:17,760
-Como está indo, sócio?
+Como estÃ¡ indo, sÃ³cio?
 
 1154
 01:58:19,470 --> 01:58:21,347
-Ainda está conosco? Volte.
+Ainda estÃ¡ conosco? Volte.
 
 1155
 01:58:22,765 --> 01:58:24,767
@@ -5220,15 +5220,15 @@ Fala comigo, Bud.
 1158
 01:58:29,021 --> 01:58:31,607
 Agora, vai.
-Está aguentando aí?
+EstÃ¡ aguentando aÃ­?
 
 1159
 01:58:31,816 --> 01:58:34,318
-Você tem que falar comigo, Bud! Por favor!
+VocÃª tem que falar comigo, Bud! Por favor!
 
 1160
 01:58:34,861 --> 01:58:36,946
-Preciso saber se você está bem.
+Preciso saber se vocÃª estÃ¡ bem.
 
 1161
 01:58:39,615 --> 01:58:43,286
@@ -5236,12 +5236,12 @@ SINTO-ME MELHOR.
 
 1162
 01:58:47,915 --> 01:58:51,419
-ALGUMA LUZ LÁ...
+ALGUMA LUZ LÃ...
 
 1163
 01:58:51,461 --> 01:58:53,796
 ...EM BAIXO
-- você... você vê luz?
+- vocÃª... vocÃª vÃª luz?
 
 1164
 01:58:53,880 --> 01:58:55,506
@@ -5253,7 +5253,7 @@ LUZ POR TODO O LADO.
 
 1166
 01:58:57,633 --> 01:58:59,218
-Está muito alucinado.
+EstÃ¡ muito alucinado.
 
 1167
 01:59:21,824 --> 01:59:22,784
@@ -5266,7 +5266,7 @@ POUSANDO
 
 1169
 01:59:28,456 --> 01:59:29,707
-Está bem, Bud.
+EstÃ¡ bem, Bud.
 
 1170
 01:59:29,999 --> 01:59:31,793
@@ -5274,12 +5274,12 @@ Vamos passo a passo.
 
 1171
 01:59:32,335 --> 01:59:36,255
-<i>Retira o invólucro do detonador
+<i>Retira o invÃ³lucro do detonador
 desenroscando-o no sentido...</i>
 
 1172
 01:59:36,297 --> 01:59:38,591
-contrário aos ponteiros do relógio.
+contrÃ¡rio aos ponteiros do relÃ³gio.
 
 1173
 02:00:07,704 --> 02:00:08,913
@@ -5287,20 +5287,20 @@ DESENROSCADO.
 
 1174
 02:00:09,080 --> 02:00:10,289
-<i>Está bem, Bud.</i>
+<i>EstÃ¡ bem, Bud.</i>
 
 1175
 02:00:11,165 --> 02:00:12,291
-<i>Você tem que cortar...</i>
+<i>VocÃª tem que cortar...</i>
 
 1176
 02:00:12,333 --> 02:00:14,877
 o fio terra.
-Não o fio principal.
+NÃ£o o fio principal.
 
 1177
 02:00:15,878 --> 02:00:18,172
-É o fio azul com uma risca branca.
+Ã‰ o fio azul com uma risca branca.
 
 1178
 02:00:19,340 --> 02:00:20,675
@@ -5308,7 +5308,7 @@ Não o fio principal.
 
 1179
 02:00:20,717 --> 02:00:23,469
-<i>não é o fio preto
+<i>nÃ£o Ã© o fio preto
 com a risca amarela.</i>
 
 1180
@@ -5325,8 +5325,8 @@ Quieto! Economize seu ar.
 
 1183
 02:01:23,362 --> 02:01:26,574
-Bud, me dá uma leitura
-do manômetro de oxigênio líquido.
+Bud, me dÃ¡ uma leitura
+do manÃ´metro de oxigÃªnio lÃ­quido.
 
 1184
 02:01:35,208 --> 02:01:36,167
@@ -5334,8 +5334,8 @@ UNS 5 MIN
 
 1185
 02:01:36,209 --> 02:01:39,587
-- Ele levou 30 minutos pra chegar lá!
-- Bud! Está me ouvindo?
+- Ele levou 30 minutos pra chegar lÃ¡!
+- Bud! EstÃ¡ me ouvindo?
 
 1186
 02:01:39,629 --> 02:01:42,006
@@ -5343,17 +5343,17 @@ Solte os pesos e comece a voltar agora!
 
 1187
 02:01:42,048 --> 02:01:45,134
-<i>O manômetro pode estar errado.
-Está me ouvindo?</i>
+<i>O manÃ´metro pode estar errado.
+EstÃ¡ me ouvindo?</i>
 
 1188
 02:01:45,176 --> 02:01:49,514
 <i>Solte os pesos e comece a voltar agora!
-Seu manômetro pode estar errado!</i>
+Seu manÃ´metro pode estar errado!</i>
 
 1189
 02:01:49,555 --> 02:01:53,851
-<i>Seu manômetro pode estar errado!
+<i>Seu manÃ´metro pode estar errado!
 Solte os pesos e comece a voltar agora!</i>
 
 1190
@@ -5362,20 +5362,20 @@ VOU FICAR UM POUCO MAIS
 
 1191
 02:01:57,605 --> 02:02:02,610
-Não fique aí não. Solte os pesos. Você pode
-respirar artificialmente! Está ouvindo?
+NÃ£o fique aÃ­ nÃ£o. Solte os pesos. VocÃª pode
+respirar artificialmente! EstÃ¡ ouvindo?
 
 1192
 02:02:02,985 --> 02:02:05,988
-Bud, Por favor, ouça! Por favor! Diabo!
+Bud, Por favor, ouÃ§a! Por favor! Diabo!
 
 1193
 02:02:06,030 --> 02:02:08,533
-Você me arrastou do poço sem fundo!
+VocÃª me arrastou do poÃ§o sem fundo!
 
 1194
 02:02:08,574 --> 02:02:11,744
-Você não pode me deixar sozinha agora.
+VocÃª nÃ£o pode me deixar sozinha agora.
 Por favor!
 
 1195
@@ -5388,12 +5388,12 @@ Oh, Deus, Virgil! Por favor!
 
 1197
 02:02:23,631 --> 02:02:25,508
-NÃO CHORE, QUERIDA.
+NÃƒO CHORE, QUERIDA.
 
 1198
 02:02:29,679 --> 02:02:32,098
 EU SABIA QUE ESTE
-BILHETE ERA SÓ DE IDA.
+BILHETE ERA SÃ“ DE IDA.
 
 1199
 02:02:35,893 --> 02:02:37,603
@@ -5401,7 +5401,7 @@ EU TINHA QUE VIR.
 
 1200
 02:02:53,745 --> 02:02:55,163
-AMO VOCÊ, ESPOSA.
+AMO VOCÃŠ, ESPOSA.
 
 1201
 02:02:57,582 --> 02:02:58,499
@@ -5409,11 +5409,11 @@ Eu te amo.
 
 1202
 02:08:05,598 --> 02:08:06,307
-Olá.
+OlÃ¡.
 
 1203
 02:08:09,310 --> 02:08:10,728
-Como têm passado?
+Como tÃªm passado?
 
 1204
 02:08:20,363 --> 02:08:21,823
@@ -5421,31 +5421,31 @@ Como têm passado?
 
 1205
 02:08:25,993 --> 02:08:30,456
-<i>EU SABIA QUE ERA UM BILHETE SÓ DE IDA.
+<i>EU SABIA QUE ERA UM BILHETE SÃ“ DE IDA.
 EU TINHA QUE VIR.</i>
 
 1206
 02:08:41,843 --> 02:08:43,344
-<i>AMO VOCÊ, ESPOSA.</i>
+<i>AMO VOCÃŠ, ESPOSA.</i>
 
 1207
 02:09:29,682 --> 02:09:33,019
-<i>Deepcore, está me recebendo?
-Aqui é da Benthic Explorer. Câmbio.</i>
+<i>Deepcore, estÃ¡ me recebendo?
+Aqui Ã© da Benthic Explorer. CÃ¢mbio.</i>
 
 1208
 02:09:33,061 --> 02:09:34,812
-Está me recebendo, Deepcore?
+EstÃ¡ me recebendo, Deepcore?
 
 1209
 02:09:41,360 --> 02:09:44,947
-<i>Deepcore, está me recebendo?
-Aqui é da Benthic Explorer. Câmbio.</i>
+<i>Deepcore, estÃ¡ me recebendo?
+Aqui Ã© da Benthic Explorer. CÃ¢mbio.</i>
 
 1210
 02:09:47,075 --> 02:09:49,410
 Sim, recebemos!
-Que bom ouvir voçês!
+Que bom ouvir voÃ§Ãªs!
 
 1211
 02:09:49,452 --> 02:09:51,788
@@ -5453,13 +5453,13 @@ Recebendo, Deepcore. Ei, contato feito!
 
 1212
 02:09:52,163 --> 02:09:56,542
-<i>- Como vai a tempestade aí em cima?
+<i>- Como vai a tempestade aÃ­ em cima?
 - Simplesmente passou de repente.</i>
 
 1213
 02:09:57,168 --> 02:10:01,089
 Bem, filho.
-Melhor Iançarem um cabo pra nós.
+Melhor IanÃ§arem um cabo pra nÃ³s.
 
 1214
 02:10:01,672 --> 02:10:04,592
@@ -5468,16 +5468,16 @@ Perdemos sete pessoas, inclusive o Bud.
 
 1215
 02:10:04,675 --> 02:10:08,513
-E estamos com falta de oxigênio,
-seja lá o que vão fazer...
+E estamos com falta de oxigÃªnio,
+seja lÃ¡ o que vÃ£o fazer...
 
 1216
 02:10:10,348 --> 02:10:13,142
-<i>Já se decidiram como nos tirar daqui?</i>
+<i>JÃ¡ se decidiram como nos tirar daqui?</i>
 
 1217
 02:10:13,184 --> 02:10:15,853
-Vão enviar um submersível
+VÃ£o enviar um submersÃ­vel
 da base de Norfolk.
 
 1218
@@ -5486,8 +5486,8 @@ VIRGIL BRIGMAN.
 
 1219
 02:10:23,694 --> 02:10:26,280
-- É o Bud!
-- Isso é impossível.
+- Ã‰ o Bud!
+- Isso Ã© impossÃ­vel.
 
 1220
 02:10:26,322 --> 02:10:27,865
@@ -5495,8 +5495,8 @@ DE VOLTA AO AR
 
 1221
 02:10:28,866 --> 02:10:31,494
-- Não, não é.
-- Está ouvindo, Deepcore?
+- NÃ£o, nÃ£o Ã©.
+- EstÃ¡ ouvindo, Deepcore?
 
 1222
 02:10:31,536 --> 02:10:32,245
@@ -5510,7 +5510,7 @@ Temos uma mensagem do Bud.
 1224
 02:10:37,083 --> 02:10:39,293
 - Bud?
-- O que é que diz?
+- O que Ã© que diz?
 
 1225
 02:10:40,753 --> 02:10:41,504
@@ -5518,7 +5518,7 @@ Aqui.
 
 1226
 02:10:44,132 --> 02:10:47,093
-Diz "Virgil Brigman está de volta ao ar. "
+Diz "Virgil Brigman estÃ¡ de volta ao ar. "
 
 1227
 02:10:57,478 --> 02:11:00,106
@@ -5530,11 +5530,11 @@ ACALMEM-SE
 
 1229
 02:11:04,485 --> 02:11:06,070
-VOCÊS VÃO ADORAR ISTO
+VOCÃŠS VÃƒO ADORAR ISTO
 
 1230
 02:11:09,907 --> 02:11:11,701
-O que está havendo?
+O que estÃ¡ havendo?
 
 1231
 02:11:11,743 --> 02:11:13,745
@@ -5551,32 +5551,32 @@ Estou obtendo umas leituras imensas.
 
 1234
 02:11:21,127 --> 02:11:23,629
-- Alguma coisa está subindo pelo precipício!
-- O que é?
+- Alguma coisa estÃ¡ subindo pelo precipÃ­cio!
+- O que Ã©?
 
 1235
 02:11:23,671 --> 02:11:25,715
-O que quer que seja, é enorme!
+O que quer que seja, Ã© enorme!
 
 1236
 02:11:46,027 --> 02:11:49,197
-Alguma coisa está definitivamente
-acontecendo lá embaixo.
+Alguma coisa estÃ¡ definitivamente
+acontecendo lÃ¡ embaixo.
 
 1237
 02:11:50,031 --> 02:11:53,201
-O sonar ativo está localizando
-uma coisa imensa. É imenso!
+O sonar ativo estÃ¡ localizando
+uma coisa imensa. Ã‰ imenso!
 
 1238
 02:11:53,253 --> 02:11:55,901
-- Está vindo por baixo de nós.
+- EstÃ¡ vindo por baixo de nÃ³s.
 - Onde?
 
 1239
 02:11:55,953 --> 02:11:59,290
-Onde? Está em toda a parte!
-Ali! À proa, a estibordo!
+Onde? EstÃ¡ em toda a parte!
+Ali! Ã€ proa, a estibordo!
 
 1240
 02:13:22,331 --> 02:13:24,125
@@ -5588,12 +5588,12 @@ Me ajuda, Cat!
 
 1242
 02:14:07,001 --> 02:14:10,254
-Devíamos estar mortos.
-Não fizemos a descompressão.
+DevÃ­amos estar mortos.
+NÃ£o fizemos a descompressÃ£o.
 
 1243
 02:14:13,216 --> 02:14:15,426
-Devem ter feito alguma coisa em nós.
+Devem ter feito alguma coisa em nÃ³s.
 
 1244
 02:14:17,303 --> 02:14:18,513
@@ -5601,7 +5601,7 @@ Sim, fizeram.
 
 1245
 02:14:19,722 --> 02:14:21,891
-É, acho que você poderia dizer isto.
+Ã‰, acho que vocÃª poderia dizer isto.
 
 1246
 02:15:11,399 --> 02:15:12,608
