@@ -185,7 +185,7 @@ Enfrentam a tempestade.
 42
 00:09:09,174 --> 00:09:12,970
 Mas esta tempestade é diferente.
-Esta éa SS.
+Esta é a SS.
 
 43
 00:09:46,170 --> 00:09:47,671
@@ -282,7 +282,7 @@ Procuro ltzhak Stern.
 
 64
 00:12:02,014 --> 00:12:04,141
-Você é Iltzhak Stern, ou não?
+Você é Itzhak Stern, ou não?
 
 65
 00:12:05,267 --> 00:12:07,686
@@ -944,7 +944,7 @@ num caminhão e...
 211
 00:25:07,799 --> 00:25:09,842
 - Não, não.
-- E músico?
+- É músico?
 
 212
 00:25:09,926 --> 00:25:12,428
@@ -1644,7 +1644,7 @@ Prometa, Oskar...
 368
 00:38:54,333 --> 00:38:56,710
 que nenhum porteiro
-ou maítre pense...
+ou maître pense...
 
 369
 00:38:56,793 --> 00:38:59,588
@@ -2128,7 +2128,7 @@ O que me cansa
 476
 00:50:06,462 --> 00:50:09,424
 O muro barra os nazistas.
-E o que importa.
+É o que importa.
 
 477
 00:50:09,507 --> 00:50:12,719
@@ -2265,7 +2265,7 @@ Chama de vila?
 506
 00:51:42,225 --> 00:51:45,311
 - Vai ser um estábulo.
-- E uma casa.
+- É uma casa.
 
 507
 00:51:46,062 --> 00:51:48,022
@@ -3172,7 +3172,7 @@ Mantêm distância.
 712
 01:24:08,628 --> 01:24:10,546
 Na minha agenda tem
-OS aniversários...
+os aniversários...
 
 713
 01:24:10,630 --> 01:24:13,966
@@ -4963,7 +4963,7 @@ As judias enfeitiçam a gente.
 1119
 02:12:42,705 --> 02:12:46,793
 Vê isso quando se trabalha
-com elas. E como um vírus.
+com elas. É como um vírus.
 
 1120
 02:12:46,876 --> 02:12:50,130
@@ -5463,7 +5463,7 @@ Pagando por cada um deles?
 1229
 02:24:14,438 --> 02:24:19,401
 Se ainda trabalhasse para mim,
-não me deixaria. E uma fortuna.
+não me deixaria. É uma fortuna.
 
 1230
 02:24:21,821 --> 02:24:24,573
@@ -5614,7 +5614,7 @@ Henry, Manci...
 
 1263
 02:26:56,850 --> 02:26:57,893
-eleo.
+e Leo.
 
 1264
 02:26:57,977 --> 02:26:59,603
@@ -5980,7 +5980,7 @@ no interior dos cartuchos.
 1345
 02:43:10,114 --> 02:43:13,493
 Como eu posso polir o interior
-de um cartucho de 49Dmm?
+de um cartucho de 45mm?
 
 1346
 02:43:13,576 --> 02:43:16,204
@@ -6068,7 +6068,7 @@ Nenhum porteiro...
 
 1365
 02:46:48,666 --> 02:46:52,044
-ou maíitre
+ou maître
 vai confundi-la outra vez.
 
 1366
@@ -6077,7 +6077,7 @@ Prometo.
 
 1367
 02:47:01,637 --> 02:47:03,598
-Iltzchak Stern, meu contador.
+Itzhak Stern, meu contador.
 
 1368
 02:47:03,681 --> 02:47:06,434
