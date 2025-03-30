@@ -4665,7 +4665,7 @@ are trying to do, don't you?
 
 1031
 01:01:29,874 --> 01:01:32,374
-They are tr yin' to get in there.
+They are tryin' to get in there.
 
 1032
 01:01:32,541 --> 01:01:34,999
